@@ -1,0 +1,3244 @@
+{
+  "schemaVersion": 1,
+  "voice": {
+    "id": "microsoft-xiaoxiao-neural-normal",
+    "name": "晓晓",
+    "engine": "Microsoft Edge Online TTS",
+    "speaker": "zh-CN-XiaoxiaoNeural",
+    "synthesisRate": "+0%",
+    "playbackRate": 1,
+    "pitch": "+0Hz",
+    "volume": "+0%"
+  },
+  "fallback": {
+    "lang": "zh-CN",
+    "rate": 1,
+    "preferredVoices": [
+      "Xiaoxiao"
+    ],
+    "enabled": false
+  },
+  "generatedAt": "2026-10-19T07:39:01.740Z",
+  "entries": {
+    "识字。认得每一个基础的汉字与标点符号。例如：认得代码里的最小单位（系统字、名字、符号）": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-96aa397eba8daa9fe9c10853.mp3",
+      "spokenText": "识字。认得每一个基础的汉字与标点符号。例如：认得代码里的最小单位（系统字、名字、符号）",
+      "sha256": "0e76a38630c07301d885521f66c966f4c9b160f6ed2557ae6af3a7c5c25d832a",
+      "duration": 10.224
+    },
+    "组词。将汉字进行组合，组成有意义的词语。例如：用最小单元组成能表达小功能的短语（词组）": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-7b50c5109ecb51c3a7da375e.mp3",
+      "spokenText": "组词。将汉字进行组合，组成有意义的词语。例如：用最小单元组成能表达小功能的短语（词组）",
+      "sha256": "89def4139df0c470529b52b41df36dc478a2ff17ec39a83365f88ea89c71a515",
+      "duration": 10.416
+    },
+    "造句。将词语按语法规则组合成完整的句子。例如：用最小单元组成短语，写出一句完整的代码": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-cdfdfabb88e89166aaf1d096.mp3",
+      "spokenText": "造句。将词语按语法规则组合成完整的句子。例如：用最小单元组成短语，写出一句完整的代码",
+      "sha256": "50d102fb8025589f22acae21a9e98c432c64423227e13fdd8b9c3aadbd6942d6",
+      "duration": 10.248
+    },
+    "写作。用句子组成段落，用段落组成文章。例如：把多个功能段落组合起来，完成一个完整任务": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-a3da3bb35be6ad5de6ebafcf.mp3",
+      "spokenText": "写作。用句子组成段落，用段落组成文章。例如：把多个功能段落组合起来，完成一个完整任务",
+      "sha256": "7405745c5b265bbca66f7486b58cd63de03a464c92f3d392401333f6347d7bc6",
+      "duration": 9.864
+    },
+    "不对哦～if 不是数据，它是一个判断指令。数据是像数字、文字这样可以修改的内容。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-ca82e671210117d461b1a003.mp3",
+      "spokenText": "不对哦～if 不是数据，它是一个判断指令。数据是像数字、文字这样可以修改的内容。",
+      "sha256": "6d65b6214e3971570f387dbee9f3585f95b1d6c9eb0abb36f0a42b84c49d454d",
+      "duration": 8.592
+    },
+    "不对哦～if 不是运算符号，它是用来做条件判断的关键字。像 + - * / 才是运算符号。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-222f53a6716bf29e73cff368.mp3",
+      "spokenText": "不对哦～if 不是运算符号，它是用来做条件判断的关键字。像 + - * / 才是运算符号。",
+      "sha256": "01eaa48b5e63b572a186b251bada68b2e052fda4244ca9d1591b6f5a15c32fc7",
+      "duration": 8.928
+    },
+    "if，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-1bb5db5724dba1b9708e9584.mp3",
+      "spokenText": "if，是系统定义",
+      "sha256": "8ae7c2dafba601f74d6c8ef56a38c1545315c9eb1432ad378b2d782e62eb7b41",
+      "duration": 2.328
+    },
+    "不对哦～判断相等要用两个等号 ==，单个等号 = 是赋值的意思。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-46f707cff7eb1beb6e466ab8.mp3",
+      "spokenText": "不对哦～判断相等要用两个等号 ==，单个等号 = 是赋值的意思。",
+      "sha256": "d5b02964d04d37741a63b61ce3a221dbd0bd6155d4ab1be70e52c3b4b931037b",
+      "duration": 6.384
+    },
+    "正确！单个等号 = 是赋值符号，意思是\"把右边的值放进左边的盒子里\"。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-271d804ce8e2c78e66266095.mp3",
+      "spokenText": "正确！单个等号 = 是赋值符号，意思是\"把右边的值放进左边的盒子里\"。",
+      "sha256": "8bb6525278401ed200501f9b157c3480e4e37d90917090075a0c693e7bc60792",
+      "duration": 7.248
+    },
+    "不对哦～不等于是 !=，单个等号 = 表示赋值操作。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-35149ea1a7fd62469cc486ac.mp3",
+      "spokenText": "不对哦～不等于是 !=，单个等号 = 表示赋值操作。",
+      "sha256": "498b5f4d950dcbb5065171d7e65a84fc23c7b881effa8ee7e82f5cca11810fdf",
+      "duration": 5.064
+    },
+    "=，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-71324f555168997bc702aabc.mp3",
+      "spokenText": "=，是操作符号",
+      "sha256": "49ddc1f6e6070356a2b48001cd0dd5379b8b2c376815813f126a92b942eb4d9d",
+      "duration": 2.4
+    },
+    "不对哦～判断条件用的是 if，for 是用来做循环的。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-cfe59f2f8a6fa7fa9a3efe11.mp3",
+      "spokenText": "不对哦～判断条件用的是 if，for 是用来做循环的。",
+      "sha256": "0c6d840b084f9885c5c6a526b1d49ba603890d0425e4c32b309ee5cba50bb9cd",
+      "duration": 5.016
+    },
+    "for，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-e696ed9e077b488b598c282e.mp3",
+      "spokenText": "for，是系统定义",
+      "sha256": "b17f82e7b5b9ebdb54d801241ac4f5af3c0ef19cae5aafa7577cea48d7baeae7",
+      "duration": 2.376
+    },
+    " 这是注释，是注释": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-ff63adca999b2082113ddaec.mp3",
+      "spokenText": " 这是注释，是注释",
+      "sha256": "ca6b5a142fd0e8e835d9dbaf45f8ce96b051d5e18b7656a7c110349bd8a42e72",
+      "duration": 2.52
+    },
+    "正确！if 就是\"如果\"的意思，用来做条件判断。如果条件成立，就执行下面的代码。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-f423f0119d22af8dc29f6474.mp3",
+      "spokenText": "正确！if 就是\"如果\"的意思，用来做条件判断。如果条件成立，就执行下面的代码。",
+      "sha256": "6ac6f8857163e540a9f4316faa36f42f4fc6bdcd693fc1f29913a00b359b22f2",
+      "duration": 8.616
+    },
+    "不对哦～循环用的是 for 或 while，if 是用来做条件判断的。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-fb945a282a086b58a1206ff2.mp3",
+      "spokenText": "不对哦～循环用的是 for 或 while，if 是用来做条件判断的。",
+      "sha256": "7814d6d8d612036a38fadf8067de90211921ba2f5c634c28c2f5b5d031b72782",
+      "duration": 5.688
+    },
+    "不对哦～开始循环用 for 或 while，else 是配合 if 使用的\"否则\"分支。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-089c3f147fe381c0b966fe7a.mp3",
+      "spokenText": "不对哦～开始循环用 for 或 while，else 是配合 if 使用的\"否则\"分支。",
+      "sha256": "e6eac0a165d95726c549aa004aaddb9f9c98ba04413a9d64e549c6e9b0a06899",
+      "duration": 6.312
+    },
+    "正确！else 的意思是\"否则\"，当 if 的条件不满足时，就会执行 else 下面的代码。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-1e9d36ec2a865082521a8d47.mp3",
+      "spokenText": "正确！else 的意思是\"否则\"，当 if 的条件不满足时，就会执行 else 下面的代码。",
+      "sha256": "b13c6302e81afe602215e36d7f9cf8e54ababc4eb2a77acd73d574ae9b51399b",
+      "duration": 8.064
+    },
+    "else，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-28dbc9946d69c83902a76379.mp3",
+      "spokenText": "else，是系统定义",
+      "sha256": "20853f4e63dcad188363212a5ac967e2fd8619bc4c919be67a7b1b1e207763f4",
+      "duration": 2.424
+    },
+    "return，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-06f99cf8698c6c4cba27fd94.mp3",
+      "spokenText": "return，是系统定义",
+      "sha256": "a425eb56ea1b65d7575b073afa61112e588d9135c93dba9f78f2f62e67975bdc",
+      "duration": 2.496
+    },
+    "(，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-3136bef5b9a2ca9405da29ac.mp3",
+      "spokenText": "(，是操作符号",
+      "sha256": "26abc93fc0c4517c8c4cd6d78f0eadd9edd9ae2a2a7c147902c16f062b2e25af",
+      "duration": 1.896
+    },
+    ")，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-4b64273d22f7d1ba5e33c470.mp3",
+      "spokenText": ")，是操作符号",
+      "sha256": "26abc93fc0c4517c8c4cd6d78f0eadd9edd9ae2a2a7c147902c16f062b2e25af",
+      "duration": 1.896
+    },
+    "1，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-b68045f0154dcd55db8e5c88.mp3",
+      "spokenText": "1，是文本内容",
+      "sha256": "b4e2946b63ece3aa6111ae3de19ce5217e40616febdb0f28b0b982fd9e5b0fd6",
+      "duration": 2.232
+    },
+    "num2，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-5455041b3fe08808c0eecfcf.mp3",
+      "spokenText": "num2，是文本内容",
+      "sha256": "3b67fe481bb71555e6c1bb68b6787fba2bf2ffbbf4978baa90cec0adfab9bdc6",
+      "duration": 2.568
+    },
+    "60，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-f368b025ab78e481dfb1afd2.mp3",
+      "spokenText": "60，是文本内容",
+      "sha256": "b601b23004bed6cc52f5a0c6206b463eb8e1720284fc8786e6b9343bb2a1a5a1",
+      "duration": 2.424
+    },
+    "greeting，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-a778a7aac794ac1a5e5d79bc.mp3",
+      "spokenText": "greeting，是文本内容",
+      "sha256": "d41cee6d6f9482567ae015d56a13ea4db08a08e10022432f6a39b2868e87ab33",
+      "duration": 2.448
+    },
+    "3，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-f5e76496d0039a888c0d6514.mp3",
+      "spokenText": "3，是文本内容",
+      "sha256": "5b48bb36a170918c68d5751c021dbe961dbfd9821c4615e07470b909875997cc",
+      "duration": 2.28
+    },
+    "100，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-0beb27752fd8ac28ca90b121.mp3",
+      "spokenText": "100，是文本内容",
+      "sha256": "eda94cc9d3f02ac7c1b0e4292acc024e070d202718850ce6327effa218c684ed",
+      "duration": 2.328
+    },
+    "fruits，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-31deaa3a5fb9d34eeacebc26.mp3",
+      "spokenText": "fruits，是文本内容",
+      "sha256": "8bee7c20331aa7005916c39941f4baf1a1ac2b7c4e34abdcf2d84b41f86a751c",
+      "duration": 2.424
+    },
+    "[，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-b2b4e5cc66f6ba573ad006ba.mp3",
+      "spokenText": "[，是操作符号",
+      "sha256": "26abc93fc0c4517c8c4cd6d78f0eadd9edd9ae2a2a7c147902c16f062b2e25af",
+      "duration": 1.896
+    },
+    "0，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-521db1662699f2e93145e181.mp3",
+      "spokenText": "0，是文本内容",
+      "sha256": "2048a7ea79cca638d3949395a80e3ca1472848dce3ceb1c0d11f02ea452969ca",
+      "duration": 2.232
+    },
+    "]，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-eb9c428416b69d798e0e66c2.mp3",
+      "spokenText": "]，是操作符号",
+      "sha256": "26abc93fc0c4517c8c4cd6d78f0eadd9edd9ae2a2a7c147902c16f062b2e25af",
+      "duration": 1.896
+    },
+    "data，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-7297db5271669cd7a07baf5c.mp3",
+      "spokenText": "data，是文本内容",
+      "sha256": "13eade1547f294ce7383f6df4b27e07e56c241d52f89ae5143a78ec8a351ba3f",
+      "duration": 2.352
+    },
+    "student，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-adf985bf08deb156f3a27126.mp3",
+      "spokenText": "student，是文本内容",
+      "sha256": "a6c22e455363c10474087d717b705ab1ed0bc6c25ab94e31ad15242a78660e1d",
+      "duration": 2.544
+    },
+    ".，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-058a5880294f4ac8a41c67ab.mp3",
+      "spokenText": ".，是操作符号",
+      "sha256": "f97ef5590b38026dff9974606801434675b789e22d294b2ad6902d52eca2ce70",
+      "duration": 1.896
+    },
+    "name，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-29f1347e00fb5d860b1cd768.mp3",
+      "spokenText": "name，是文本内容",
+      "sha256": "0e9b21be86f0b90acacceea0bf79a5bfc303f882d755ce06748e41a1d2ca1076",
+      "duration": 2.28
+    },
+    "to_upper，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-a18d1928e438a3ea5ea4645f.mp3",
+      "spokenText": "to_upper，是文本内容",
+      "sha256": "9cec547d76fe7e03d038bd707e894506e7762ba235b40842620a44dd33afd468",
+      "duration": 3.312
+    },
+    "text，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-fc6b64cff9dd446df74477b8.mp3",
+      "spokenText": "text，是文本内容",
+      "sha256": "dd5336d1e706241a53901e89b82b3032a08b25eba3faa0fe362a514cee4b79e9",
+      "duration": 2.424
+    },
+    "nums，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-2dd231959dcd3ccb61e80cad.mp3",
+      "spokenText": "nums，是文本内容",
+      "sha256": "7cc38f1a52fe483306e93d0b175c4e2d853ee65d5794268dd1c987ac48453643",
+      "duration": 2.376
+    },
+    "4，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-4502f7d8256181a7b11f30c2.mp3",
+      "spokenText": "4，是文本内容",
+      "sha256": "29717acb1c674d992208e1562600eb628319397c2faed51068ce52b737d00001",
+      "duration": 2.28
+    },
+    "123，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-fbbd4fada0baff9272ded91a.mp3",
+      "spokenText": "123，是文本内容",
+      "sha256": "ef79433a1564d3a271e97d956ded77d5834f4df188ae9f9f8a81ebc6f49ed79d",
+      "duration": 2.832
+    },
+    "{，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-44d6f714ea9f2b83e43dd505.mp3",
+      "spokenText": "{，是操作符号",
+      "sha256": "f97ef5590b38026dff9974606801434675b789e22d294b2ad6902d52eca2ce70",
+      "duration": 1.896
+    },
+    "\"苹果\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-96cad601acaaf43145aae4a4.mp3",
+      "spokenText": "\"苹果\"，是文本内容",
+      "sha256": "953573c035274d52629422764bc2c623229f195cabaaf6bbdeecc995719f3f1a",
+      "duration": 2.424
+    },
+    "\"香蕉\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-c7fc80967733ccf335b10461.mp3",
+      "spokenText": "\"香蕉\"，是文本内容",
+      "sha256": "bc71fa4d349833861be1129c5b451670d6285f28307812dbae8f7869638c7e2e",
+      "duration": 2.496
+    },
+    "\"橘子\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-60bac1d5cd858e8ac4f6083e.mp3",
+      "spokenText": "\"橘子\"，是文本内容",
+      "sha256": "474d6dc617067421934a2d64c326c01cc8955dc483cda2f500336a8ad16d8f30",
+      "duration": 2.424
+    },
+    "}，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-31a689ac20aad1941192f4a5.mp3",
+      "spokenText": "}，是操作符号",
+      "sha256": "f97ef5590b38026dff9974606801434675b789e22d294b2ad6902d52eca2ce70",
+      "duration": 1.896
+    },
+    "\"小明\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-82a3e507ec681c218c6741df.mp3",
+      "spokenText": "\"小明\"，是文本内容",
+      "sha256": "434c5c0c8a415eda49e3c9f18df0b0038e10631bda22b394c8e2cd0bd85141e8",
+      "duration": 2.424
+    },
+    "1000，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-bba489b815971601025be557.mp3",
+      "spokenText": "1000，是文本内容",
+      "sha256": "30eb22685f90db7caffbb9cdc6ae8a07b815765a4784aed1d911c66c2bb5eb86",
+      "duration": 2.448
+    },
+    "is_done，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-b7a6cfd7534339b68234699a.mp3",
+      "spokenText": "is_done，是文本内容",
+      "sha256": "95b62a6f25ea82c3a6023839a42b3bbb6af7bcc76b1731cb1c2b715177b7ca17",
+      "duration": 3.12
+    },
+    "\"重修\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-bd4799302e35cf2616752345.mp3",
+      "spokenText": "\"重修\"，是文本内容",
+      "sha256": "494f5b58e9805147824a9e104e5ac4f19fd3e1612352c8e8edceed030aa00894",
+      "duration": 2.448
+    },
+    "不对哦～数学里的相等用两个等号 ==，单个 = 在编程中是赋值的意思。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-5426de25df75e6e8aa4639ef.mp3",
+      "spokenText": "不对哦～数学里的相等用两个等号 ==，单个 = 在编程中是赋值的意思。",
+      "sha256": "843c2a91cb20d3126d3fd42d49b05868137544806356a5e3e8862651d477ccad",
+      "duration": 6.96
+    },
+    "正确！单个 = 就像把东西放进盒子，把右边的 100 存到左边的 score 变量里。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-8da659b8a9a7e30b1ad20c3f.mp3",
+      "spokenText": "正确！单个 = 就像把东西放进盒子，把右边的 100 存到左边的 score 变量里。",
+      "sha256": "130eb55348b02992eaf34c74e429ae1e6c4be3c4236724862d21c2a20f54dae9",
+      "duration": 7.584
+    },
+    "不对哦～= 是很重要的赋值符号，表示\"把右边的值给左边\"。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-34968d82c16b7c4eb5818cd4.mp3",
+      "spokenText": "不对哦～= 是很重要的赋值符号，表示\"把右边的值给左边\"。",
+      "sha256": "244b345db088a595046d5e6ef279de777bf0f1b0bcae09efd74e929728c96f99",
+      "duration": 5.304
+    },
+    "score，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-62377d197e2a762ca59a0fbf.mp3",
+      "spokenText": "score，是文本内容",
+      "sha256": "8bf02efb3b7b02a5619506fe671bd7829da9cfbda5bef2da2c0966280028d87c",
+      "duration": 2.376
+    },
+    "age，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-fe5bd7cbc3f48d77dc638ddb.mp3",
+      "spokenText": "age，是文本内容",
+      "sha256": "efd54c4d88becf3a8eca11395a646429ffbe0e3bb84187ac73e8beeeb8684720",
+      "duration": 2.328
+    },
+    ">，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-1204ccb95293afdc82a044d7.mp3",
+      "spokenText": ">，是操作符号",
+      "sha256": "26abc93fc0c4517c8c4cd6d78f0eadd9edd9ae2a2a7c147902c16f062b2e25af",
+      "duration": 1.896
+    },
+    "18，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-f568eee1f4e4a267b2765559.mp3",
+      "spokenText": "18，是文本内容",
+      "sha256": "d603c7291f95cd2ef97e4266787edc40ff2aaabd5ce7d67fb65a311f70059a80",
+      "duration": 2.448
+    },
+    "b，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-c56620027a6ab31f35299f1e.mp3",
+      "spokenText": "b，是文本内容",
+      "sha256": "09c751200253c4509e50c87b6269be8c1e1aff2cdbaf13fc90f5435ccbfa7a73",
+      "duration": 2.232
+    },
+    "5，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-d4571a61342e086d3fa78fa7.mp3",
+      "spokenText": "5，是文本内容",
+      "sha256": "f6c590400358728e4d6dd86720896082eb048646d241b5478290077214ad68bd",
+      "duration": 2.232
+    },
+    "i，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-15c25a06fde10f60e44551d0.mp3",
+      "spokenText": "i，是文本内容",
+      "sha256": "5a9dac9d68922af92050c78850bc868a4a74f81e946f06a6a6877490aa1b8485",
+      "duration": 2.208
+    },
+    "break，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-2c89e03e4725c5418e0cb593.mp3",
+      "spokenText": "break，是系统定义",
+      "sha256": "ca02227d8476cd013d1a551a4fb9cd21d4ff1e92f142539d812f98584ffcf5a8",
+      "duration": 2.424
+    },
+    "\"合格\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-876b34d64b89dd012d050b98.mp3",
+      "spokenText": "\"合格\"，是文本内容",
+      "sha256": "1c586d427be6f02d1a0810ac45f46eb3d0cd43c9c55959007024194bb1567b1c",
+      "duration": 2.448
+    },
+    "这是一个完整的条件句：若满足条件，则执行动作。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-d09b24c7d2a3352589525add.mp3",
+      "spokenText": "这是一个完整的条件句：若满足条件，则执行动作。",
+      "sha256": "07b8f08f81cccd80e8641071da4ee4dffd81e711466b01e6a4a956319ffab4dd",
+      "duration": 4.968
+    },
+    "✂️ 1. 断句：识别条件判断语句的结构边界。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-fd60877bfe3a087e27cfcc4a.mp3",
+      "spokenText": "✂️ 1. 断句：识别条件判断语句的结构边界。",
+      "sha256": "af8ed9f31c4187e0aed5113c93cf38d78e31595b37ea627af45e81334fd13595",
+      "duration": 5.424
+    },
+    "🔍 2. 定位：找出关键词 'if' 与条件表达式。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-1f63b67ee5bf5984d8c30b2b.mp3",
+      "spokenText": "🔍 2. 定位：找出关键词 'if' 与条件表达式。",
+      "sha256": "a0304047dd50a2594121521ec5834dbb9cfcc689e2939b9ee057521f0a54a89f",
+      "duration": 6.12
+    },
+    "🏷️ 3. 词性：紫色触发系统逻辑，红色构建语法骨架。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-fd21512e3258432ccec04cd2.mp3",
+      "spokenText": "🏷️ 3. 词性：紫色触发系统逻辑，红色构建语法骨架。",
+      "sha256": "137bac602f9a79ac931b1999860895d5de3c061ccf4536bd3600d5b9a4abcf43",
+      "duration": 6.864
+    },
+    "🧠 4. 内化：理解\"因果关系\"在代码中的表达。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-09456b695613850048a05eaa.mp3",
+      "spokenText": "🧠 4. 内化：理解\"因果关系\"在代码中的表达。",
+      "sha256": "2115fb4b07e7ec23ad7b5053de0466a4bf97f1c328e64ce878ffae6167904cb6",
+      "duration": 5.112
+    },
+    "90，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-0f4048774a8cc3dbe0884284.mp3",
+      "spokenText": "90，是文本内容",
+      "sha256": "885d0beedacb42954acfad633358157b8c2b8a86ce83831fee76167ac5455768",
+      "duration": 2.424
+    },
+    "grade，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-dc836923a69ffc34b62b1f92.mp3",
+      "spokenText": "grade，是文本内容",
+      "sha256": "e8717410535fa2b6cb4192380170d2a263f45310a152fc31c675f3eb9063f9f6",
+      "duration": 2.376
+    },
+    "这是一个分支句：非此即彼的选择逻辑。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-4545eaf1bebed9c7beeec76e.mp3",
+      "spokenText": "这是一个分支句：非此即彼的选择逻辑。",
+      "sha256": "a98438dd06132344a6a394c3eb401bb7d9efd845907705208eb4b7c4e472b976",
+      "duration": 3.888
+    },
+    "✂️ 1. 结构分析：切分出\"真\"与\"假\"两个执行分支。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-440c73d57448c761ab161ceb.mp3",
+      "spokenText": "✂️ 1. 结构分析：切分出\"真\"与\"假\"两个执行分支。",
+      "sha256": "3c3854f1c99b23143fdcd8b31223bd0762ac918f0325802033c4d7673f3cc700",
+      "duration": 5.52
+    },
+    "🔍 2. 定位：标记关键节点，理清跳转逻辑。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-a29ba036b7afdfba39ef5aab.mp3",
+      "spokenText": "🔍 2. 定位：标记关键节点，理清跳转逻辑。",
+      "sha256": "4484c1d854da34edb1fb4ab09f202f22df7946187e59e22f2159024e884a2e56",
+      "duration": 6.264
+    },
+    "🏷️ 3. 词性：'if' 和 'else' 是控制流程的指挥官。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-f8bcffe4d0c022d87f4df12b.mp3",
+      "spokenText": "🏷️ 3. 词性：'if' 和 'else' 是控制流程的指挥官。",
+      "sha256": "6c5cb9f9503762c1a843216d4df2224741f1910a98b85acc70e0dcb38a2a69e3",
+      "duration": 5.904
+    },
+    "🧠 4. 内化：掌握完整的二元分支结构。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-b33aba73595adfdda0b57427.mp3",
+      "spokenText": "🧠 4. 内化：掌握完整的二元分支结构。",
+      "sha256": "431ce380fef1c608a410ea5ba88a6f7a44cbc631b6cf7fa19ccee3b04b62e27d",
+      "duration": 4.56
+    },
+    "<，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-a24a75eded9138ce2a19d471.mp3",
+      "spokenText": "<，是操作符号",
+      "sha256": "f97ef5590b38026dff9974606801434675b789e22d294b2ad6902d52eca2ce70",
+      "duration": 1.896
+    },
+    "total，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-1503ebd855af4dca29c01198.mp3",
+      "spokenText": "total，是文本内容",
+      "sha256": "0104ab7e52baf0756418ce5b98d66eba4f4fcd6d06a757bd5996b57b6b4ffce2",
+      "duration": 2.376
+    },
+    "+，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-c045c0dc3862d370f4f347f0.mp3",
+      "spokenText": "+，是操作符号",
+      "sha256": "7c369297469564ab416368354a50e1220f8bd84e441502dc5240690785385554",
+      "duration": 2.28
+    },
+    "scores，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-e1a900c9310c7f635064afb8.mp3",
+      "spokenText": "scores，是文本内容",
+      "sha256": "c7e2dd8f5e89ab895f1add8cf89cf02e0436c67ee8b808baf5885006196c3537",
+      "duration": 2.472
+    },
+    "这是一个循环句：批量处理集合中的数据。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-36f737ae05073abbb213eb32.mp3",
+      "spokenText": "这是一个循环句：批量处理集合中的数据。",
+      "sha256": "450e679bc1f9669bc839878f43d2c62234d12f73cc5d4e6f8cbf57a8643c69f7",
+      "duration": 4.2
+    },
+    "🧠 4. 内化：理解流水线式的批量处理逻辑。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-01379e8d4eb4446fdbe7a3db.mp3",
+      "spokenText": "🧠 4. 内化：理解流水线式的批量处理逻辑。",
+      "sha256": "988b989395c495d2db5485919173375e270600fffc3d477fc71753bebaedf14b",
+      "duration": 5.04
+    },
+    "while，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-fd9ba18deebb0beca77767f5.mp3",
+      "spokenText": "while，是系统定义",
+      "sha256": "67ef3d368c3d22ad187231d14c9326cd854c0a3b18a35435e7cd8e73d5db7cad",
+      "duration": 2.352
+    },
+    "power，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-3e5ca6fbd678390e8226defc.mp3",
+      "spokenText": "power，是文本内容",
+      "sha256": "e57471258f116cb6f99c7b2cad85c17f19dd63965fe5b77bdcc9bf1778a1f3c8",
+      "duration": 2.4
+    },
+    "\"Running\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-4005e13a1f82fe538c63fd91.mp3",
+      "spokenText": "\"Running\"，是文本内容",
+      "sha256": "9891a081866b6c4098f93fb359401748ce5a2392f2471b358f454c20cfc21480",
+      "duration": 2.424
+    },
+    "-，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-a548c6f7930bafb083d347ae.mp3",
+      "spokenText": "-，是操作符号",
+      "sha256": "26abc93fc0c4517c8c4cd6d78f0eadd9edd9ae2a2a7c147902c16f062b2e25af",
+      "duration": 1.896
+    },
+    "这是一个\"坚持句\"：只要条件满足，就一直做下去。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-200ff36b3b20a607a279f2f1.mp3",
+      "spokenText": "这是一个\"坚持句\"：只要条件满足，就一直做下去。",
+      "sha256": "8ff51b395458b04e8de1062071d8b0848f1967a835ddeebf80dac9f031912b25",
+      "duration": 4.824
+    },
+    "✂️ 1. 结构分析：识别 while 关键字和退出条件。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-0598a7319e02c4c2c3bbc21e.mp3",
+      "spokenText": "✂️ 1. 结构分析：识别 while 关键字和退出条件。",
+      "sha256": "88261940f64773cf20d0d07f61f501267f9b5cc26c3c73fa445033ecc0728aee",
+      "duration": 5.64
+    },
+    "🏷️ 3. 词性：紫色代表循环规则，绿色控制循环次数。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-37c6c34b9327ae826afeec01.mp3",
+      "spokenText": "🏷️ 3. 词性：紫色代表循环规则，绿色控制循环次数。",
+      "sha256": "27d91e2243b5d40a5d4166d109215cc4f7c8d4ae5b8e24522ff7ed2bcd8029d3",
+      "duration": 7.104
+    },
+    "🧠 4. 内化：理解\"当...时\"的持续性逻辑。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-40e72f5b42282feb81b3f1db.mp3",
+      "spokenText": "🧠 4. 内化：理解\"当...时\"的持续性逻辑。",
+      "sha256": "568d04d6cfd4d7b8cafc5ce36c7a309e3abb24cf87c37b33df0ac7c7ff5d5b49",
+      "duration": 4.704
+    },
+    "85，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-8eca252151dfe1992e908fc8.mp3",
+      "spokenText": "85，是文本内容",
+      "sha256": "877f19c9d3f9867a08714368252f6f2dc0a3c092719e3ee25eebedc564afd3b9",
+      "duration": 2.52
+    },
+    ",，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-cfb4a4221602746250078d8f.mp3",
+      "spokenText": ",，是操作符号",
+      "sha256": "f97ef5590b38026dff9974606801434675b789e22d294b2ad6902d52eca2ce70",
+      "duration": 1.896
+    },
+    "92，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-854019cf4b9d092a6475941e.mp3",
+      "spokenText": "92，是文本内容",
+      "sha256": "d50df58a3c37ecfc8179f45fdd5d7f608c27dd82170320d517b473de88a74bb6",
+      "duration": 2.496
+    },
+    "78，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-4e1c8da015232c1b6cda45bc.mp3",
+      "spokenText": "78，是文本内容",
+      "sha256": "7e4b95e9fe981894c9e2a2726e00d418837c3d6f932a7d36a70b40e4cf818c9a",
+      "duration": 2.544
+    },
+    "🔍 2. 元素分离：逗号分隔列表中的每一项。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-1ae5114dcef43fd8b871743d.mp3",
+      "spokenText": "🔍 2. 元素分离：逗号分隔列表中的每一项。",
+      "sha256": "3aa337d002a3386aec49f81ed880a96b880d00b7d9d7e6866723a7a4a7680e68",
+      "duration": 5.736
+    },
+    "first，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-7414d5d1bdaeaec4416e6aff.mp3",
+      "spokenText": "first，是文本内容",
+      "sha256": "145cf4db2f22cb01b338556df3903f38308d7cb61bf9f919bb50f29903d59147",
+      "duration": 2.448
+    },
+    "✂️ 1. 结构分析：方括号内是索引位置。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-7fcb1bd56918f2dc001009c4.mp3",
+      "spokenText": "✂️ 1. 结构分析：方括号内是索引位置。",
+      "sha256": "7a7893cd93170cae0956b0b9096fb45178de053b2b5a304a15090ccb038c4863",
+      "duration": 5.04
+    },
+    "🏷️ 3. 词性：方括号是访问操作符。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-df68a43a9720341fd1ff9fd7.mp3",
+      "spokenText": "🏷️ 3. 词性：方括号是访问操作符。",
+      "sha256": "8b8c1d769dbee710c5264ec74761b62e707e5f964490dd2e3995055377f41c53",
+      "duration": 5.232
+    },
+    "🧠 4. 内化：scores[0] 表示第一个元素。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-28e885c66bceae21eaecf9e2.mp3",
+      "spokenText": "🧠 4. 内化：scores[0] 表示第一个元素。",
+      "sha256": "d74b3debedd0d4d1be5daac3372ba92bb3b41e1c235bb540c5fb4e7e49ebd121",
+      "duration": 4.968
+    },
+    "greet，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-631752b18f7c299cf51450e2.mp3",
+      "spokenText": "greet，是文本内容",
+      "sha256": "a73225f52863b2767358e73452792b891d30dcd682d188be9a0144e17b51f1a8",
+      "duration": 2.4
+    },
+    "*，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-8eb499d2fb9c859af19e229e.mp3",
+      "spokenText": "*，是操作符号",
+      "sha256": "668404f06421bceea90d5f2702d9787489ecc169059deb340b7effbdb5c5317f",
+      "duration": 2.544
+    },
+    "这是一个函数定义句：创建可复用的代码块。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-b01ca0a9f144dfd2d68a0ff5.mp3",
+      "spokenText": "这是一个函数定义句：创建可复用的代码块。",
+      "sha256": "f9c698db8715d086e754228c1d77f5418693e77a6164f8ba2332146af2bff5c2",
+      "duration": 4.368
+    },
+    "🔍 2. 识别：函数名后跟括号，内含参数。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-484c768243b1bca8130148fc.mp3",
+      "spokenText": "🔍 2. 识别：函数名后跟括号，内含参数。",
+      "sha256": "ac99563f74b931f17b81bd07be4a5e1b44c526e5e778c7d10e5eca6af27bea6b",
+      "duration": 6.096
+    },
+    "add，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-16540b42119c67bb85384c6b.mp3",
+      "spokenText": "add，是文本内容",
+      "sha256": "d74cf4ba945e13c029a014d69a3c067f5b4dd98494ad4dc662d8a352f689c5c9",
+      "duration": 2.28
+    },
+    "a，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-924aa3d287c52c83ae2d0771.mp3",
+      "spokenText": "a，是文本内容",
+      "sha256": "423f60b896e250d21b7b15a3c865a1d161e43892f603c5e602cb991f8aadce84",
+      "duration": 2.232
+    },
+    "这是一个带返回值的函数句。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-6b5ad6b5d8ccb6ea64e8e3cb.mp3",
+      "spokenText": "这是一个带返回值的函数句。",
+      "sha256": "3327a1d22b34924ee2585cf6942900968b9d479f2923371aa02bbf290697963f",
+      "duration": 2.904
+    },
+    "✂️ 1. 结构分析：return 返回计算结果。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-b243cb1649b5233988eb85f1.mp3",
+      "spokenText": "✂️ 1. 结构分析：return 返回计算结果。",
+      "sha256": "08cbc29864cd72d024b055a57c24295f2b066c8403a016b1e36c66d8fe1d9034",
+      "duration": 4.848
+    },
+    "🔍 2. 识别：函数可以接收参数并返回值。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-04d686cb0e4083412582d796.mp3",
+      "spokenText": "🔍 2. 识别：函数可以接收参数并返回值。",
+      "sha256": "b72467f1151c512f3006cac378fb5ed8487babb5e841b7daaf62bc9aee0a98db",
+      "duration": 6.096
+    },
+    "🏷️ 3. 词性：return 是紫色系统关键字。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-677e53df5a0f4ed4da678236.mp3",
+      "spokenText": "🏷️ 3. 词性：return 是紫色系统关键字。",
+      "sha256": "d56017a13918689ea04cb3bfeee797e24da6f8f28521589e9222f725ecef6057",
+      "duration": 5.424
+    },
+    "🧠 4. 内化：return 将结果传递给调用者。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-ab4396bc499e310c43a666a0.mp3",
+      "spokenText": "🧠 4. 内化：return 将结果传递给调用者。",
+      "sha256": "079262f26a5814f5e26c93c310136365579a510d8f60d7fdf0b7b863ac4e217d",
+      "duration": 4.92
+    },
+    ">=，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-12184f631546c60baed87168.mp3",
+      "spokenText": ">=，是操作符号",
+      "sha256": "49ddc1f6e6070356a2b48001cd0dd5379b8b2c376815813f126a92b942eb4d9d",
+      "duration": 2.4
+    },
+    "🏷️ 3. 词性：按顺序检查每个条件。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-4a41e982d1fc3a8998576996.mp3",
+      "spokenText": "🏷️ 3. 词性：按顺序检查每个条件。",
+      "sha256": "ffc1b324ce926891b64029e72bae45d5535737afffbff477874bf01f94b41eaa",
+      "duration": 5.088
+    },
+    "🧠 4. 内化：实现多路分支逻辑。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-f606c4d6dfd5dde93d0e8237.mp3",
+      "spokenText": "🧠 4. 内化：实现多路分支逻辑。",
+      "sha256": "ac3c633b8f45f7f0d09ce5b3ade203cbeec5b58a1b104c0695d0219883e90eda",
+      "duration": 4.08
+    },
+    "numbers，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-e68d4034cba47dd8831fe0e2.mp3",
+      "spokenText": "numbers，是文本内容",
+      "sha256": "95fd88215cce44d3143aafe2550a5797d7d7155e557ca18bcfde28983e50af16",
+      "duration": 2.52
+    },
+    "42，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-2d4c28d2dd4e3eced898a73f.mp3",
+      "spokenText": "42，是文本内容",
+      "sha256": "9e39e5e38b7108629a96d84d21017f34829b78bda9770ff47f94498ecc361ea7",
+      "duration": 2.568
+    },
+    "\"Alice\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-26977bb87d33077e8308aaaf.mp3",
+      "spokenText": "\"Alice\"，是文本内容",
+      "sha256": "91b7f112e91f5b868f8ec8f2ea37cc70be7ebc92278f8c923918886b0faacf57",
+      "duration": 2.472
+    },
+    "20，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-e4f6a16ddb92e26c12b0b4e1.mp3",
+      "spokenText": "20，是文本内容",
+      "sha256": "5df3811652dcec2a87bf92ef88a3dd23f6412605cd198a816e0eb4c7c5a1a6eb",
+      "duration": 2.448
+    },
+    "num，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-cf5d6f9f1158e119920ee06d.mp3",
+      "spokenText": "num，是文本内容",
+      "sha256": "3872d2d4ba46c8dc987a1bfbcedbc8ae02b59ec73e7fd5a339fb483a44e3d1de",
+      "duration": 2.424
+    },
+    "result，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-5da1377e5b5e1d9d2b3f6f4c.mp3",
+      "spokenText": "result，是文本内容",
+      "sha256": "0c3203c0efe3c5e2bd14ace5b7bcd0eb46219bac3a0de5074a2c79d24eec3444",
+      "duration": 2.52
+    },
+    "10，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-a02c8a6e317947d72739c08f.mp3",
+      "spokenText": "10，是文本内容",
+      "sha256": "7729eec9dc08182e9de322db0d29cc3da80a7c4f3e1c9f75cc0b82d012decfbc",
+      "duration": 2.328
+    },
+    "/，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-aabf4cb6f244768c1090568a.mp3",
+      "spokenText": "/，是操作符号",
+      "sha256": "f97ef5590b38026dff9974606801434675b789e22d294b2ad6902d52eca2ce70",
+      "duration": 1.896
+    },
+    "\"Error\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-ab9c8b1916444d27a7c60703.mp3",
+      "spokenText": "\"Error\"，是文本内容",
+      "sha256": "0560200e5cd142dbb40d99ce20bc96e5f0a7d22cff2b1251c24b80c4b7c73eb0",
+      "duration": 2.376
+    },
+    "不对哦～第二行 x = x + 3 会把 x 更新为 5 + 3 = 8。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-70c77bcbf5bcb21e8d958e6b.mp3",
+      "spokenText": "不对哦～第二行 x = x + 3 会把 x 更新为 5 + 3 = 8。",
+      "sha256": "b63ec86dad29e16e894c4f59aedab7c84da3da54c04634a0719929abe768d3de",
+      "duration": 5.952
+    },
+    "不对哦～x 的最终值是 x + 3 = 5 + 3 = 8，不是 3。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-f88404ce328a86a040566a4c.mp3",
+      "spokenText": "不对哦～x 的最终值是 x + 3 = 5 + 3 = 8，不是 3。",
+      "sha256": "3a965286ff6ba9c55e2f9d9805006e1baf9d709c46228bdd9a570ee81eaea709",
+      "duration": 5.856
+    },
+    "正确！第一行 x = 5，第二行 x = 5 + 3 = 8。赋值语句会更新变量的值。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-43a952530740ce1b3d44b938.mp3",
+      "spokenText": "正确！第一行 x = 5，第二行 x = 5 + 3 = 8。赋值语句会更新变量的值。",
+      "sha256": "29d71bc2f3588bdbfbf1ee654a022ceb2964457e43f6b9ebf6a4699cd5d9be9b",
+      "duration": 8.808
+    },
+    "不对哦～85 < 90，所以第一个条件不满足，不会输出\"优秀\"。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-7dddaebd238d60b004730d1d.mp3",
+      "spokenText": "不对哦～85 < 90，所以第一个条件不满足，不会输出\"优秀\"。",
+      "sha256": "cda1955a8f2bc1dfc24eede633e915d14b7e141142d5e4612e715886f079d360",
+      "duration": 5.808
+    },
+    "不对哦～45 < 90，第一个条件不满足。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-6f075ea3cc96bde34ffc81f0.mp3",
+      "spokenText": "不对哦～45 < 90，第一个条件不满足。",
+      "sha256": "13ab4131cdf27879628e6a2f29099cc290896e3f8e055593bace1fcba2c22488",
+      "duration": 4.104
+    },
+    " total，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-3db7344b25efacf7f47cecbb.mp3",
+      "spokenText": " total，是文本内容",
+      "sha256": "0104ab7e52baf0756418ce5b98d66eba4f4fcd6d06a757bd5996b57b6b4ffce2",
+      "duration": 2.376
+    },
+    " num，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-9d8239f6ea8ce23beb6dc467.mp3",
+      "spokenText": " num，是文本内容",
+      "sha256": "3872d2d4ba46c8dc987a1bfbcedbc8ae02b59ec73e7fd5a339fb483a44e3d1de",
+      "duration": 2.424
+    },
+    " {，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-e4d741ef87f4825dc6299a2b.mp3",
+      "spokenText": " {，是操作符号",
+      "sha256": "f97ef5590b38026dff9974606801434675b789e22d294b2ad6902d52eca2ce70",
+      "duration": 1.896
+    },
+    "50，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-eed3880d142968ae08b7085a.mp3",
+      "spokenText": "50，是文本内容",
+      "sha256": "464b180c4fad8714da703ea8c87e16d141d849d9d4ba5cf6d4430f5fbdbd04dc",
+      "duration": 2.376
+    },
+    " 3，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-718b916e710aa624d246be16.mp3",
+      "spokenText": " 3，是文本内容",
+      "sha256": "5b48bb36a170918c68d5751c021dbe961dbfd9821c4615e07470b909875997cc",
+      "duration": 2.28
+    },
+    " has_dup，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-1676fee211e5a035a9c6c933.mp3",
+      "spokenText": " has_dup，是文本内容",
+      "sha256": "10935658d25e7ac08efcdd598dc4ecf2e23b411bb9f1940ccd10a5142c05b795",
+      "duration": 3.336
+    },
+    " lst，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-5b7e326ef2b875e8c155f893.mp3",
+      "spokenText": " lst，是文本内容",
+      "sha256": "d7f69f25b80e25dc2ac01c4361bf0d077c2a177987965d5736920bcf1de21404",
+      "duration": 2.664
+    },
+    " 0，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-f197c96fc65bc3b57e74d7ee.mp3",
+      "spokenText": " 0，是文本内容",
+      "sha256": "2048a7ea79cca638d3949395a80e3ca1472848dce3ceb1c0d11f02ea452969ca",
+      "duration": 2.232
+    },
+    " 1，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-ede1a9c695f0700f14233988.mp3",
+      "spokenText": " 1，是文本内容",
+      "sha256": "b4e2946b63ece3aa6111ae3de19ce5217e40616febdb0f28b0b982fd9e5b0fd6",
+      "duration": 2.232
+    },
+    "j，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-bb0b3da48ce67b8c57d535cb.mp3",
+      "spokenText": "j，是文本内容",
+      "sha256": "0a141c4f9062eac7ec7fcd9ac1881f251cca414a0e5292e9cbfdb29143d36b1c",
+      "duration": 2.232
+    },
+    "lst，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-28ee5e9dfbab9aebbb15a4bd.mp3",
+      "spokenText": "lst，是文本内容",
+      "sha256": "d7f69f25b80e25dc2ac01c4361bf0d077c2a177987965d5736920bcf1de21404",
+      "duration": 2.664
+    },
+    "has_dup，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-5fb052e2d31fb852b613a824.mp3",
+      "spokenText": "has_dup，是文本内容",
+      "sha256": "10935658d25e7ac08efcdd598dc4ecf2e23b411bb9f1940ccd10a5142c05b795",
+      "duration": 3.336
+    },
+    " greet，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-f73b1e0fd0c72ee03654f0f3.mp3",
+      "spokenText": " greet，是文本内容",
+      "sha256": "a73225f52863b2767358e73452792b891d30dcd682d188be9a0144e17b51f1a8",
+      "duration": 2.4
+    },
+    " result，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-cb087ac0c803994a11c86d1d.mp3",
+      "spokenText": " result，是文本内容",
+      "sha256": "0c3203c0efe3c5e2bd14ace5b7bcd0eb46219bac3a0de5074a2c79d24eec3444",
+      "duration": 2.52
+    },
+    " average，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-6f1ba7f9700b24fac01572f5.mp3",
+      "spokenText": " average，是文本内容",
+      "sha256": "a99a5964aec25e110ee4fe69f892007e7522a342bfedba75cf946e073ec95eda",
+      "duration": 2.496
+    },
+    " nums，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-034723e873b247cb5b51a5a9.mp3",
+      "spokenText": " nums，是文本内容",
+      "sha256": "7cc38f1a52fe483306e93d0b175c4e2d853ee65d5794268dd1c987ac48453643",
+      "duration": 2.376
+    },
+    "80，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-514d35b4fd2ae1009cf5a239.mp3",
+      "spokenText": "80，是文本内容",
+      "sha256": "726080842bbbc1807d895ec65303ae67a402c8baaf2eeac1597fb7c5d15d8ef8",
+      "duration": 2.4
+    },
+    " 90，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-a15c961a0c159dce0c67efee.mp3",
+      "spokenText": " 90，是文本内容",
+      "sha256": "885d0beedacb42954acfad633358157b8c2b8a86ce83831fee76167ac5455768",
+      "duration": 2.424
+    },
+    " 85，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-ec242c2fe6e1e0580284dbf9.mp3",
+      "spokenText": " 85，是文本内容",
+      "sha256": "877f19c9d3f9867a08714368252f6f2dc0a3c092719e3ee25eebedc564afd3b9",
+      "duration": 2.52
+    },
+    " find_max，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-74acef3bd02c820ddba6cefa.mp3",
+      "spokenText": " find_max，是文本内容",
+      "sha256": "51ff7a539a7bee9b81f6c1c09137ee7f202e857c8acbe0395ca648a8900b2600",
+      "duration": 3.432
+    },
+    " max_val，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-ef51d1e4c6e91c33601d97dd.mp3",
+      "spokenText": " max_val，是文本内容",
+      "sha256": "25c7819eb356b25ac92c028bc7f4418b3a551fb40abce197608796c97e011662",
+      "duration": 3.312
+    },
+    "max_val，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-1d28e6150f3bf60cac20a24d.mp3",
+      "spokenText": "max_val，是文本内容",
+      "sha256": "25c7819eb356b25ac92c028bc7f4418b3a551fb40abce197608796c97e011662",
+      "duration": 3.312
+    },
+    " filter_even，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-d32de6f602b4756a217afef8.mp3",
+      "spokenText": " filter_even，是文本内容",
+      "sha256": "e50c5a47004d3ef8ad205cbffe7c44a8e1b025b70e4df1aab4fecf780223335a",
+      "duration": 3.576
+    },
+    " count，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-5fe31b68f7dd1b0794be08de.mp3",
+      "spokenText": " count，是文本内容",
+      "sha256": "360c5c78c30663f34517d539082f576cdf5c759490d0bf799b72b383c66a8610",
+      "duration": 2.352
+    },
+    " to_upper，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-7c993992059748cfb2d159ed.mp3",
+      "spokenText": " to_upper，是文本内容",
+      "sha256": "9cec547d76fe7e03d038bd707e894506e7762ba235b40842620a44dd33afd468",
+      "duration": 3.312
+    },
+    " text，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-2398e51f425adbcabbd56ccb.mp3",
+      "spokenText": " text，是文本内容",
+      "sha256": "dd5336d1e706241a53901e89b82b3032a08b25eba3faa0fe362a514cee4b79e9",
+      "duration": 2.424
+    },
+    " playing，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-0f68d7e9faa095307b850d77.mp3",
+      "spokenText": " playing，是文本内容",
+      "sha256": "40d089f72ed0eaa68f1f37f573878b541967aa31df358d66f1a53c9dc30f89fc",
+      "duration": 2.4
+    },
+    "\"你面前有两扇门\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-cb8425c52b90c2e5880fe85c.mp3",
+      "spokenText": "\"你面前有两扇门\"，是文本内容",
+      "sha256": "475138a6723b412697432d61577b57ba7aee169e23864988dcd419b237329078",
+      "duration": 3.192
+    },
+    "\"左/右?\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-45db3f953f0671a3c2784236.mp3",
+      "spokenText": "\"左/右?\"，是文本内容",
+      "sha256": "3aec7cce0fda82533ff5e00e48c186b96c625e80bed47ad1999919b0ea219ee1",
+      "duration": 2.928
+    },
+    " \"左\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-cd35f91520a3e8ed326fc028.mp3",
+      "spokenText": " \"左\"，是文本内容",
+      "sha256": "15be66e93f6953a3819e3879e846494735ab43c82b7c40d019a93c3ba08908f8",
+      "duration": 2.232
+    },
+    "\"遇到恶龙！游戏结束\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-0cfb8e2f1998a163391749e0.mp3",
+      "spokenText": "\"遇到恶龙！游戏结束\"，是文本内容",
+      "sha256": "0c5f2dbfcc72f87e5e8bc22cea3f0449e52055fff7de53b4477078abaac7d63f",
+      "duration": 4.224
+    },
+    " \"右\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-cd575c931354e7d667cf877e.mp3",
+      "spokenText": " \"右\"，是文本内容",
+      "sha256": "4dd565292af9559678d597f23509bf50e35e968987d065abb4426b894b5cca3f",
+      "duration": 2.256
+    },
+    "\"发现宝箱！获得金币\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-7fa33525420dd48761ca9332.mp3",
+      "spokenText": "\"发现宝箱！获得金币\"，是文本内容",
+      "sha256": "c00054a099882631ee8bfbd2aaf9ee274a6744d4cdf7bfe761a74098d61c0d9e",
+      "duration": 4.296
+    },
+    " prices，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-46c08c2bf5c4e65d8461617f.mp3",
+      "spokenText": " prices，是文本内容",
+      "sha256": "ef1c6db968f1e4eb4bc822969c05ac2bdaadf81b98cc79c9d9a3969ae0473f47",
+      "duration": 2.52
+    },
+    " 5，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-10efba4cda5a55769cdc3a25.mp3",
+      "spokenText": " 5，是文本内容",
+      "sha256": "f6c590400358728e4d6dd86720896082eb048646d241b5478290077214ad68bd",
+      "duration": 2.232
+    },
+    " cart，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-3d4c7be77b504a8e648b9aa7.mp3",
+      "spokenText": " cart，是文本内容",
+      "sha256": "02e4ce9e878e66674b292cddc130d01901e922619409c0c9f8e4a2088365a03c",
+      "duration": 2.352
+    },
+    "2，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-5785cdf56506640bd7660023.mp3",
+      "spokenText": "2，是文本内容",
+      "sha256": "86efa31938b41c0647aa1ae6a16a3dea02508826a8acbe91efaf6b531638bafb",
+      "duration": 2.256
+    },
+    "cart，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-b2a99c2789d708d79685160d.mp3",
+      "spokenText": "cart，是文本内容",
+      "sha256": "02e4ce9e878e66674b292cddc130d01901e922619409c0c9f8e4a2088365a03c",
+      "duration": 2.352
+    },
+    "price，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-5961615b9eda4621b4d3e0cb.mp3",
+      "spokenText": "price，是文本内容",
+      "sha256": "4fd0d456eff1f98f4899e983c362c4a503a9d0907d34a709eb70caf7f8a46eda",
+      "duration": 2.424
+    },
+    " sum_list，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-85cb19718b3061db6a003789.mp3",
+      "spokenText": " sum_list，是文本内容",
+      "sha256": "459c0d735a84733b80f45fd839ef383d319f6bbade4773816e8b4b371767d717",
+      "duration": 3.456
+    },
+    " numbers，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-09cd59e84abf5559a82b92e8.mp3",
+      "spokenText": " numbers，是文本内容",
+      "sha256": "95fd88215cce44d3143aafe2550a5797d7d7155e557ca18bcfde28983e50af16",
+      "duration": 2.52
+    },
+    " is_valid_age，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-adb84dd943414e1a74af67d1.mp3",
+      "spokenText": " is_valid_age，是文本内容",
+      "sha256": "795da57947865afdf069dafce3ed97df50d6fe59c443a52464227a42405663cf",
+      "duration": 4.464
+    },
+    " 120，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-21dd5a59ffe274dcf88e467a.mp3",
+      "spokenText": " 120，是文本内容",
+      "sha256": "41efcd9879f7c5955cdac78a1970b62fb893cb0b652362216813f692c7983c4d",
+      "duration": 2.592
+    },
+    "is_valid_age，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-4da2407f83e6e01552e6975e.mp3",
+      "spokenText": "is_valid_age，是文本内容",
+      "sha256": "795da57947865afdf069dafce3ed97df50d6fe59c443a52464227a42405663cf",
+      "duration": 4.464
+    },
+    "25，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-0cb9f1866efd4fe96da6c59f.mp3",
+      "spokenText": "25，是文本内容",
+      "sha256": "1a1cca62717df104060a9164f81563fb2c9fde968ac2ce7c93f106d87c7a0862",
+      "duration": 2.544
+    },
+    " count_char，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-b639ed7782748f616e7e76a7.mp3",
+      "spokenText": " count_char，是文本内容",
+      "sha256": "42085868cca114ad2574096648fd0fd84ac4c3f1c5f8bfd3e69c10d68d3b8d80",
+      "duration": 3.264
+    },
+    " 92，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-e627f52b614ef9e5df30e5f8.mp3",
+      "spokenText": " 92，是文本内容",
+      "sha256": "d50df58a3c37ecfc8179f45fdd5d7f608c27dd82170320d517b473de88a74bb6",
+      "duration": 2.496
+    },
+    "不对哦～函数的目的不是让代码变长，而是让代码更整洁、可复用。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-6df759e6faa3beb2a039a846.mp3",
+      "spokenText": "不对哦～函数的目的不是让代码变长，而是让代码更整洁、可复用。",
+      "sha256": "2325330bf211597ec085c46742c19466426fe88c46d60b78afb8d62514771220",
+      "duration": 6.528
+    },
+    "正确！函数就像工具箱，把常用的代码封装起来，需要时随时调用。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-b9a681c5cd5b6be5faf14088.mp3",
+      "spokenText": "正确！函数就像工具箱，把常用的代码封装起来，需要时随时调用。",
+      "sha256": "77146664f56d81e3944e2389f4c81a617561a8e64a2402f42b63696fb71d462c",
+      "duration": 7.056
+    },
+    "不对哦～参数不是装饰，它让函数能处理不同的输入数据。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-fff3e71ff51f63002fc752b2.mp3",
+      "spokenText": "不对哦～参数不是装饰，它让函数能处理不同的输入数据。",
+      "sha256": "1befef254789edccec4ed349e0424bad2cb80dc296926a6e848fb077c54bb521",
+      "duration": 5.352
+    },
+    "正确！参数就像函数的\"入口\"，让同一个函数能处理不同的数据。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-c7dbd76a24b39996d244df40.mp3",
+      "spokenText": "正确！参数就像函数的\"入口\"，让同一个函数能处理不同的数据。",
+      "sha256": "1622320a3fa0bd55b65c09a41d1cf05df1fedd6cd8687c6bd642d11282302bc4",
+      "duration": 6.696
+    },
+    "不对哦～返回结果用的是 return，参数是用来接收输入的。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-5404b3fe843882cecdf3e774.mp3",
+      "spokenText": "不对哦～返回结果用的是 return，参数是用来接收输入的。",
+      "sha256": "e7c8f82251422c298e87b5b431b14223d61fdb9715b2bee4f8375f7b75ee087b",
+      "duration": 5.328
+    },
+    "正确！将程序分成小函数，每个函数做一件事，代码更清晰、更容易复用。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-d87cbb07cae86a6c0556d01c.mp3",
+      "spokenText": "正确！将程序分成小函数，每个函数做一件事，代码更清晰、更容易复用。",
+      "sha256": "9fa64f4aaeb10417907a4f8a6cb12fd9eb4da455cea8d9556f37514f10264135",
+      "duration": 7.848
+    },
+    "不对哦～函数分解是编程的最佳实践，有实际的工程价值。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-fc2a6516681d6069f877d12a.mp3",
+      "spokenText": "不对哦～函数分解是编程的最佳实践，有实际的工程价值。",
+      "sha256": "4b778f82e15f4830d200f472062f46a96e3b142443bb19a331127fed2aad0da2",
+      "duration": 5.544
+    },
+    "不对哦～模块化的主要目的不是速度，而是代码组织和复用。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-dea8d0de54f6462fd6a22630.mp3",
+      "spokenText": "不对哦～模块化的主要目的不是速度，而是代码组织和复用。",
+      "sha256": "e212752659540b13b824ffdb30be597d56ec632bae1a7731d9ccdf2a61d2dad0",
+      "duration": 5.544
+    },
+    "正确！模块化让代码分成独立的部分，每部分可以单独维护和复用。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-6db7be3a6d99e31202916fd2.mp3",
+      "spokenText": "正确！模块化让代码分成独立的部分，每部分可以单独维护和复用。",
+      "sha256": "e3c0d73cf88e3b5455791ed9c9d7290cd05e7bf3844e4cb724f319869df13304",
+      "duration": 6.984
+    },
+    "不对哦～模块化不一定减少内存，它的主要目的是提高代码质量。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-2f58b56e9603e0a43678d970.mp3",
+      "spokenText": "不对哦～模块化不一定减少内存，它的主要目的是提高代码质量。",
+      "sha256": "06cecfcefac192dc058193a51d051feb8a6774fc08432cedc77a7a1cfac7273c",
+      "duration": 6.048
+    },
+    "\"你好\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-669d6ec9e291ff221745b18f.mp3",
+      "spokenText": "\"你好\"，是文本内容",
+      "sha256": "f1cb708cd44313474877e734d134a58e586d8f5662928d4e278143c930a0c9f8",
+      "duration": 2.328
+    },
+    "\"1\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-a61d05359fe91ead5105b8c0.mp3",
+      "spokenText": "\"1\"，是文本内容",
+      "sha256": "722a00983da3a43d58370cb34e58833f2c12b522b6ecc6d907c241fa09867aa7",
+      "duration": 2.232
+    },
+    "\"name\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-dc2b63cd311d42b7929e05ef.mp3",
+      "spokenText": "\"name\"，是文本内容",
+      "sha256": "74145104753687aae82cccb7fa6fb4e7be9f027324c46be1683029870b26d3bd",
+      "duration": 2.28
+    },
+    "x，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-c2b7b91b5f56efb397ddf86b.mp3",
+      "spokenText": "x，是文本内容",
+      "sha256": "5762281d417c04b7f362ad49bbb94c40c93e6a9ab2933f3f74f733bf6fa0fbc2",
+      "duration": 2.304
+    },
+    "s，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-3ca8cb9017d38cea9f87da06.mp3",
+      "spokenText": "s，是文本内容",
+      "sha256": "dd1ebb53384723a04096552e8759da3700d0e50396a622f23042675db4be5599",
+      "duration": 2.328
+    },
+    ":，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-41987dbbf3c6b600c1ad3ca2.mp3",
+      "spokenText": ":，是操作符号",
+      "sha256": "26abc93fc0c4517c8c4cd6d78f0eadd9edd9ae2a2a7c147902c16f062b2e25af",
+      "duration": 1.896
+    },
+    "\"Hello,\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-e8e260df7aa6d936e6ad4085.mp3",
+      "spokenText": "\"Hello,\"，是文本内容",
+      "sha256": "82689118743eaf9b8f17a993eb92e591f718d09a7a00db59481eed3db81757b2",
+      "duration": 2.352
+    },
+    "\"age\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-bd3835cce9af5e59bcdf8382.mp3",
+      "spokenText": "\"age\"，是文本内容",
+      "sha256": "d92644add769cca9c2a8d0a52b2e090837cb27c9bb8f930a9be7d7a971c41094",
+      "duration": 2.328
+    },
+    "try，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-dc9199148251eeec025c740e.mp3",
+      "spokenText": "try，是系统定义",
+      "sha256": "24661fe9e3a2add48f20094025f9474788577b9d7dfbb85a8f2fa6eb3a18338b",
+      "duration": 2.304
+    },
+    " n，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-943a6f06ef64cefa247d5030.mp3",
+      "spokenText": " n，是文本内容",
+      "sha256": "cf126e0de540bdb73b4937026f27d5556f161a9edde50b027e4cc00e66612100",
+      "duration": 2.184
+    },
+    "n，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-8116fc1960e53fb1910fb51d.mp3",
+      "spokenText": "n，是文本内容",
+      "sha256": "cf126e0de540bdb73b4937026f27d5556f161a9edde50b027e4cc00e66612100",
+      "duration": 2.184
+    },
+    "item，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-677694027a90f656a72dfb1a.mp3",
+      "spokenText": "item，是文本内容",
+      "sha256": "e8fc804953d7ba2680a6440f91eb7d6bb54cbadff03c6f950808846c52e02c91",
+      "duration": 2.352
+    },
+    "正确！类就像图纸，对象是根据图纸造出来的具体产品。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-1a4537c5bb66bdd46d9023cf.mp3",
+      "spokenText": "正确！类就像图纸，对象是根据图纸造出来的具体产品。",
+      "sha256": "3ee27c40c512536a82eb6a06b3a99598a80acd38c8ebb44f2cfd0dbefed51973",
+      "duration": 6.288
+    },
+    "不对哦～类和对象是不同的概念，类是模板，对象是实例。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-dad17207f60ef6f66da049d7.mp3",
+      "spokenText": "不对哦～类和对象是不同的概念，类是模板，对象是实例。",
+      "sha256": "3e903ad96f198633919e363abdf65990dc8ed4be7acc6beaebe10e7e0de58fd3",
+      "duration": 5.784
+    },
+    "不对哦～说反了！类是模板，对象是实例，不是反过来。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-625d0ee3f158f43a595df548.mp3",
+      "spokenText": "不对哦～说反了！类是模板，对象是实例，不是反过来。",
+      "sha256": "9f0890a862d6d15abb9e738e4e8f7e112301d718a0332641d1741b1e90b17196",
+      "duration": 5.712
+    },
+    "不对哦～子类可以使用父类的方法，这正是继承的意义所在。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-7c8e63faea5f2a88294a4199.mp3",
+      "spokenText": "不对哦～子类可以使用父类的方法，这正是继承的意义所在。",
+      "sha256": "a61198d765dadfd5092c3a79f6a3ffb9ab908247f4490bf350fa4e03546d2425",
+      "duration": 5.208
+    },
+    "不对哦～一个类可以有多个子类，比如 动物 可以有 狗、猫、鸟 等多个子类。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-41f81d9682692e517843619f.mp3",
+      "spokenText": "不对哦～一个类可以有多个子类，比如 动物 可以有 狗、猫、鸟 等多个子类。",
+      "sha256": "e1aa86673c7e81e89ef3713b86ab00da5f1ee6d56f9bd00279860143a3ad5b66",
+      "duration": 7.68
+    },
+    "正确！if 是 Python 的保留关键字，属于系统定义的固定指令，我们不能把它当变量名使用。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-0161d910aa50bb74e05fbfb0.mp3",
+      "spokenText": "正确！if 是 Python 的保留关键字，属于系统定义的固定指令，我们不能把它当变量名使用。",
+      "sha256": "63e7521e4703912b8eb466b8dac630d83dcb4fb3b3c84229b221e4226773e75c",
+      "duration": 8.856
+    },
+    "不对哦～Python 里没有 show 这个内置指令。虽然英文意思接近，但编程语言有自己的规定。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-f7176062b0b05741410c9cb7.mp3",
+      "spokenText": "不对哦～Python 里没有 show 这个内置指令。虽然英文意思接近，但编程语言有自己的规定。",
+      "sha256": "62acfab838fe383a629a8b84b5216d2fea181e098dd48c3872638769d08ca066",
+      "duration": 8.376
+    },
+    "正确！print 是 Python 中用来在屏幕上显示内容的函数，就像打印机把内容\"打印\"出来一样。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-582b8b9056f431d26357ad1e.mp3",
+      "spokenText": "正确！print 是 Python 中用来在屏幕上显示内容的函数，就像打印机把内容\"打印\"出来一样。",
+      "sha256": "4308f828513048ff1b1df2031d62a4aab298159cc2871314f7236e339abaa742",
+      "duration": 8.592
+    },
+    "不对哦～write 通常用于写入文件，不是显示到屏幕。想显示内容要用 print。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-6c51c8321d4c66cb690b85a4.mp3",
+      "spokenText": "不对哦～write 通常用于写入文件，不是显示到屏幕。想显示内容要用 print。",
+      "sha256": "bd1a1f40d4053923a12d72768934fe83bfa4dcece15b78c117ebcfddff35013e",
+      "duration": 7.344
+    },
+    "正确！def 是 define（定义）的缩写，在 Python 中专门用来定义函数。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-fb46c6a6477921ec9eef6896.mp3",
+      "spokenText": "正确！def 是 define（定义）的缩写，在 Python 中专门用来定义函数。",
+      "sha256": "2ba3d0affd77cdf13425f228ead34ef174e885f83700e73f633b8c254d38605b",
+      "duration": 6.84
+    },
+    "不对哦～fun 不是 Python 的关键字。虽然函数很有趣(fun)，但定义函数要用 def。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-a75687087fe79cb1b5f9f677.mp3",
+      "spokenText": "不对哦～fun 不是 Python 的关键字。虽然函数很有趣(fun)，但定义函数要用 def。",
+      "sha256": "0182b24bf41c2d8ff62d3083f60e855d6d2b3820f7d856b1c3752f83893bb8b7",
+      "duration": 7.632
+    },
+    "不对哦～function 是 JavaScript 中定义函数的关键字，Python 用的是更简短的 def。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-7e974383f3df9a755cf48f58.mp3",
+      "spokenText": "不对哦～function 是 JavaScript 中定义函数的关键字，Python 用的是更简短的 def。",
+      "sha256": "1c97d1ed9cac929cc569de6e6e2bf76a6894c6ea26e862390889e8df731ad383",
+      "duration": 7.176
+    },
+    "不对哦～定义函数用的是 def，for 是用来重复执行代码的循环关键字。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-9620a53b8d095b02c8393717.mp3",
+      "spokenText": "不对哦～定义函数用的是 def，for 是用来重复执行代码的循环关键字。",
+      "sha256": "a9368508cbd3b9012d46180187dfb344a876678e8613fb33849b1241b07cdf89",
+      "duration": 6.432
+    },
+    "正确！for 是循环关键字，可以让一段代码重复执行多次，比如遍历列表中的每个元素。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-60fba3b4c089c28a10e71ddb.mp3",
+      "spokenText": "正确！for 是循环关键字，可以让一段代码重复执行多次，比如遍历列表中的每个元素。",
+      "sha256": "8fca3a2bb819953ffb55db486fc8743999e7b250f590a37ae0532d2c5a1e7079",
+      "duration": 8.88
+    },
+    "正确！# 后面的内容是注释，电脑会忽略它，是给程序员自己看的说明文字。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-7a044c4ee758982a1c481c91.mp3",
+      "spokenText": "正确！# 后面的内容是注释，电脑会忽略它，是给程序员自己看的说明文字。",
+      "sha256": "a5e611de12adeb894cb590c5155ed15e160d69aa263c0215ee2380d5f17fc0f7",
+      "duration": 8.04
+    },
+    "不对哦～# 在 Python 中不表示数字，它是注释符号。数字直接写就可以了。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-635a59c690e0b716622244af.mp3",
+      "spokenText": "不对哦～# 在 Python 中不表示数字，它是注释符号。数字直接写就可以了。",
+      "sha256": "5cf0f5a15b05350c802ee3e1ea3db084d757a7413308387bed1043f13c387c5d",
+      "duration": 7.368
+    },
+    "不对哦～# 不能连接变量，它是注释符号。连接字符串用 +，连接变量要用逗号或格式化。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-5eaa3b8aa88b8d9be0dbb9fc.mp3",
+      "spokenText": "不对哦～# 不能连接变量，它是注释符号。连接字符串用 +，连接变量要用逗号或格式化。",
+      "sha256": "8178c1dffe2b45312be72dc225fda81103e463805464569f5cd80bb9cddbcdfb",
+      "duration": 9.24
+    },
+    "#，是注释": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-d46defb77e22627d3a5eba36.mp3",
+      "spokenText": "#，是注释",
+      "sha256": "d862db36cca547653e812e79cab01829e4d003ad55611e058ac6a89fe1547f47",
+      "duration": 2.184
+    },
+    "不对哦～输出信息用的是 print，input 是用来接收用户输入的。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-b4e4e19b96330d5f5bd4a8ad.mp3",
+      "spokenText": "不对哦～输出信息用的是 print，input 是用来接收用户输入的。",
+      "sha256": "fc9d155e88431485d302e117f6360bebdbf9b389cfe804bd9883edf94cbc5400",
+      "duration": 5.784
+    },
+    "正确！input 函数会暂停程序，等待用户从键盘输入内容，然后把输入的内容返回。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-39844c3b54acc94915a5079e.mp3",
+      "spokenText": "正确！input 函数会暂停程序，等待用户从键盘输入内容，然后把输入的内容返回。",
+      "sha256": "254757b8632c726385538c438ab1a8ac9a7e03c40752b276299275d99d10f4c1",
+      "duration": 8.688
+    },
+    "不对哦～定义函数用的是 def，input 是 Python 内置的输入函数。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-b51a00bcb8dc87334b1d2fb2.mp3",
+      "spokenText": "不对哦～定义函数用的是 def，input 是 Python 内置的输入函数。",
+      "sha256": "a7b7a9c84c2f76344ea256114f19735d04164fb2c7c9b0017cf089d60dba2eab",
+      "duration": 5.784
+    },
+    "input，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-73a9e7d19422adcb669638ee.mp3",
+      "spokenText": "input，是系统定义",
+      "sha256": "ae1e4f8bf6a55df34e5c90a7ebde28031c6ddd679d33ae47860815012acc20b7",
+      "duration": 2.568
+    },
+    "()，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-49fcb6519b27a3aee1da7f97.mp3",
+      "spokenText": "()，是操作符号",
+      "sha256": "26abc93fc0c4517c8c4cd6d78f0eadd9edd9ae2a2a7c147902c16f062b2e25af",
+      "duration": 1.896
+    },
+    "不对哦～定义函数用的是 def，if 是用来做\"如果...就...\"的条件判断。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-802c0eeb59780391452ebbd6.mp3",
+      "spokenText": "不对哦～定义函数用的是 def，if 是用来做\"如果...就...\"的条件判断。",
+      "sha256": "12647ac157bd678162754f164b53b928f2c4042ca8d7c2bca71216d35f088782",
+      "duration": 6.216
+    },
+    "不对哦～结束程序可以用 exit() 或 sys.exit()，else 是条件判断的\"否则\"分支。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-37717ec8df8157ea7f0516ff.mp3",
+      "spokenText": "不对哦～结束程序可以用 exit() 或 sys.exit()，else 是条件判断的\"否则\"分支。",
+      "sha256": "0bce748515b044a6fa4ab3059ec5ddb0682166f0262809678d200ff9f1f847d1",
+      "duration": 7.848
+    },
+    "不对哦～打印到屏幕用 print，return 是用来从函数中返回结果的。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-dd5659d1356b2b856651efff.mp3",
+      "spokenText": "不对哦～打印到屏幕用 print，return 是用来从函数中返回结果的。",
+      "sha256": "8897307c031f8f9a37af9a761bbf194f74a65de493b1a55621fe07cfa2a8295c",
+      "duration": 5.952
+    },
+    "正确！return 的意思是\"返回\"，它会把一个值从函数中送出来，供外部使用。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-05d7ab035715b86d419bd40e.mp3",
+      "spokenText": "正确！return 的意思是\"返回\"，它会把一个值从函数中送出来，供外部使用。",
+      "sha256": "a33f6a93421128a5eb3c372e3399b7dc1a1a435731a3dd50a7f7c0cfc403a9c2",
+      "duration": 7.392
+    },
+    "不对哦～重复执行用 for 或 while 循环，return 是用来返回函数结果的。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-63cbe8141319e54cafff6e64.mp3",
+      "spokenText": "不对哦～重复执行用 for 或 while 循环，return 是用来返回函数结果的。",
+      "sha256": "0fc7c0171ba91d1f2953fcb21046800e41f3bf01d25056d55d766d130e70cf6b",
+      "duration": 6.504
+    },
+    "不对哦～定义函数用 def，import 是用来导入别人写好的代码库的。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-c4834f009af48635388c999a.mp3",
+      "spokenText": "不对哦～定义函数用 def，import 是用来导入别人写好的代码库的。",
+      "sha256": "3920c9cf7a2ba46ec9bf053dd532a221561119142f425414828422d7db37b038",
+      "duration": 5.88
+    },
+    "正确！import 的意思是\"导入\"，可以引入 Python 自带的或第三方的功能模块，比如 import math。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-f1de03ac882be24521e4cf76.mp3",
+      "spokenText": "正确！import 的意思是\"导入\"，可以引入 Python 自带的或第三方的功能模块，比如 import math。",
+      "sha256": "7edfde7098839d1ef23c1f31ac463df11854207e9793a4ee8c1ae69168bc41fa",
+      "duration": 9.12
+    },
+    "不对哦～创建变量直接用 变量名 = 值 就可以，import 是用来导入模块的。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-7db86b62e1e986f3bc11ae8f.mp3",
+      "spokenText": "不对哦～创建变量直接用 变量名 = 值 就可以，import 是用来导入模块的。",
+      "sha256": "d5fc8217549917cfbbf07609c706e45c3cda3af08a567a00807c07085b3edbba",
+      "duration": 7.296
+    },
+    "import，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-444c1199731ebcaaa2353e4f.mp3",
+      "spokenText": "import，是系统定义",
+      "sha256": "691d4f025fa8b1de898a9080a1508e68b45f2e75e564864ade4926a337e37b11",
+      "duration": 2.568
+    },
+    "print，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-059c82abdc629b86deccfdf1.mp3",
+      "spokenText": "print，是系统定义",
+      "sha256": "ec64c87ad79599bf14724eab01408bb63aa2f664750d29fd71c4928246d794b6",
+      "duration": 2.424
+    },
+    "num1，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-202826eb50277a64e3075fb3.mp3",
+      "spokenText": "num1，是文本内容",
+      "sha256": "d6161aa975aad32ac6f4043836e5914e39a90558920415f8169da8d448fc0097",
+      "duration": 2.616
+    },
+    "==，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-5d4004c3426944dd774256b8.mp3",
+      "spokenText": "==，是操作符号",
+      "sha256": "ff50925faeafabe2b5660efbf457b2be7f1c07794b372dea17a1d2fd7f7193fe",
+      "duration": 2.688
+    },
+    "upper，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-efd90b29c95926fd3b896d5a.mp3",
+      "spokenText": "upper，是系统定义",
+      "sha256": "8026231e869cfe34b787ce0f0326350da770a3becc28663eb0ef8602fb0636c9",
+      "duration": 2.4
+    },
+    "append，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-a7f702593c0441273f25e77c.mp3",
+      "spokenText": "append，是系统定义",
+      "sha256": "a8bb507acb23336ce3f5424845e26d3957057ae803de44534637beb57dc2f7cc",
+      "duration": 2.496
+    },
+    "str，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-274fb4d0931196164b8d6a76.mp3",
+      "spokenText": "str，是系统定义",
+      "sha256": "78b7dd6a834d85995730b6ba534bcbabe1f2414789d27b9baae3d86c1163fa03",
+      "duration": 2.664
+    },
+    " → 2    ，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-ba3cfebc778fc78f288a7d02.mp3",
+      "spokenText": " → 2    ，是文本内容",
+      "sha256": "86efa31938b41c0647aa1ae6a16a3dea02508826a8acbe91efaf6b531638bafb",
+      "duration": 2.256
+    },
+    " → \"11\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-bf0bea8b38ab95007b0645c0.mp3",
+      "spokenText": " → \"11\"，是文本内容",
+      "sha256": "85d8d16c5b42f5318d26453d34cb11323bb72e08d4c84a21b4d1ab1e916618a7",
+      "duration": 2.472
+    },
+    "f\"你好，{name}\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-8980e79248d14341fae5f815.mp3",
+      "spokenText": "f\"你好，{name}\"，是文本内容",
+      "sha256": "8b787251add521008edee5e2ddeb08d734997d022dcdd97f0acf48a550856a18",
+      "duration": 3.12
+    },
+    " and ，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-d2bb90e50078755da5e0ee95.mp3",
+      "spokenText": " and ，是系统定义",
+      "sha256": "9a1fe73c422b9d4851b7e1de4fc17803c5a58e6b30bf05d8f9a794223514174c",
+      "duration": 2.304
+    },
+    "is_vip，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-42ad4e3a2faf9bdee5426bff.mp3",
+      "spokenText": "is_vip，是文本内容",
+      "sha256": "e4c2f8b593aaeeb9cdaa2cfb1acbfbb097954431003570a9a49f7e880182bb3f",
+      "duration": 3.504
+    },
+    " or ，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-76637b81b3a4e2b81a9ea95c.mp3",
+      "spokenText": " or ，是系统定义",
+      "sha256": "059d20892df20aea9ebf420e60045dba4698ec9697d660eb1109fb1db64b9b5e",
+      "duration": 2.328
+    },
+    "points，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-b7830af3a5e2a8bcf3b9f609.mp3",
+      "spokenText": "points，是文本内容",
+      "sha256": "08a087ab5d5e476fd32f8007a455654670773302f77325159e3f5c4b96acde4b",
+      "duration": 2.376
+    },
+    "not ，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-e497528e028b6f60497564e3.mp3",
+      "spokenText": "not ，是系统定义",
+      "sha256": "18aae7bcc1b3062a217840fe16c549aeb0c40d0c5a481eb463ca089fca26f1ba",
+      "duration": 2.424
+    },
+    "\"通过\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-637d8af61a629f7cd6b78de4.mp3",
+      "spokenText": "\"通过\"，是文本内容",
+      "sha256": "09fdd102ae6fa11cfb3ac6ca727c7bece19deb2e4fe702fdfb3e6cf53332f8d0",
+      "duration": 2.376
+    },
+    " if ，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-b42abe57e0f85b48375a03c1.mp3",
+      "spokenText": " if ，是系统定义",
+      "sha256": "88b6718af566c4068fbcd7a90d8818b0fd2a73731d4bfaeff24941320d189278",
+      "duration": 2.328
+    },
+    " else ，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-c7068b486331ddbae6aab1b4.mp3",
+      "spokenText": " else ，是系统定义",
+      "sha256": "2ff969a1d09322d0d582f1e4cc8f6db0c6bf80c046369d66815a150163579b07",
+      "duration": 2.424
+    },
+    "正确！total + 1 是算术表达式，让电脑计算 total 加 1 的结果。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-351cebc14981d87c6750faae.mp3",
+      "spokenText": "正确！total + 1 是算术表达式，让电脑计算 total 加 1 的结果。",
+      "sha256": "e4afdb9c8550a5bb0740af6839a3c9678b442438c615a54df73a6e212a00c163",
+      "duration": 6.768
+    },
+    "不对哦～print('Hello') 是输出操作，不是算术运算。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-39f7c98a29e9a4b8e049b5f9.mp3",
+      "spokenText": "不对哦～print('Hello') 是输出操作，不是算术运算。",
+      "sha256": "4f42e187e3c8ca979ee0be3213ad11ea0392ca1d88192fb9be27f6f53bdcc15c",
+      "duration": 4.44
+    },
+    "不对哦～if score > 60 是条件判断，不是算术运算。虽然有比较，但不是做加减乘除。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-3deb9adfe755b19655daafae.mp3",
+      "spokenText": "不对哦～if score > 60 是条件判断，不是算术运算。虽然有比较，但不是做加减乘除。",
+      "sha256": "1a916690183eba7bd34317d65176af818f95e5e38984fbf758859185f7b42a08",
+      "duration": 8.664
+    },
+    "不对哦～赋值用单个 = 号，> 是比较符号，用来判断大小关系。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-caac87f7e1e361aa45ca4fe7.mp3",
+      "spokenText": "不对哦～赋值用单个 = 号，> 是比较符号，用来判断大小关系。",
+      "sha256": "cd3e24a4a0184894bbf8b64a19e90a79303f646104a37ee34234b44667ee821d",
+      "duration": 5.592
+    },
+    "正确！> 是比较运算符，age > 18 会判断 age 是否大于 18，结果是 True 或 False。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-20d82a31de7bf1a7ff68dcaf.mp3",
+      "spokenText": "正确！> 是比较运算符，age > 18 会判断 age 是否大于 18，结果是 True 或 False。",
+      "sha256": "370b40b4f705948932991cc6957979005ab25717c4608b9eb1eeafa88eb71e24",
+      "duration": 8.808
+    },
+    "不对哦～打印要用 print(age)，这里的 age > 18 是在做大小比较。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-b9955133c551d1ba452a6ddf.mp3",
+      "spokenText": "不对哦～打印要用 print(age)，这里的 age > 18 是在做大小比较。",
+      "sha256": "c64f5ea5a9763092aae6791910fb8c04e52ae8e8a4183d10b28119ec33a9d8e6",
+      "duration": 6.288
+    },
+    "正确！字符串用 + 号会拼接在一起，'hello' + 'world' 结果是 'helloworld'。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-0a685e181885192f7dbddf97.mp3",
+      "spokenText": "正确！字符串用 + 号会拼接在一起，'hello' + 'world' 结果是 'helloworld'。",
+      "sha256": "a933cfbf355ea9205a23a72a055c0b253d846a8553cd7cfe3b5055e7d7ba033e",
+      "duration": 7.104
+    },
+    "不对哦～字符串相加不会得到数字，而是把两个字符串拼接起来。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-efb001d71819a557cc1dfd2c.mp3",
+      "spokenText": "不对哦～字符串相加不会得到数字，而是把两个字符串拼接起来。",
+      "sha256": "d84bc1023a0ccaaeced507ed2303562516696137128913077d86fed9486b945e",
+      "duration": 6.264
+    },
+    "不对哦～两个字符串用 + 号连接是完全合法的，不会报错。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-55a42458c0f978bf8e6c9db9.mp3",
+      "spokenText": "不对哦～两个字符串用 + 号连接是完全合法的，不会报错。",
+      "sha256": "10d989656b29b1ccdb94f9eaf21197ab337b95fc54664477c71d74f9bb939d74",
+      "duration": 5.76
+    },
+    "'hello'，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-6b9b94f85890c50c50b0c655.mp3",
+      "spokenText": "'hello'，是文本内容",
+      "sha256": "cb3a4bfd54b8e2c7b900507582140c096e19582304fd1a48ffa81dd45aee669d",
+      "duration": 2.352
+    },
+    "'world'，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-765cf9d7f620370392e8a61e.mp3",
+      "spokenText": "'world'，是文本内容",
+      "sha256": "14408b8d6417fffbdd52a9394c8fcadd0c5693c26bc6dc59b59710ca9fb762d8",
+      "duration": 2.352
+    },
+    "不对哦～\"有一个为真就行\"是 or 的意思，and 要求两边都为真。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-6fc6c3e15d1dc8f3158c24f3.mp3",
+      "spokenText": "不对哦～\"有一个为真就行\"是 or 的意思，and 要求两边都为真。",
+      "sha256": "3ce6122d9ccabed2695bd2eebb55e5514c167bacac123ae505ce625a9193aeef",
+      "duration": 5.352
+    },
+    "正确！and 表示\"并且\"，只有当 a 和 b 都为真时，整个表达式才为真。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-94a084fdde0279980d70f8cc.mp3",
+      "spokenText": "正确！and 表示\"并且\"，只有当 a 和 b 都为真时，整个表达式才为真。",
+      "sha256": "333671264aae5dfe1126b2a2d5cbabb273f1c47e0c729820d1712334faee984c",
+      "duration": 7.296
+    },
+    "不对哦～and 要求两边都为真，不是都为假。如果都为假，结果是 False。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-8936204ecae1f2fe265922ef.mp3",
+      "spokenText": "不对哦～and 要求两边都为真，不是都为假。如果都为假，结果是 False。",
+      "sha256": "d22c0193a747619e6d894f90194a7035757fba868090d4c286680a9dc7f56cc9",
+      "duration": 6.96
+    },
+    "and，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-dbba4e0ed07b7ad3702f7d3e.mp3",
+      "spokenText": "and，是系统定义",
+      "sha256": "aad297cc2a1fdab35f457858a685b5d6d3c7a3f9ef1914a5df3aef42c1562b24",
+      "duration": 2.304
+    },
+    "不对哦～打印用 print(name)，len(name) 是用来获取长度的。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-80f3503f084c00a158a424ec.mp3",
+      "spokenText": "不对哦～打印用 print(name)，len(name) 是用来获取长度的。",
+      "sha256": "33ac1c1df80eddbdfe757bc80a58c04c7222dc749b39232978ca67c3ecef467a",
+      "duration": 4.848
+    },
+    "不对哦～删除变量用 del name，len 是用来获取长度的函数。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-7ae3771fda7ff23446db0836.mp3",
+      "spokenText": "不对哦～删除变量用 del name，len 是用来获取长度的函数。",
+      "sha256": "ca9fe155481e060b0e1a5aae90ee45cf394618b7d32aec14505933bfd1e86be4",
+      "duration": 5.52
+    },
+    "正确！len 是 length（长度）的缩写，len(name) 会返回 name 中有多少个字符。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-cadd3e5463982b2af38a7144.mp3",
+      "spokenText": "正确！len 是 length（长度）的缩写，len(name) 会返回 name 中有多少个字符。",
+      "sha256": "ab97a21b8ec3365e1af8e4917d5e691f306b8bb7ec0582153cc851f0a5dda7cc",
+      "duration": 7.464
+    },
+    "len，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-7efd16be2576fc21a79f1b70.mp3",
+      "spokenText": "len，是系统定义",
+      "sha256": "8c7b21db28f1f065985b11345c042cfcf2c83c74b3c7b49b1bd9a8aa5c46c6f4",
+      "duration": 2.304
+    },
+    "不对哦～list(1) 是创建列表的语法，不是访问元素。访问元素要用方括号 []。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-1ae8b34e9781b59baf04ba82.mp3",
+      "spokenText": "不对哦～list(1) 是创建列表的语法，不是访问元素。访问元素要用方括号 []。",
+      "sha256": "2741a914220f1a9b0d156dd76b23ef6d618c19e472968b33504ea564a7c007fd",
+      "duration": 7.512
+    },
+    "不对哦～list[1] 访问的是第二个元素，因为索引从 0 开始。第一个要用 [0]。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-a2fc46c37d4f88c52b06887e.mp3",
+      "spokenText": "不对哦～list[1] 访问的是第二个元素，因为索引从 0 开始。第一个要用 [0]。",
+      "sha256": "38b3704fe01834550ea773a9a8940103c1bd82d797d7879706bb643e05a5ee07",
+      "duration": 7.992
+    },
+    "正确！在 Python 中，索引从 0 开始，所以 list[0] 访问的是第一个元素。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-52dbe1b441a7dae6de19b944.mp3",
+      "spokenText": "正确！在 Python 中，索引从 0 开始，所以 list[0] 访问的是第一个元素。",
+      "sha256": "9f6f3ace3d8eaf9ac997acd9bc444b1d311dc66e287e6d7cabf5c60b53a5c27c",
+      "duration": 8.136
+    },
+    "不对哦～转小写用的是 .lower()，.upper() 是转大写的。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-15b9a44479c4a26788127a27.mp3",
+      "spokenText": "不对哦～转小写用的是 .lower()，.upper() 是转大写的。",
+      "sha256": "6602154f9ce1e67b93f0f76623f5ba49ccbe0a18cbb6119073f97dec5f49ae45",
+      "duration": 4.752
+    },
+    "正确！.upper() 会把字符串中所有字母转成大写，比如 'hello'.upper() 结果是 'HELLO'。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-127be840eebf13803093af8b.mp3",
+      "spokenText": "正确！.upper() 会把字符串中所有字母转成大写，比如 'hello'.upper() 结果是 'HELLO'。",
+      "sha256": "fba6465707b171deb611491354068b00fdd0c2e2a3f725ec7c344b5faba63b82",
+      "duration": 8.592
+    },
+    "不对哦～计算长度用的是 len()，.upper() 是转大写的方法。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-2b6dd5533c55117fb6a15179.mp3",
+      "spokenText": "不对哦～计算长度用的是 len()，.upper() 是转大写的方法。",
+      "sha256": "51821c4e6b81dc2894a480982992b7ba9921524f95fd542fe79c086c0daf0449",
+      "duration": 4.968
+    },
+    ".upper()，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-000bedf0cead18dcdf0cf9e6.mp3",
+      "spokenText": ".upper()，是系统定义",
+      "sha256": "8026231e869cfe34b787ce0f0326350da770a3becc28663eb0ef8602fb0636c9",
+      "duration": 2.4
+    },
+    "不对哦～range(5) 从 0 开始，不包括 5，所以不会有 1-5。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-85e860acaedccd08d8de07e1.mp3",
+      "spokenText": "不对哦～range(5) 从 0 开始，不包括 5，所以不会有 1-5。",
+      "sha256": "b585a9079bc0d49863ddefa68ccd7a5c885385f648cf9532e99417e1f29362a6",
+      "duration": 5.76
+    },
+    "正确！range(5) 生成从 0 到 4 的数字，共 5 个，不包括 5 本身。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-cf37651a98d40bbbd5e73d04.mp3",
+      "spokenText": "正确！range(5) 生成从 0 到 4 的数字，共 5 个，不包括 5 本身。",
+      "sha256": "40031e6d85357913a8c88f86cd2b792bd86c941bdf9430a1909cb6e9053a8a9c",
+      "duration": 6.768
+    },
+    "不对哦～range(5) 生成 5 个数字(0-4)，不包括结束值 5。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-2ed0163dc3fb7cb762643416.mp3",
+      "spokenText": "不对哦～range(5) 生成 5 个数字(0-4)，不包括结束值 5。",
+      "sha256": "760a9d16198e15147315cb1d64166dc10a8b20d0e11ec5a4037861ed8c06dbc9",
+      "duration": 5.64
+    },
+    "range，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-cecc73fa6de5d0d38589607d.mp3",
+      "spokenText": "range，是系统定义",
+      "sha256": "c9235436a274ee42753288cf2a58f07fcf6edff038d72328c2a48a6f3bc32bd8",
+      "duration": 2.4
+    },
+    "不对哦～改变类型用的是 int(), str() 等转换函数，type() 只是查看类型。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-62c5dece477f106009831067.mp3",
+      "spokenText": "不对哦～改变类型用的是 int(), str() 等转换函数，type() 只是查看类型。",
+      "sha256": "b5bb9624564b75058d2f2c03e5e7d82bd3232ed1ddbf0f3721cd152cfcb7b144",
+      "duration": 7.224
+    },
+    "正确！type() 函数会返回变量的数据类型，比如 int、str、list 等。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-05a8724bd1eb1c29610567f2.mp3",
+      "spokenText": "正确！type() 函数会返回变量的数据类型，比如 int、str、list 等。",
+      "sha256": "98f496a3c0017ec19abbf89b537b3455cc5e132eb703f0512c70e5d51675d895",
+      "duration": 7.704
+    },
+    "不对哦～删除变量用 del，type() 是用来查看类型的。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-672d5cb9d3543537decd041b.mp3",
+      "spokenText": "不对哦～删除变量用 del，type() 是用来查看类型的。",
+      "sha256": "cef6c1bc047f2cdb99299541578b955589ecbbb1371bc1eb00b331b65ccd33fd",
+      "duration": 4.92
+    },
+    "type，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-d5dc876858a0a16bdc751619.mp3",
+      "spokenText": "type，是系统定义",
+      "sha256": "c80f1b369fd072b75ccc971eb385b9624ba00875ec82b7993cd5f7c20516f42d",
+      "duration": 2.376
+    },
+    "不对哦～暂停程序要用 time.sleep(1)，break 是退出循环的意思。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-940561d257cbf649297df121.mp3",
+      "spokenText": "不对哦～暂停程序要用 time.sleep(1)，break 是退出循环的意思。",
+      "sha256": "8c599352231f159bcd1ee1fad17dcb41ab12f3ff528012b1cacef3ac2a61286f",
+      "duration": 5.904
+    },
+    "不对哦～跳过本次循环继续下次用的是 continue，break 会直接退出整个循环。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-68cdaa705163841414c98e4e.mp3",
+      "spokenText": "不对哦～跳过本次循环继续下次用的是 continue，break 会直接退出整个循环。",
+      "sha256": "a401c7b55c7fb17a810788012c12d7975e312b630aab9466af6d37ef675f0aff",
+      "duration": 7.176
+    },
+    "正确！break 会立即终止当前所在的循环，不再执行剩余的循环次数。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-ef05d8dc9c6c20ae8633416d.mp3",
+      "spokenText": "正确！break 会立即终止当前所在的循环，不再执行剩余的循环次数。",
+      "sha256": "77bb63f028b11476c3bd6575fd52751db9c48373256719cbd1b9cc7b7ac23b36",
+      "duration": 7.2
+    },
+    "这一行是条件词，内容是：ifscore>60:": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-4eb47a600338c5e2c51661a7.mp3",
+      "spokenText": "这一行是条件词，内容是：ifscore>60:",
+      "sha256": "2a61bc9cd51b58d78f9d9beb2adeb027ee5955774554751ba5e1deeecfc02def",
+      "duration": 4.896
+    },
+    "这一行是动作词，内容是：print(\"合格\")": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-67c0989701fb9eef68477dfb.mp3",
+      "spokenText": "这一行是动作词，内容是：print(\"合格\")",
+      "sha256": "cc318c9d54f5f61d26eb5c76f05b5d7fe79e72c204046430778899f8c15b027b",
+      "duration": 4.272
+    },
+    "这一行代码，内容是：ifscore>90:": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-2dd0de93b309e9b121389149.mp3",
+      "spokenText": "这一行代码，内容是：ifscore>90:",
+      "sha256": "30ca3092a6bae8ef1be1893e9022469eddedd30c52ddab83874d841c64d0183b",
+      "duration": 4.368
+    },
+    "\"A\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-f9104df08fa3e6b73c094b55.mp3",
+      "spokenText": "\"A\"，是文本内容",
+      "sha256": "423f60b896e250d21b7b15a3c865a1d161e43892f603c5e602cb991f8aadce84",
+      "duration": 2.232
+    },
+    "这一行代码，内容是：grade=\"A\"": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-4f16df71cb15b6aaafa68a91.mp3",
+      "spokenText": "这一行代码，内容是：grade=\"A\"",
+      "sha256": "07f503d7703809d4ca95f4017b20dc5305fbb7b551a655912913f2e771bd1e2c",
+      "duration": 3.84
+    },
+    "这一行代码，内容是：else:": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-78ff8efe6a9073781d7f4acf.mp3",
+      "spokenText": "这一行代码，内容是：else:",
+      "sha256": "3b2747356a304b7ed44ce5f68e0f9d6a70ff26f2d23e06fb7a078bb0852fcbdc",
+      "duration": 3.264
+    },
+    "\"F\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-5ec444f0ccd72fd815941be5.mp3",
+      "spokenText": "\"F\"，是文本内容",
+      "sha256": "86cfa637ea657df232aaef359fa3666f057e74d3295f42905f3b117c9a9be827",
+      "duration": 2.28
+    },
+    "这一行代码，内容是：grade=\"F\"": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-e9ff74269cb5ee9e760ea489.mp3",
+      "spokenText": "这一行代码，内容是：grade=\"F\"",
+      "sha256": "3c91109bff054068a329dc4018f5746aa310f108d9b3c274fd0edee235b88b66",
+      "duration": 3.984
+    },
+    "in，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-a0e26073156d55733ff89cc8.mp3",
+      "spokenText": "in，是系统定义",
+      "sha256": "41ba99d36f79d83a1fb5f40db055a803812039b19f2e277bd2467a0a150c7530",
+      "duration": 2.304
+    },
+    "这一行代码，内容是：forsinscores:": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-820c553e7a4eaeb27c1103ac.mp3",
+      "spokenText": "这一行代码，内容是：forsinscores:",
+      "sha256": "ac51291a93fbb970e371ffe743c6354e98b7af1103640b3c0adfa6e1444f318d",
+      "duration": 3.744
+    },
+    "这一行代码，内容是：total=total+s": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-e4689954bd064a99591d7f0c.mp3",
+      "spokenText": "这一行代码，内容是：total=total+s",
+      "sha256": "0b8dd4906f7fa1c06df1498f7aad4cbab069f2c06284c5bc6111c8797de58acb",
+      "duration": 4.728
+    },
+    "✂️ 1. 结构分析：注意 'in' 介词，表示\"在...范围之内\"。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-85d92483e4092870538e69fa.mp3",
+      "spokenText": "✂️ 1. 结构分析：注意 'in' 介词，表示\"在...范围之内\"。",
+      "sha256": "415846ba69e4708680c538d9bf3c21c3f8870ee8d275366de4a3c720c2f61527",
+      "duration": 6.024
+    },
+    "🔍 2. 关键词识别：标记循环变量与目标集合。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-debfbda74f65ab3389929bc7.mp3",
+      "spokenText": "🔍 2. 关键词识别：标记循环变量与目标集合。",
+      "sha256": "97fd4f70c2a4bf86776430b6ff056b8ea9a7e86a0bf035c51880dffca87c97c6",
+      "duration": 6.504
+    },
+    "🏷️ 3. 词性：'for' 和 'in' 定义了遍历的规则。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-63f096c1b9ef4b7c2103d2b7.mp3",
+      "spokenText": "🏷️ 3. 词性：'for' 和 'in' 定义了遍历的规则。",
+      "sha256": "fcd4702f2333046c6cba48dcd6a7cd477822d5b31424edd06ba221af97c02ef2",
+      "duration": 5.448
+    },
+    "这一行代码，内容是：whilepower>0:": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-cc87650c2ee61a9726bd4cd2.mp3",
+      "spokenText": "这一行代码，内容是：whilepower>0:",
+      "sha256": "8bc039f0f197d85bda123399cab17e65fb5b53d973cd1084ca2a37a9b2c05eaa",
+      "duration": 4.08
+    },
+    "这一行代码，内容是：print(\"Running\")": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-079834ab93d378588382c581.mp3",
+      "spokenText": "这一行代码，内容是：print(\"Running\")",
+      "sha256": "edc18449c583f572de28f46aac63f3248e6223213f7d99421437ad7067e81c73",
+      "duration": 3.552
+    },
+    "这一行代码，内容是：power=power-1": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-fd70f811feeddbf07fd670b0.mp3",
+      "spokenText": "这一行代码，内容是：power=power-1",
+      "sha256": "5e5df42c5c5e4fedfcd27a13dd60b6b248bc42102b739c3fa55e16f11fff7cc9",
+      "duration": 4.296
+    },
+    "🔍 2. 关键点：注意缩进块是重复执行的内容。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-2dd962225be32125880efe8e.mp3",
+      "spokenText": "🔍 2. 关键点：注意缩进块是重复执行的内容。",
+      "sha256": "c8260cf4d92f196292cd42200a11067f61ef1ec6bfe94dda2f1081b1ccdaff20",
+      "duration": 6.216
+    },
+    "这一行代码，内容是：scores=[85,92,78]": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-d1b0329222935f8cecea3f44.mp3",
+      "spokenText": "这一行代码，内容是：scores=[85,92,78]",
+      "sha256": "ccb16de1de81869253aefe5399611d2ea59b98dd04a40bb88f06570a2191796e",
+      "duration": 6
+    },
+    "这是一个赋值句：将多个数据组织成列表。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-069054ca7b3d3c3703c2f942.mp3",
+      "spokenText": "这是一个赋值句：将多个数据组织成列表。",
+      "sha256": "4a80360674f91669084b91a34fed66b4adf2cf28d9b585cba24bcf324281cc83",
+      "duration": 4.152
+    },
+    "✂️ 1. 结构识别：方括号定义列表边界。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-cd23b3b9c786b5d7653dd1c4.mp3",
+      "spokenText": "✂️ 1. 结构识别：方括号定义列表边界。",
+      "sha256": "232ef021a4e166cc58382af543b1529f9324725ea8d998ed73e57296c94946c1",
+      "duration": 4.944
+    },
+    "🏷️ 3. 词性：红色方括号是容器，绿色是具体数据。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-3c994fad90b6daf103d96e74.mp3",
+      "spokenText": "🏷️ 3. 词性：红色方括号是容器，绿色是具体数据。",
+      "sha256": "f6251b59fcb1b61010377ab1450f490f264ebe69bc64cd4e637627be7813b9a3",
+      "duration": 6.72
+    },
+    "🧠 4. 内化：列表是存储同类数据的集合。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-9f88ce111a3c801cbec2d136.mp3",
+      "spokenText": "🧠 4. 内化：列表是存储同类数据的集合。",
+      "sha256": "9ab82221beb0d9758f6979d32e1053575901decb8f0817145057037e2486f44a",
+      "duration": 5.016
+    },
+    "这一行代码，内容是：first=scores[0]": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-ee03985b7d8b0a81595ab5ce.mp3",
+      "spokenText": "这一行代码，内容是：first=scores[0]",
+      "sha256": "2f7cbb7b34fd9eb2c64d8385343d300d9fd1965dabfbc7a81fc9efc74cafa070",
+      "duration": 4.704
+    },
+    "这是一个索引句：从列表中提取特定位置的元素。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-41adaae2bcc49a59f4532a5e.mp3",
+      "spokenText": "这是一个索引句：从列表中提取特定位置的元素。",
+      "sha256": "c6d1c54cd4ea63361cecea34af6dbf17dfd628728d5ffb340902c0cc84ed2f72",
+      "duration": 5.016
+    },
+    "🔍 2. 索引理解：Python 从 0 开始计数。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-eb803cc5443f63aa01ac7641.mp3",
+      "spokenText": "🔍 2. 索引理解：Python 从 0 开始计数。",
+      "sha256": "472f20d10cd49aa0aba7fac75aea1af12843d6a02a931a967a841bbb04c58032",
+      "duration": 5.64
+    },
+    "def，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-92b307859c0f394a782b8a9f.mp3",
+      "spokenText": "def，是系统定义",
+      "sha256": "953bb46a4f0bddf1f4cd96692640a560a51ca185745954564b68c2ea0a25b908",
+      "duration": 2.328
+    },
+    "这一行代码，内容是：defgreet(name):": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-4542490900ad67c50271ba49.mp3",
+      "spokenText": "这一行代码，内容是：defgreet(name):",
+      "sha256": "a5bb3fe12f02f68938707f07ab4ad63de4a5074c9ad5c7add34e11d85e64f8c1",
+      "duration": 4.104
+    },
+    "这一行代码，内容是：print(\"Hello,\"+name)": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-f1ba5cdca29228bb00ba4563.mp3",
+      "spokenText": "这一行代码，内容是：print(\"Hello,\"+name)",
+      "sha256": "c2fe9e47a7454dbd19fd706b4423fa331e051589532430300ae6ccc8f7e4e475",
+      "duration": 4.296
+    },
+    "✂️ 1. 结构分析：def 关键字定义函数。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-8ef060727fed69c4fd412ee9.mp3",
+      "spokenText": "✂️ 1. 结构分析：def 关键字定义函数。",
+      "sha256": "de240f06fdc5c9340fcfdfdc0c68fa165e3a6a754d597f88276f43e9def01a72",
+      "duration": 4.968
+    },
+    "🏷️ 3. 词性：紫色def是定义命令，冒号标记函数体开始。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-6764e94b58c5a2e56f6c7ba9.mp3",
+      "spokenText": "🏷️ 3. 词性：紫色def是定义命令，冒号标记函数体开始。",
+      "sha256": "248d4a74982b9fcaeea9853d9568a5346536c98c5ea8ce3dd6f0a87617cfe7be",
+      "duration": 7.32
+    },
+    "🧠 4. 内化：函数是封装代码逻辑的容器。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-c3f4b84adf15747249a64630.mp3",
+      "spokenText": "🧠 4. 内化：函数是封装代码逻辑的容器。",
+      "sha256": "be79d551b0335fcb10c00ef5645e6dd641ff7b04e35e2144264c4859ab1d5485",
+      "duration": 4.992
+    },
+    "这一行代码，内容是：defadd(a,b):": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-1a426be05b420ef2396d78eb.mp3",
+      "spokenText": "这一行代码，内容是：defadd(a,b):",
+      "sha256": "c4b6db2ea57a81f13d71d0c5e42dc7d7eaab785a4ad7ea3a6f9765adcb4252e8",
+      "duration": 4.752
+    },
+    "这一行代码，内容是：returna+b": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-dcee47c5a7f36be4f19a4187.mp3",
+      "spokenText": "这一行代码，内容是：returna+b",
+      "sha256": "cbf6272486a6abd9a4e6a025c8efa2468a8b5a9bf2c5bbddf8df03adc5e3adaf",
+      "duration": 3.816
+    },
+    "这一行代码，内容是：ifscore>=90:": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-8c18b565dbd9b3d61221e986.mp3",
+      "spokenText": "这一行代码，内容是：ifscore>=90:",
+      "sha256": "0cdcb93ed23b0c7dfcdebacc45674c4c321c095beb3a139e6a794bd020eee4a9",
+      "duration": 4.68
+    },
+    "elif，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-b44e5a2ee0d2da157958b1fd.mp3",
+      "spokenText": "elif，是系统定义",
+      "sha256": "ea9d913f636f7ed7ebc4761c31ba36d1d36c4cf82fa8c6517f9ac2471e78c35a",
+      "duration": 2.4
+    },
+    "这一行代码，内容是：elifscore>=60:": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-0cfe321ee10587baa86e660d.mp3",
+      "spokenText": "这一行代码，内容是：elifscore>=60:",
+      "sha256": "2f0eb4d42ac508d6368c564f9d11c4c7b278a464b64de3f1978bc2b6304e8be0",
+      "duration": 4.728
+    },
+    "\"C\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-25e4032e81f7b9a6cb33c437.mp3",
+      "spokenText": "\"C\"，是文本内容",
+      "sha256": "3ccfc8f01756c34762d6d2a909892b467e6705722749872bbb6c28e7b054dc67",
+      "duration": 2.328
+    },
+    "这一行代码，内容是：grade=\"C\"": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-9c29059541d20b7f9054fedf.mp3",
+      "spokenText": "这一行代码，内容是：grade=\"C\"",
+      "sha256": "75d9cd9374ae08ad46df507c54b65b4c011cc0015372edf8437d78144198bfab",
+      "duration": 3.768
+    },
+    "这是一个多分支判断句：elif 处理多个条件。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-4ca2b91e1269e8c014052d0b.mp3",
+      "spokenText": "这是一个多分支判断句：elif 处理多个条件。",
+      "sha256": "58b1066562c07b058dd9dd8f9b9203adfc6abc248dd9fc53ff8809241247048b",
+      "duration": 4.68
+    },
+    "✂️ 1. 结构分析：if-elif-else 三段式结构。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-b70111a082c8991265c49e17.mp3",
+      "spokenText": "✂️ 1. 结构分析：if-elif-else 三段式结构。",
+      "sha256": "692ae88d04925cc94b90090718879bacca796b9c05f7eba15210c36fb0592bd3",
+      "duration": 5.088
+    },
+    "🔍 2. 识别：elif 是 else if 的简写。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-cff6fa65515a3052595f6c30.mp3",
+      "spokenText": "🔍 2. 识别：elif 是 else if 的简写。",
+      "sha256": "5eced50a4c766a17ca1aaa735d275c338a7ec49d5955d01c3415139f6109d087",
+      "duration": 5.52
+    },
+    "这一行代码，内容是：numbers.append(42)": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-f1eb6e0511ad249bb33c8703.mp3",
+      "spokenText": "这一行代码，内容是：numbers.append(42)",
+      "sha256": "8bfff7c80107e8e54159b9650e7722e642d9bd1d76c3187f32d14993a70b31f0",
+      "duration": 4.656
+    },
+    "这是一个列表操作句：动态添加元素。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-d7d4cd90f5e382fa2f900921.mp3",
+      "spokenText": "这是一个列表操作句：动态添加元素。",
+      "sha256": "200b4e546044b905718368805c1b0d1ab763ea5a28c2d282d1871798ba794593",
+      "duration": 3.912
+    },
+    "✂️ 1. 结构分析：点号调用对象的方法。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-014f5c3832da9bd1a5c6048a.mp3",
+      "spokenText": "✂️ 1. 结构分析：点号调用对象的方法。",
+      "sha256": "972af7417a5e262d181efabca16174119a470a93d90651b04ea6e9567cdc8900",
+      "duration": 4.848
+    },
+    "🔍 2. 识别：append() 是列表的追加方法。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-15d1cc85e0f7bf414c7c82c6.mp3",
+      "spokenText": "🔍 2. 识别：append() 是列表的追加方法。",
+      "sha256": "22c67f7905e06237df6bb5e71fc2d54c904925b519e981d4464896453ba981fc",
+      "duration": 5.616
+    },
+    "🏷️ 3. 词性：方法名是紫色系统功能。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-f49b7fcac60c02689b407052.mp3",
+      "spokenText": "🏷️ 3. 词性：方法名是紫色系统功能。",
+      "sha256": "fe77ba27210a590db2f0cbe1fc9afb7c655a42d39a0dc1e4d2922d881d12dfbc",
+      "duration": 5.328
+    },
+    "🧠 4. 内化：列表可以动态增加元素。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-f7f5a21974b4b3e114838f73.mp3",
+      "spokenText": "🧠 4. 内化：列表可以动态增加元素。",
+      "sha256": "1ab2a68fd11bacb1368e3ad0c3e137109db9d7cd248239b0d5da729b5f24efed",
+      "duration": 4.56
+    },
+    "这一行代码，内容是：student={\"name\":\"Alice\",\"age\":20}": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-444b0fd799f2c65ba1b07aa3.mp3",
+      "spokenText": "这一行代码，内容是：student={\"name\":\"Alice\",\"age\":20}",
+      "sha256": "eb0d40631efffd99a91e47f62f915b03c10f78cc815662f851220e55a074045c",
+      "duration": 6.528
+    },
+    "这是一个字典定义句：键值对数据结构。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-0a6e422673ed4bb72badfb43.mp3",
+      "spokenText": "这是一个字典定义句：键值对数据结构。",
+      "sha256": "6266fe112adba5641a94fd4c2f66e54bb5b99222e0233ee812b6cef2891f3809",
+      "duration": 3.984
+    },
+    "✂️ 1. 结构分析：花括号定义字典。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-1f6f168e8277c4c9841f8c7a.mp3",
+      "spokenText": "✂️ 1. 结构分析：花括号定义字典。",
+      "sha256": "3d98c5547673678ec57bb8e2600489e7a09da213beb1a4448bcfa2bc4a212abe",
+      "duration": 4.608
+    },
+    "🔍 2. 识别：冒号分隔键和值。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-c29ebe2f435c55f8bd0121e5.mp3",
+      "spokenText": "🔍 2. 识别：冒号分隔键和值。",
+      "sha256": "8e64d061ed3fcee37d338be0f34c1846ea228651664b84c8f78aa514785a3b23",
+      "duration": 4.992
+    },
+    "🏷️ 3. 词性：字典用于存储关联数据。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-53145e5eb120ae94b26f7112.mp3",
+      "spokenText": "🏷️ 3. 词性：字典用于存储关联数据。",
+      "sha256": "0ef6cf8c191a9679065ae16154b85460dddb9a675f978fdd7d99be628ef3be4d",
+      "duration": 5.4
+    },
+    "🧠 4. 内化：通过键快速访问对应的值。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-2e33f899daa4526064cf9a1b.mp3",
+      "spokenText": "🧠 4. 内化：通过键快速访问对应的值。",
+      "sha256": "04d3df5cd0d14180bda56f67c70450fa426dedcc3d16a91ac8dacede22360df5",
+      "duration": 4.704
+    },
+    "这一行代码，内容是：try:": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-9329c3b3023b72dd8ee0f07d.mp3",
+      "spokenText": "这一行代码，内容是：try:",
+      "sha256": "32d6124fcf57cb9af39554633e9d20c4118053f014f7130ac42ec43db4ccaea2",
+      "duration": 3.144
+    },
+    "这一行代码，内容是：result=10/num": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-d3c5ba125d5a7ed77738933f.mp3",
+      "spokenText": "这一行代码，内容是：result=10/num",
+      "sha256": "ea4a82b7166f0113a09d75c26962249a054d2a545cc809a4a3ba7d3413f35222",
+      "duration": 4.392
+    },
+    "except，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-09e3062baaed88fc42214a18.mp3",
+      "spokenText": "except，是系统定义",
+      "sha256": "8faace337fa0d61a1480b0bc050330441ab042454148c8eac70d03bf02cf1a30",
+      "duration": 2.568
+    },
+    "这一行代码，内容是：except:": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-8b9abef7acd12812e1b31fe8.mp3",
+      "spokenText": "这一行代码，内容是：except:",
+      "sha256": "69fb09fc1d68581f4c1526573119b792c60c5e644a6aace1da33278e2a01c883",
+      "duration": 3.408
+    },
+    "这一行代码，内容是：print(\"Error\")": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-a87e3d0cfda75e46dface064.mp3",
+      "spokenText": "这一行代码，内容是：print(\"Error\")",
+      "sha256": "b8136453aec83fc35d5c5c0867598b00c0632f284529b8be747f388262be7107",
+      "duration": 3.576
+    },
+    "这是一个异常处理句：捕获并处理错误。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-fce31011751507682133447f.mp3",
+      "spokenText": "这是一个异常处理句：捕获并处理错误。",
+      "sha256": "057e80b6ec4edf284810c708fdcf86e6608e0828aa25cab2f00bc3b6d4cde68f",
+      "duration": 4.008
+    },
+    "✂️ 1. 结构分析：try-except 保护代码。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-f669c6d10eed01791e270606.mp3",
+      "spokenText": "✂️ 1. 结构分析：try-except 保护代码。",
+      "sha256": "937f0029f382c870ce621778e2fe9747d1df9538f21f91923ccef7f22123643f",
+      "duration": 4.728
+    },
+    "🔍 2. 识别：try 尝试执行，except 处理错误。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-548d0f2d7e158513e8f22fad.mp3",
+      "spokenText": "🔍 2. 识别：try 尝试执行，except 处理错误。",
+      "sha256": "2b2921d33601dd64a5e7035e3e4be202cb29687da816680ab34fe20fb8e62518",
+      "duration": 6.24
+    },
+    "🏷️ 3. 词性：紫色关键字控制异常流程。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-ee1afc7a59a2bebc5c4bec72.mp3",
+      "spokenText": "🏷️ 3. 词性：紫色关键字控制异常流程。",
+      "sha256": "2c6ce9803b0b4c53d909d4ba498da3353d9e417470e763eaf32850947b609875",
+      "duration": 5.808
+    },
+    "🧠 4. 内化：防止程序因错误而崩溃。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-e7d6c50d2bdcb25434af2fd3.mp3",
+      "spokenText": "🧠 4. 内化：防止程序因错误而崩溃。",
+      "sha256": "a49e5760b87d2202cad8f58f64b63d9869a3607c93a994022a355e7e7fbc89e8",
+      "duration": 4.68
+    },
+    "不对哦～if 是条件判断，只执行一次。想\"一直做\"要用循环！": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-2cd27275f46667a8ca98cbf8.mp3",
+      "spokenText": "不对哦～if 是条件判断，只执行一次。想\"一直做\"要用循环！",
+      "sha256": "9f7c7b050def68053cf401da098027405b08bf34e9431dc65b4541955e603cd4",
+      "duration": 6.336
+    },
+    "不对哦～def 是定义函数的，不能让代码重复执行。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-07574682921e5f4592d1cfa3.mp3",
+      "spokenText": "不对哦～def 是定义函数的，不能让代码重复执行。",
+      "sha256": "3b57f0b24ae088129d799c24742c800412ed35a2126c9215cc714ecefcc2ef30",
+      "duration": 4.944
+    },
+    "正确！for 和 while 都是循环语句，能让代码重复执行，直到条件不满足为止。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-8fd1c545cfef275bd3ecef52.mp3",
+      "spokenText": "正确！for 和 while 都是循环语句，能让代码重复执行，直到条件不满足为止。",
+      "sha256": "8ebe3454ca08e0df3dd73e4155f8336d5b03e5406b06e842aff93ab13716a256",
+      "duration": 7.776
+    },
+    "不对哦～class 是定义类的，和重复执行没有关系。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-fc865847e1fcac2b6612d9ba.mp3",
+      "spokenText": "不对哦～class 是定义类的，和重复执行没有关系。",
+      "sha256": "f39f6fe3d1d3f9c9ad86b79a0884f4f8ebb2fa7502a56d5f4e55d0ec730286d3",
+      "duration": 4.512
+    },
+    "正确！缩进在 Python 中表示从属关系，缩进的代码属于上面的 if/for/def 等语句。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-c37030a92fc000a1c95d6220.mp3",
+      "spokenText": "正确！缩进在 Python 中表示从属关系，缩进的代码属于上面的 if/for/def 等语句。",
+      "sha256": "1b66a9836c51ec512fd79f0b76adb9d7fd56498c6509f96e9e9d9d705f66f642",
+      "duration": 8.424
+    },
+    "不对哦～在 Python 中缩进不只是为了美观，它有实际意义，表示代码的层级关系。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-f170883149e2d00e808dfbc4.mp3",
+      "spokenText": "不对哦～在 Python 中缩进不只是为了美观，它有实际意义，表示代码的层级关系。",
+      "sha256": "31a86dbd3b8a87c61461bed77913b147f29207bba99c59db47d71a41a781e4bb",
+      "duration": 7.416
+    },
+    "不对哦～Python 的缩进是语法规则，不是多按的空格，它表示代码块的从属关系。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-985e6965f36056b2a7d47571.mp3",
+      "spokenText": "不对哦～Python 的缩进是语法规则，不是多按的空格，它表示代码块的从属关系。",
+      "sha256": "365b06ee7664fb605def267176bb600e4b2b4dafd982c0bf3b8fd8cff0f1146c",
+      "duration": 7.368
+    },
+    "不对哦～圆括号 () 定义的是元组（tuple），不是列表。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-6cde9139a426b7fd12126609.mp3",
+      "spokenText": "不对哦～圆括号 () 定义的是元组（tuple），不是列表。",
+      "sha256": "f15bd0f373a189921309ada71fe764943270a7c5c666ed0f24d7635d471243d3",
+      "duration": 4.512
+    },
+    "正确！方括号 [] 用于定义列表，列表是 Python 中最常用的数据结构之一。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-1ab891fbf512cd5364139bd6.mp3",
+      "spokenText": "正确！方括号 [] 用于定义列表，列表是 Python 中最常用的数据结构之一。",
+      "sha256": "a8a7367697a1ead3938ab91e1397a1c76ebaf73b90fd3ef04d047fe1a9525a09",
+      "duration": 7.68
+    },
+    "不对哦～花括号 {} 定义的是集合（set）或字典，不是列表。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-4afbfe86aba7ee7a45c9d36c.mp3",
+      "spokenText": "不对哦～花括号 {} 定义的是集合（set）或字典，不是列表。",
+      "sha256": "b3faf7d23da2fa5b7f729e20d97afdad5d34e1a111196a6cf5094ed652733369",
+      "duration": 5.688
+    },
+    "正确！85 >= 60 满足 elif 的条件，所以输出\"及格\"。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-10981433083ffaa1df629098.mp3",
+      "spokenText": "正确！85 >= 60 满足 elif 的条件，所以输出\"及格\"。",
+      "sha256": "c100ad4f556a5514b96d47a139b47e0b7ddca30c9075f22aa8d0e5e1bf07ccf8",
+      "duration": 6.288
+    },
+    "不对哦～虽然第一个条件不满足，但 85 >= 60 满足 elif 条件，会输出\"及格\"。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-8938d4935f9a275d1ebdd788.mp3",
+      "spokenText": "不对哦～虽然第一个条件不满足，但 85 >= 60 满足 elif 条件，会输出\"及格\"。",
+      "sha256": "b10032d741fbdb13e5de22efad2cee969afe8efb2a77d0f4214405128d8736fd",
+      "duration": 7.68
+    },
+    "正确！Python 用 def 关键字定义函数，函数名后面需要括号和冒号。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-be0f157eef86c05c6d749353.mp3",
+      "spokenText": "正确！Python 用 def 关键字定义函数，函数名后面需要括号和冒号。",
+      "sha256": "b9f400d2ca53847ac582e7454f01545dc00a443322bfb5c3b5a82c72c5557b1f",
+      "duration": 7.128
+    },
+    "不对哦～Python 用 def 而不是 function 来定义函数。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-55a36dee0408fcd962d05df3.mp3",
+      "spokenText": "不对哦～Python 用 def 而不是 function 来定义函数。",
+      "sha256": "df6fde0f3a2fef804c12890e33915c43b453f45fade25bdd64c236eab8354d04",
+      "duration": 4.44
+    },
+    "不对哦～函数定义的末尾需要冒号 :，这里漏掉了。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-5f212d0c21e75d2aeee2335e.mp3",
+      "spokenText": "不对哦～函数定义的末尾需要冒号 :，这里漏掉了。",
+      "sha256": "c1965bf842b9111fb3b842e5bf4ba57b2d42fcd48a9fb8886da30dc811b0638c",
+      "duration": 4.416
+    },
+    "不对哦～因为 count 每次加1，最终会大于等于 5，条件不满足循环就会停止。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-e6f81c7216eb5b89716677c7.mp3",
+      "spokenText": "不对哦～因为 count 每次加1，最终会大于等于 5，条件不满足循环就会停止。",
+      "sha256": "765b61ba45a9113ea8b1f840039a907afa06c77ea73382be0cc4d76ab755d3c9",
+      "duration": 7.2
+    },
+    "不对哦～当 count 等于 5 时，count < 5 为 False，循环刚好停止，但其实是\"大于等于5\"时停止。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-63238feeb9432f7d2e0c975a.mp3",
+      "spokenText": "不对哦～当 count 等于 5 时，count < 5 为 False，循环刚好停止，但其实是\"大于等于5\"时停止。",
+      "sha256": "c0cf886e1dd79752702da8a3f0371fbd95cea2b2fa8dcc4b30261bc83d01dccb",
+      "duration": 8.52
+    },
+    "正确！当 count 达到 5 时，count < 5 为 False，条件不满足，循环停止。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-0fa939d043207a49e0fcf1e3.mp3",
+      "spokenText": "正确！当 count 达到 5 时，count < 5 为 False，条件不满足，循环停止。",
+      "sha256": "3290e9767017476b9a319a5f6173de34fd7f89c86051fa0d6215ee20c86463f7",
+      "duration": 7.488
+    },
+    "不对哦～参数 name 会被实际传入的值 '小明' 替换，不会输出字面量 'name'。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-215fa44a660695765826495c.mp3",
+      "spokenText": "不对哦～参数 name 会被实际传入的值 '小明' 替换，不会输出字面量 'name'。",
+      "sha256": "e431c10be210794e4000a4ab7569c02e77d30061cb8d9fb420ba878cf87198d3",
+      "duration": 6.6
+    },
+    "正确！调用 greet('小明') 时，name = '小明'，所以输出 '你好，小明'。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-04bf3dcbefe0ff0548b5c3d7.mp3",
+      "spokenText": "正确！调用 greet('小明') 时，name = '小明'，所以输出 '你好，小明'。",
+      "sha256": "f04c48422e0040d4723ea956c0bf868b0557d3645d8df785139ed0e96fc12088",
+      "duration": 7.056
+    },
+    "不对哦～这个代码完全正确，不会报错。参数传递是 Python 的基本功能。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-3dc55a717133a2b0eb2505cd.mp3",
+      "spokenText": "不对哦～这个代码完全正确，不会报错。参数传递是 Python 的基本功能。",
+      "sha256": "c0c354dab92ad2958ed25adc1ac373d184fdf0c771c9e9d7e140c88be7592e9f",
+      "duration": 7.032
+    },
+    "不对哦～.append(4) 会在列表末尾添加 4，所以不再是原来的 [1, 2, 3]。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-b1fd19b7c363a7c38b6a8c1c.mp3",
+      "spokenText": "不对哦～.append(4) 会在列表末尾添加 4，所以不再是原来的 [1, 2, 3]。",
+      "sha256": "a6368b45dbe1f8618fbcc066d3bb10173fbfb46f481bc8e0ead9cf8c0b35a607",
+      "duration": 7.632
+    },
+    "正确！append(4) 把 4 添加到列表末尾，结果是 [1, 2, 3, 4]。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-33ddea9060d9d38a35fc8557.mp3",
+      "spokenText": "正确！append(4) 把 4 添加到列表末尾，结果是 [1, 2, 3, 4]。",
+      "sha256": "3c563a2ed9228643ff1ccc06ca9f600e819a4c957b11c9316c8e0d2fff3583de",
+      "duration": 7.8
+    },
+    "不对哦～.append() 是添加元素，不是替换整个列表，原有元素还在。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-d83dcad67e4960dfad3eb0e8.mp3",
+      "spokenText": "不对哦～.append() 是添加元素，不是替换整个列表，原有元素还在。",
+      "sha256": "95d2ecb56abcb30ffbe0832c4196a7ea57c9a15553482967bf9a15f378799455",
+      "duration": 6.288
+    },
+    "不对哦～f-string 中 {name} 和 {age} 会被变量的值替换，不会输出变量名。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-af02e003fcd948ebb644a736.mp3",
+      "spokenText": "不对哦～f-string 中 {name} 和 {age} 会被变量的值替换，不会输出变量名。",
+      "sha256": "64f43b70cd91205bb023ea36dbd77f6d573b85478f00695cc38c6962368cd116",
+      "duration": 6.576
+    },
+    "正确！f-string 会把 {name} 替换为 '小红'，{age} 替换为 18。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-42d5da3cab86daa73b1f66be.mp3",
+      "spokenText": "正确！f-string 会把 {name} 替换为 '小红'，{age} 替换为 18。",
+      "sha256": "7aae97dcc4665f7a85448a895aaeb72aa44262b9b994909ce6bfed71037dc919",
+      "duration": 6.024
+    },
+    "不对哦～f-string 是 Python 3.6+ 的标准功能，这个代码完全正确。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-0997507c5995411e9786683f.mp3",
+      "spokenText": "不对哦～f-string 是 Python 3.6+ 的标准功能，这个代码完全正确。",
+      "sha256": "2e01aa28d6e9f445adde91437321615f8c61121f7db99377bbb53d6fe961db87",
+      "duration": 6.384
+    },
+    "不对哦～45 < 60，elif 条件也不满足。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-4bc763ea3d6622c035baed8d.mp3",
+      "spokenText": "不对哦～45 < 60，elif 条件也不满足。",
+      "sha256": "3fe5b4fdf16f97346877ee4b8eacc9e2e6accdfcfe2276e01a68207123ee66f5",
+      "duration": 4.488
+    },
+    "正确！45 不满足任何 if 或 elif 条件，所以执行 else 分支，输出 \"不及格\"。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-df688acbef616f3853e6aa22.mp3",
+      "spokenText": "正确！45 不满足任何 if 或 elif 条件，所以执行 else 分支，输出 \"不及格\"。",
+      "sha256": "ef6578e2719d0c939bed1a015e41877aea6a4e9ad9b7a3300934f81df5cbff78",
+      "duration": 8.016
+    },
+    "不对哦～print 的拼写是正确的，问题在别处。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-c8041be3bd88105601099234.mp3",
+      "spokenText": "不对哦～print 的拼写是正确的，问题在别处。",
+      "sha256": "66cec177bfb128855525d082c01cadc1f9247032d28674a86160e902ebb88138",
+      "duration": 4.248
+    },
+    "正确！if 语句末尾必须有冒号 :，这里漏掉了。正确写法是 if score > 60:": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-4b7cd7f29e08180ab3f12470.mp3",
+      "spokenText": "正确！if 语句末尾必须有冒号 :，这里漏掉了。正确写法是 if score > 60:",
+      "sha256": "7897b3cffa378e0e095570e52321e861a72c6e0b13cca0f61b953c3cd1c20210",
+      "duration": 8.304
+    },
+    "不对哦～缩进是正确的，print 确实应该缩进。问题是 if 语句末尾缺少冒号。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-47a410913b715c0686550cf4.mp3",
+      "spokenText": "不对哦～缩进是正确的，print 确实应该缩进。问题是 if 语句末尾缺少冒号。",
+      "sha256": "ac3f75658ac8f38901887d66ad33c2fc8d2cb3599f6ad72da305581b3f88b9c6",
+      "duration": 7.584
+    },
+    "正确！if 语句后面的代码必须缩进，这里 print 没有缩进，会报 IndentationError。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-d32c450195a7baae01ed2922.mp3",
+      "spokenText": "正确！if 语句后面的代码必须缩进，这里 print 没有缩进，会报 IndentationError。",
+      "sha256": "6fbe15cc196d2570702ad89da9dc8953b213cd63476923477fbef45a6a307589",
+      "duration": 8.016
+    },
+    "不对哦～虽然条件是 True，但 print 没有缩进，Python 不知道它属于 if，会报错。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-266705bd1136fd2e9c01a8a5.mp3",
+      "spokenText": "不对哦～虽然条件是 True，但 print 没有缩进，Python 不知道它属于 if，会报错。",
+      "sha256": "423dcc0a4a2ab876d7059165ba4d5dc6e391fcc1d8f818c8e84b4d8393c3cbb9",
+      "duration": 7.2
+    },
+    "不对哦～代码不会正常运行，因为缩进错误会导致语法错误。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-bb45dca07b236c594785c638.mp3",
+      "spokenText": "不对哦～代码不会正常运行，因为缩进错误会导致语法错误。",
+      "sha256": "1c92f74d0c162df9345cb5b91cca3807b1cf3c1f7a685fc60c8c7cc083d6c938",
+      "duration": 5.856
+    },
+    "不对哦～name 在第一行已经定义了，问题不在这里。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-9aae1e1780c624bb7e0e8420.mp3",
+      "spokenText": "不对哦～name 在第一行已经定义了，问题不在这里。",
+      "sha256": "e1a10b1bb0781c6e32334cf4b8b7a17e262f6daeac685e742b6c25558545b72b",
+      "duration": 4.536
+    },
+    "不对哦～字符串 \"小明\" 的格式是正确的。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-08995abbfa5ae915929c74a6.mp3",
+      "spokenText": "不对哦～字符串 \"小明\" 的格式是正确的。",
+      "sha256": "5df6c60cd4113b18d2b510dd824458fca033d3aa6f2e868d6c04424e10633eda",
+      "duration": 3.552
+    },
+    "正确！print 被错误地拼写成了 prinnt（多了一个 n），Python 不认识这个名字，会报 NameError。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-8e7637bdd04602b569511b4e.mp3",
+      "spokenText": "正确！print 被错误地拼写成了 prinnt（多了一个 n），Python 不认识这个名字，会报 NameError。",
+      "sha256": "3933772a2b7e252f7f5ccf580c9fc9e2c366e1927e60c12c249c810e6d50e661",
+      "duration": 8.232
+    },
+    "):，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-1d87cd93f2ca00098661fec6.mp3",
+      "spokenText": "):，是操作符号",
+      "sha256": "26abc93fc0c4517c8c4cd6d78f0eadd9edd9ae2a2a7c147902c16f062b2e25af",
+      "duration": 1.896
+    },
+    " price ，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-16bb20f8f87d288f0d94b1aa.mp3",
+      "spokenText": " price ，是文本内容",
+      "sha256": "4947fe901642dbb307a855d540761000cc8d9fa8131e490acefa772e0b430a6d",
+      "duration": 2.424
+    },
+    "))，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-a60327049f7e7294f4963cc6.mp3",
+      "spokenText": "))，是操作符号",
+      "sha256": "f97ef5590b38026dff9974606801434675b789e22d294b2ad6902d52eca2ce70",
+      "duration": 1.896
+    },
+    " i ，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-036bf0b5d3bcf2ab364e0aad.mp3",
+      "spokenText": " i ，是文本内容",
+      "sha256": "5a9dac9d68922af92050c78850bc868a4a74f81e946f06a6a6877490aa1b8485",
+      "duration": 2.208
+    },
+    " range，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-896d11e9e01aa8b7ebd8872c.mp3",
+      "spokenText": " range，是系统定义",
+      "sha256": "c9235436a274ee42753288cf2a58f07fcf6edff038d72328c2a48a6f3bc32bd8",
+      "duration": 2.4
+    },
+    ")):，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-4f6f4d9eb3b0812b046c1393.mp3",
+      "spokenText": ")):，是操作符号",
+      "sha256": "f97ef5590b38026dff9974606801434675b789e22d294b2ad6902d52eca2ce70",
+      "duration": 1.896
+    },
+    " j ，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-2eb74e9b9ec34eca76c3b38a.mp3",
+      "spokenText": " j ，是文本内容",
+      "sha256": "a79653f5a46c4ba9a1f9fd7f657e2656c54dfd0c24fbd6122bad7e0c60ca0a05",
+      "duration": 2.232
+    },
+    " len，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-1e7d479659e47a158464eb91.mp3",
+      "spokenText": " len，是系统定义",
+      "sha256": "8c7b21db28f1f065985b11345c042cfcf2c83c74b3c7b49b1bd9a8aa5c46c6f4",
+      "duration": 2.304
+    },
+    " == ，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-4618166f495717f0d3d6356e.mp3",
+      "spokenText": " == ，是操作符号",
+      "sha256": "ff50925faeafabe2b5660efbf457b2be7f1c07794b372dea17a1d2fd7f7193fe",
+      "duration": 2.688
+    },
+    "]:，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-7c6ffd745f77230156355466.mp3",
+      "spokenText": "]:，是操作符号",
+      "sha256": "f97ef5590b38026dff9974606801434675b789e22d294b2ad6902d52eca2ce70",
+      "duration": 1.896
+    },
+    " True，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-d740dbdda03675c378882f58.mp3",
+      "spokenText": " True，是系统定义",
+      "sha256": "3ab5a0d8b7c9abed36abfb1f861c1ee30c412e1f55b082b0d94417a746cf3d4b",
+      "duration": 2.28
+    },
+    " False，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-89f56f0da4ad741b0a18ddb1.mp3",
+      "spokenText": " False，是系统定义",
+      "sha256": "567e31bee604e85a0f817623b1b8bb4f5a6f830c41f4b7ec76b073d6bca2d3cc",
+      "duration": 2.424
+    },
+    "([，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-51bb226c34837ee77ef1e4f8.mp3",
+      "spokenText": "([，是操作符号",
+      "sha256": "f97ef5590b38026dff9974606801434675b789e22d294b2ad6902d52eca2ce70",
+      "duration": 1.896
+    },
+    "]))，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-9dcd18a012a282ddeb2e797d.mp3",
+      "spokenText": "]))，是操作符号",
+      "sha256": "26abc93fc0c4517c8c4cd6d78f0eadd9edd9ae2a2a7c147902c16f062b2e25af",
+      "duration": 1.896
+    },
+    " \"，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-b9afaa95341c5dbb1b02f600.mp3",
+      "spokenText": " \"，是操作符号",
+      "sha256": "26abc93fc0c4517c8c4cd6d78f0eadd9edd9ae2a2a7c147902c16f062b2e25af",
+      "duration": 1.896
+    },
+    "你好，，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-59e5a594c15c16e9251cc3ad.mp3",
+      "spokenText": "你好，，是文本内容",
+      "sha256": "f1cb708cd44313474877e734d134a58e586d8f5662928d4e278143c930a0c9f8",
+      "duration": 2.328
+    },
+    "\"，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-bd4b2fa306d25d9f7c3c468c.mp3",
+      "spokenText": "\"，是操作符号",
+      "sha256": "26abc93fc0c4517c8c4cd6d78f0eadd9edd9ae2a2a7c147902c16f062b2e25af",
+      "duration": 1.896
+    },
+    " + ，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-3ae24bd616e663cb8c51a276.mp3",
+      "spokenText": " + ，是操作符号",
+      "sha256": "6256dc5689d3b1e86e20bcfabfd809794fa4aed244ffd6865e2167e480729fd8",
+      "duration": 2.28
+    },
+    "(\"，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-71842aabecf6678a491a5526.mp3",
+      "spokenText": "(\"，是操作符号",
+      "sha256": "26abc93fc0c4517c8c4cd6d78f0eadd9edd9ae2a2a7c147902c16f062b2e25af",
+      "duration": 1.896
+    },
+    "小明，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-b4bae4786942610ae0c8d173.mp3",
+      "spokenText": "小明，是文本内容",
+      "sha256": "434c5c0c8a415eda49e3c9f18df0b0038e10631bda22b394c8e2cd0bd85141e8",
+      "duration": 2.424
+    },
+    "\"))，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-ea9fa04cdf0ea7a9870128c9.mp3",
+      "spokenText": "\"))，是操作符号",
+      "sha256": "f97ef5590b38026dff9974606801434675b789e22d294b2ad6902d52eca2ce70",
+      "duration": 1.896
+    },
+    " sum，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-fc05a8a0d664b34a766a2157.mp3",
+      "spokenText": " sum，是系统定义",
+      "sha256": "5eb2d6937a27d769e6a183ee0e744896ce5f3e09564af91c7cbe6edc3c087d4b",
+      "duration": 2.376
+    },
+    " / ，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-bd6512d873926693009d8993.mp3",
+      "spokenText": " / ，是操作符号",
+      "sha256": "f97ef5590b38026dff9974606801434675b789e22d294b2ad6902d52eca2ce70",
+      "duration": 1.896
+    },
+    "average，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-2f0880a39cd8dbf93ab0682a.mp3",
+      "spokenText": "average，是文本内容",
+      "sha256": "a99a5964aec25e110ee4fe69f892007e7522a342bfedba75cf946e073ec95eda",
+      "duration": 2.496
+    },
+    " n ，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-d650c26eedc66e44b373c6c3.mp3",
+      "spokenText": " n ，是文本内容",
+      "sha256": "cf126e0de540bdb73b4937026f27d5556f161a9edde50b027e4cc00e66612100",
+      "duration": 2.184
+    },
+    "find_max，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-0ebfca1284f59a3bb5591f55.mp3",
+      "spokenText": "find_max，是文本内容",
+      "sha256": "51ff7a539a7bee9b81f6c1c09137ee7f202e857c8acbe0395ca648a8900b2600",
+      "duration": 3.432
+    },
+    "9，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-6aff7d15b787ed92a1a88cdc.mp3",
+      "spokenText": "9，是文本内容",
+      "sha256": "93a30b08008d0e3e50a0198dff082d005a54ace97233c770c61b4beaed429396",
+      "duration": 2.232
+    },
+    "result ，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-dd697698205aa7fd1ad430ef.mp3",
+      "spokenText": "result ，是文本内容",
+      "sha256": "e6860aa43a093e813a2b209c8a3f45d977250a0cc0654148ecb5785ee34fd7e9",
+      "duration": 2.52
+    },
+    " []，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-23f2cf5029a45e846eb5536b.mp3",
+      "spokenText": " []，是操作符号",
+      "sha256": "f97ef5590b38026dff9974606801434675b789e22d294b2ad6902d52eca2ce70",
+      "duration": 1.896
+    },
+    "%，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-6de70dd0f357274bf200ced4.mp3",
+      "spokenText": "%，是操作符号",
+      "sha256": "5c5b9844750c8e632d5f3e39b0c3d253793ac6f82208598e4ff8f9f509b2ebf7",
+      "duration": 2.64
+    },
+    " 2 ，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-ffe3f6541f54a54ccca74934.mp3",
+      "spokenText": " 2 ，是文本内容",
+      "sha256": "f1a00a9fb78137c8528b715d6540b1328cbc9aab3bd0ad77c081ec08bcc96ae4",
+      "duration": 2.256
+    },
+    "filter_even，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-12b9e8b45e59c934fccc76b2.mp3",
+      "spokenText": "filter_even，是文本内容",
+      "sha256": "e50c5a47004d3ef8ad205cbffe7c44a8e1b025b70e4df1aab4fecf780223335a",
+      "duration": 3.576
+    },
+    "hello，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-bc32d50a9b2dfc08250efba2.mp3",
+      "spokenText": "hello，是文本内容",
+      "sha256": "82689118743eaf9b8f17a993eb92e591f718d09a7a00db59481eed3db81757b2",
+      "duration": 2.352
+    },
+    "playing ，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-e0d228bdeb313934c231b239.mp3",
+      "spokenText": "playing ，是文本内容",
+      "sha256": "eb5e45601250edbae6e7da2e01f1410e35fb8e846503633a6648e3f3dd8eaa2c",
+      "duration": 2.4
+    },
+    "choice ，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-33677ebc486360d1016ce6ce.mp3",
+      "spokenText": "choice ，是文本内容",
+      "sha256": "84b31a6116480c8e645d25ccacb80efb73041fb5c5e4a3bc45ad594cb5979c10",
+      "duration": 2.4
+    },
+    " input，是系统定义": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-63328b92ecffe25313f5af57.mp3",
+      "spokenText": " input，是系统定义",
+      "sha256": "ae1e4f8bf6a55df34e5c90a7ebde28031c6ddd679d33ae47860815012acc20b7",
+      "duration": 2.568
+    },
+    " choice ，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-92b45578e913fdb83654ead6.mp3",
+      "spokenText": " choice ，是文本内容",
+      "sha256": "84b31a6116480c8e645d25ccacb80efb73041fb5c5e4a3bc45ad594cb5979c10",
+      "duration": 2.4
+    },
+    "prices ，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-f633bdc94d7b9d246c773dec.mp3",
+      "spokenText": "prices ，是文本内容",
+      "sha256": "f5e13553d2d6bd5fce91be00478abb207e6461faf3d8bffbb3f82ec19eedb0f0",
+      "duration": 2.52
+    },
+    " \"香蕉\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-2f8652da3f0df4977eab020e.mp3",
+      "spokenText": " \"香蕉\"，是文本内容",
+      "sha256": "bc71fa4d349833861be1129c5b451670d6285f28307812dbae8f7869638c7e2e",
+      "duration": 2.496
+    },
+    "cart ，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-94d4f643b87d1c4ea0fa5e4d.mp3",
+      "spokenText": "cart ，是文本内容",
+      "sha256": "0d9697d78dbea5508acbb781ee6a8526e2024c26baebf789bd5f299699703891",
+      "duration": 2.352
+    },
+    "total ，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-8c2ee8d038556b10f7194bd0.mp3",
+      "spokenText": "total ，是文本内容",
+      "sha256": "c1e66ef086c2148f80c17d74538d10dae6e06b5ab2e0fa019f106bde47d95824",
+      "duration": 2.376
+    },
+    " item ，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-8d1758eb12a7aa82c49ad0dc.mp3",
+      "spokenText": " item ，是文本内容",
+      "sha256": "44377d7b511a3f38683cfc794a2ebcde0d23323de8cfa1b04430e4ce36ec0980",
+      "duration": 2.352
+    },
+    "+=，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-d6efe237a40e16438a5a272c.mp3",
+      "spokenText": "+=，是操作符号",
+      "sha256": "f39c6466758834e6f113042339994a31b1e6068471f64d7ae1a1c7cb62af5514",
+      "duration": 2.592
+    },
+    "\"总价:\"，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-5719e109ff6ab306b544a84a.mp3",
+      "spokenText": "\"总价:\"，是文本内容",
+      "sha256": "22afbbb410a3ba2b4e52de34988976e7ace45d49f9b4c3a0090016f0fe3e5ac5",
+      "duration": 2.424
+    },
+    " num ，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-d7ca39d3d52f2eec083a4c53.mp3",
+      "spokenText": " num ，是文本内容",
+      "sha256": "3872d2d4ba46c8dc987a1bfbcedbc8ae02b59ec73e7fd5a339fb483a44e3d1de",
+      "duration": 2.424
+    },
+    "sum_list，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-23b32be23737fe3f3f8ecc81.mp3",
+      "spokenText": "sum_list，是文本内容",
+      "sha256": "459c0d735a84733b80f45fd839ef383d319f6bbade4773816e8b4b371767d717",
+      "duration": 3.456
+    },
+    " age ，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-51247c1f6b3e2d6adf03b1ce.mp3",
+      "spokenText": " age ，是文本内容",
+      "sha256": "efd54c4d88becf3a8eca11395a646429ffbe0e3bb84187ac73e8beeeb8684720",
+      "duration": 2.328
+    },
+    " 0 ，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-60d90487a9c38b422d79627f.mp3",
+      "spokenText": " 0 ，是文本内容",
+      "sha256": "c713d3a0a53b26885f847b04ca08c9854023e3939b26e031775fd869d7084b74",
+      "duration": 2.232
+    },
+    "<=，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-1b80993a1cd767b2e5fa65f3.mp3",
+      "spokenText": "<=，是操作符号",
+      "sha256": "3487ec72dceb0d0eda6489038ec5d69d6dcc2fb768b1c30f66909f14184b7706",
+      "duration": 2.4
+    },
+    " char，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-bd62a7e435665391fd28d01e.mp3",
+      "spokenText": " char，是文本内容",
+      "sha256": "beb2133a142316d54deefe668d11f712d7b772da4c821aa290523f0f500b0d19",
+      "duration": 2.28
+    },
+    "count ，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-1e444c2fda0cf0978f32d088.mp3",
+      "spokenText": "count ，是文本内容",
+      "sha256": "360c5c78c30663f34517d539082f576cdf5c759490d0bf799b72b383c66a8610",
+      "duration": 2.352
+    },
+    " c ，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-fe8e6e7e8a5176ffcf8450b6.mp3",
+      "spokenText": " c ，是文本内容",
+      "sha256": "3ccfc8f01756c34762d6d2a909892b467e6705722749872bbb6c28e7b054dc67",
+      "duration": 2.328
+    },
+    "count_char，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-eb3dad2f3be10f49b0dce38d.mp3",
+      "spokenText": "count_char，是文本内容",
+      "sha256": "42085868cca114ad2574096648fd0fd84ac4c3f1c5f8bfd3e69c10d68d3b8d80",
+      "duration": 3.264
+    },
+    "l，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-6a0b46d0002590e6a755ce4d.mp3",
+      "spokenText": "l，是文本内容",
+      "sha256": "9a63353c0313ee63c00ad54d04663e52fc64f77ee962a6b1c0d31072be1b35c5",
+      "duration": 2.304
+    },
+    "scores ，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-88a8f59e8fe21805a33bb6a4.mp3",
+      "spokenText": "scores ，是文本内容",
+      "sha256": "fe878f6870656db8ef0130e74be6e8c7032151bb35abf4e66529fccbdb77bcda",
+      "duration": 2.472
+    },
+    "\":，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-c8fe05a5c1cdf1a2f3727654.mp3",
+      "spokenText": "\":，是操作符号",
+      "sha256": "f97ef5590b38026dff9974606801434675b789e22d294b2ad6902d52eca2ce70",
+      "duration": 1.896
+    },
+    "小红，是文本内容": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-1bd7cb568b2b69dfc38bd14c.mp3",
+      "spokenText": "小红，是文本内容",
+      "sha256": "9213486ce38c6c927f8ea13d8c66eb24da7b32af2e69588c4f0a9b5f3acf4add",
+      "duration": 2.448
+    },
+    "[\"，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-9a041aa162277783e6e0283f.mp3",
+      "spokenText": "[\"，是操作符号",
+      "sha256": "26abc93fc0c4517c8c4cd6d78f0eadd9edd9ae2a2a7c147902c16f062b2e25af",
+      "duration": 1.896
+    },
+    "\"])，是操作符号": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-3817368da8cdcceefe86ddaf.mp3",
+      "spokenText": "\"])，是操作符号",
+      "sha256": "f97ef5590b38026dff9974606801434675b789e22d294b2ad6902d52eca2ce70",
+      "duration": 1.896
+    },
+    "正确！def 是 define（定义）的缩写，是 Python 中定义函数的关键字。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-d14cf25ba9da1212127cea1d.mp3",
+      "spokenText": "正确！def 是 define（定义）的缩写，是 Python 中定义函数的关键字。",
+      "sha256": "d7d680843a244ce6b38f113a9631aa559d2e45594183e17c782f21f9f64c8404",
+      "duration": 6.888
+    },
+    "不对哦～Python 没有 start 关键字，定义函数用的是 def。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-4cc1206ce3ca99df89f77dd5.mp3",
+      "spokenText": "不对哦～Python 没有 start 关键字，定义函数用的是 def。",
+      "sha256": "fc14bd1f30bfcbaeec3994144e8260d118a3dcae3628a80dd4d4f3fea9a7f805",
+      "duration": 5.064
+    },
+    "不对哦～create 不是 Python 的关键字，定义函数用 def。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-3786226313a21902e21b87d2.mp3",
+      "spokenText": "不对哦～create 不是 Python 的关键字，定义函数用 def。",
+      "sha256": "4b5e2bb9b03501f0f8f87aec1a32a8ec8e50d0642cdad0f0fc21bf1089ac61bf",
+      "duration": 5.064
+    },
+    "不对哦～make 不是 Python 的关键字，定义函数用 def。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-703902c43b8d27b2ffc1c272.mp3",
+      "spokenText": "不对哦～make 不是 Python 的关键字，定义函数用 def。",
+      "sha256": "ce2ba6ab1223de7855a10148b9938afad71efc17fabf392073c6dc204f9087a0",
+      "duration": 4.848
+    },
+    "不对哦～函数不会让程序变慢，相反可能更高效，因为避免了重复代码。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-50826e6517c882f1c88b4b0d.mp3",
+      "spokenText": "不对哦～函数不会让程序变慢，相反可能更高效，因为避免了重复代码。",
+      "sha256": "1424240b5f3956caf0ae5836b07fb9590cd1e15ca5513a8c28ae2721e3b4ac5f",
+      "duration": 6.744
+    },
+    "不对哦～import math 不是创建变量，而是导入数学模块。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-2e6627bc4c76d78a8c3d2df1.mp3",
+      "spokenText": "不对哦～import math 不是创建变量，而是导入数学模块。",
+      "sha256": "1ad9a73d2d073bbe3e1cfd8a87f4aab65b5d4362068ee28810d5f44e6ac576f4",
+      "duration": 5.304
+    },
+    "不对哦～import 是导入，不是删除。导入后可以使用 math.sqrt() 等函数。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-b648a54dc89e68283ce9aeef.mp3",
+      "spokenText": "不对哦～import 是导入，不是删除。导入后可以使用 math.sqrt() 等函数。",
+      "sha256": "5339d3f561cbe8a3822781dfef867e1ac3450a59f14cef6d0e9f6262647a1aeb",
+      "duration": 7.656
+    },
+    "正确！import math 导入数学库，可以使用平方根、三角函数等数学功能。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-c93610e56c55060b099cd2a2.mp3",
+      "spokenText": "正确！import math 导入数学库，可以使用平方根、三角函数等数学功能。",
+      "sha256": "f329e193991787da19ee4315df83ed2efd4259dc56b18e518b9501f08e06d084",
+      "duration": 7.368
+    },
+    "不对哦～分函数不会让程序变慢，相反会让代码更清晰、更容易维护。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-a550015bd49834c08755b953.mp3",
+      "spokenText": "不对哦～分函数不会让程序变慢，相反会让代码更清晰、更容易维护。",
+      "sha256": "a58ce6086ac0c0d879737daaa6be30092fb35352e424f02409472f983380222c",
+      "duration": 6.72
+    },
+    "正确！继承让子类自动拥有父类的属性和方法，还可以扩展新功能。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-c34e8a65aac9754aae1b4889.mp3",
+      "spokenText": "正确！继承让子类自动拥有父类的属性和方法，还可以扩展新功能。",
+      "sha256": "c281fdd2866c7ddd8cc555a48a230a76c5085922371bcb6063f9e65371813ca1",
+      "duration": 6.936
+    },
+    "不对哦～\"r\" 模式是读取，不是删除。删除文件要用 os.remove()。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-f478f80b2dae2bd275b7968c.mp3",
+      "spokenText": "不对哦～\"r\" 模式是读取，不是删除。删除文件要用 os.remove()。",
+      "sha256": "67b5c83123c0e1f4e3fa132a3f5c333854ff5a8625f70d931d850f75680128ec",
+      "duration": 6.84
+    },
+    "正确！\"r\" 表示 read（读取），with open 会安全地打开文件并读取内容。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-99b87482a784ef12234d04a9.mp3",
+      "spokenText": "正确！\"r\" 表示 read（读取），with open 会安全地打开文件并读取内容。",
+      "sha256": "1748ecf0aaaa798fd7328c04e4f7cc429adcfc5c9fa2ffb8196d45662c6d4d44",
+      "duration": 6.648
+    },
+    "不对哦～写入文件用 \"w\" 或 \"a\" 模式，\"r\" 是读取模式。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-ce450094871943ef374ef1a9.mp3",
+      "spokenText": "不对哦～写入文件用 \"w\" 或 \"a\" 模式，\"r\" 是读取模式。",
+      "sha256": "10815d39bd2715bca615814df342f401561b2bf720aee0e0ddb134fc56117e5d",
+      "duration": 5.328
+    },
+    "不对哦～列表推导式通常比 for 循环更快，而且更简洁。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-cb977b1836240655d7981384.mp3",
+      "spokenText": "不对哦～列表推导式通常比 for 循环更快，而且更简洁。",
+      "sha256": "666b24057539ec1befa06b3ff1dbb8fecdcb77ed2b29f141b57e95fb49e9d7c5",
+      "duration": 5.52
+    },
+    "正确！列表推导式是 Python 的优雅写法，一行代码就能创建列表。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-c4002180b1f8a10c980cd7c5.mp3",
+      "spokenText": "正确！列表推导式是 Python 的优雅写法，一行代码就能创建列表。",
+      "sha256": "63e61ae565d1608da7c78a0c9f685f5f33d9daedb657e29d1655521ae92d8327",
+      "duration": 7.032
+    },
+    "不对哦～列表推导式可以处理任何类型的数据，不只是数字。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-3c6f32062ea6ed28c3b9f839.mp3",
+      "spokenText": "不对哦～列表推导式可以处理任何类型的数据，不只是数字。",
+      "sha256": "78e5e4fcf6edbd45a7b3b64096d708b6a2f16ec7347637acafa3461152e61870",
+      "duration": 5.592
+    },
+    "不对哦～装饰器不是为了美观，而是为了给函数添加额外功能。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-4e6801cb795c6b63c62cbedb.mp3",
+      "spokenText": "不对哦～装饰器不是为了美观，而是为了给函数添加额外功能。",
+      "sha256": "36641351f8ac38a8bc3b02f4c11d25664efae44787f0c91a31efa67ccb996017",
+      "duration": 5.616
+    },
+    "正确！装饰器可以在不改变原函数的情况下，添加日志、计时等功能。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-dfc47f49c6ae267db5403fef.mp3",
+      "spokenText": "正确！装饰器可以在不改变原函数的情况下，添加日志、计时等功能。",
+      "sha256": "a18e4c760ca813ed779f0d5c7dd52ce665cc18b38b3b6ef10f0eb66a0020ed27",
+      "duration": 7.224
+    },
+    "不对哦～装饰器不一定加快速度，它的作用是增强函数功能。": {
+      "mode": "recorded",
+      "file": "narration/clips/xiaoxiao-916c1d4eff9b7b95c3e2ea77.mp3",
+      "spokenText": "不对哦～装饰器不一定加快速度，它的作用是增强函数功能。",
+      "sha256": "f22d6c0487a032ddd94978d6d8f0660700c493403f8d2ca7f425a2db2698ee55",
+      "duration": 5.736
+    }
+  }
+}

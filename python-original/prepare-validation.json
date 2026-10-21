@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "typescript": "5.8.3",
+  "scope": "TypeScript/JavaScript parse diagnostics, relative import existence, declared external import names, package/dev/icon entry consistency and copied-file SHA only. No dependency install, build, runtime or installer test.",
+  "parsedFiles": 36,
+  "relativeImports": 48,
+  "sourceFilesVerified": 44,
+  "unchangedSourceFiles": 38,
+  "omittedAudioFiles": 1016,
+  "secretValuesPrinted": false,
+  "buildExecuted": false,
+  "errors": []
+}

@@ -1,0 +1,54 @@
+{
+  "name": "yuwen-programming-learning",
+  "version": "1.3.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "typecheck": "tsc --noEmit",
+    "build:c": "node scripts/build.mjs c",
+    "build:cpp": "node scripts/build.mjs cpp",
+    "build": "node scripts/build.mjs c && node scripts/build.mjs cpp",
+    "test:courses": "node scripts/verify-original-courses.mjs --report test-results/spacing-1.3.1/course-verification.json",
+    "dev:c": "node scripts/dev.mjs c",
+    "dev:cpp": "node scripts/dev.mjs cpp",
+    "test:runtime": "node --test electron/runtime.test.cjs",
+    "test:ui": "node scripts/test-original-ui.cjs",
+    "test:lexer": "node scripts/test-lexer.mjs",
+    "test:installation": "node scripts/test-installation.cjs",
+    "test:voice-player": "node --test tests/player.test.mjs",
+    "test:narration": "node scripts/test-teaching-spacing.cjs --static-only",
+    "test:narration-ui": "node scripts/test-teaching-spacing.cjs",
+    "test:spacing": "node scripts/test-teaching-spacing.cjs",
+    "test:code-spacing": "node --test tests/teaching-code-spacing.test.mjs"
+  },
+  "dependencies": {
+    "@codemirror/autocomplete": "6.20.3",
+    "@codemirror/lang-cpp": "6.0.3",
+    "@codemirror/language": "6.13.1",
+    "@codemirror/state": "6.5.2",
+    "@codemirror/view": "6.38.8",
+    "@lezer/highlight": "1.2.5",
+    "@uiw/react-codemirror": "4.25.3",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "@electron/asar": "3.4.1",
+    "@types/node": "22.14.0",
+    "@types/react": "19.2.2",
+    "@types/react-dom": "19.2.2",
+    "@vitejs/plugin-react": "4.7.0",
+    "playwright": "1.62.1",
+    "prettier": "3.6.2",
+    "rollup": "4.64.9",
+    "tailwindcss": "3.4.18",
+    "typescript": "5.8.3",
+    "vite": "6.4.1"
+  },
+  "main": "electron/main.cjs",
+  "packageManager": "pnpm@11.25.0",
+  "engines": {
+    "node": ">=22.16.0"
+  }
+}

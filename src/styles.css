@@ -1,0 +1,98 @@
+@import './original/components/course-layout.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+      body {
+        margin: 0;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+        background-color: #f8fafc;
+        color: #334155;
+        overflow: hidden; /* Prevent scrolling for presentation feel */
+      }
+      /* Custom scrollbar for code blocks if needed */
+      ::-webkit-scrollbar {
+        width: 8px;
+        height: 8px;
+      }
+      ::-webkit-scrollbar-track {
+        background: #f1f5f9; 
+      }
+      ::-webkit-scrollbar-thumb {
+        background: #cbd5e1; 
+        border-radius: 4px;
+      }
+      ::-webkit-scrollbar-thumb:hover {
+        background: #94a3b8; 
+      }
+
+      /* Animations */
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(10px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      .animate-fade-in {
+        animation: fadeIn 0.6s ease-out forwards;
+      }
+      
+      @keyframes fadeInUp {
+        from { opacity: 0; transform: translateY(20px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      .animate-fade-in-up {
+        animation: fadeInUp 0.8s ease-out forwards;
+      }
+
+      @keyframes scaleIn {
+        from { opacity: 0; transform: scale(0.95); }
+        to { opacity: 1; transform: scale(1); }
+      }
+      .animate-scale-in {
+        animation: scaleIn 0.5s ease-out forwards;
+      }
+
+      /* Danmaku Shimmer Effect */
+      @keyframes shimmer {
+        0% { background-position: -200% center; }
+        100% { background-position: 200% center; }
+      }
+      
+      .shimmer-text-en {
+        /* Deep Indigo base with bright Blue shimmer */
+        background: linear-gradient(120deg, #3730a3 40%, #818cf8 50%, #3730a3 60%);
+        background-size: 200% auto;
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+        animation: shimmer 3s linear infinite;
+        font-weight: 800; /* Extra Bold */
+        filter: drop-shadow(0 1px 2px rgba(55, 48, 163, 0.1));
+      }
+
+      .shimmer-text-cn {
+        /* Deep Orange base with bright Yellow shimmer */
+        background: linear-gradient(120deg, #ea580c 40%, #fde047 50%, #ea580c 60%);
+        background-size: 200% auto;
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+        animation: shimmer 3s linear infinite;
+        font-weight: 800; /* Extra Bold */
+        filter: drop-shadow(0 1px 2px rgba(234, 88, 12, 0.1));
+      }
+
+      /* Danmaku Movement Animation */
+      @keyframes danmakuMove {
+        from { transform: translateX(0); }
+        to { transform: translateX(-150vw); } /* Move across screen + extra buffer */
+      }
+      
+      .animate-danmaku {
+        position: absolute;
+        left: 100%; /* Start off-screen right */
+        animation: danmakuMove linear infinite;
+        white-space: nowrap;
+        will-change: transform;
+      }
+    
+html,body,#root{height:100%;width:100%;margin:0}button{touch-action:manipulation} .app-main{min-width:0;min-height:0}.app-footer{height:clamp(60px,10vh,112px)}.app-header{height:clamp(56px,9vh,96px)}.ai-chat{width:min(550px,calc(100vw - 30px));right:15px;bottom:110px} @media(max-height:700px){.app-header{padding-left:16px;padding-right:16px}.app-footer{padding-left:16px;padding-right:16px}.app-footer button{padding:10px 22px}.ai-help{bottom:76px;right:18px;width:48px;height:48px}}

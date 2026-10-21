@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "files": 52,
+  "bytes": 1483741,
+  "originalFilesVerified": 44,
+  "originalUnchangedFiles": 38,
+  "courseAndComponentFilesUnchanged": true,
+  "omittedOriginalAudioFiles": 1016,
+  "credentialLiteralMatches": 0,
+  "privateWorkspaceLinks": 0,
+  "pythonGeneratorParsed": true,
+  "buildExecuted": false,
+  "findings": []
+}

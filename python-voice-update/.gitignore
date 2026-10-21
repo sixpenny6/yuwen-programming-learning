@@ -1,0 +1,6 @@
+# Private installed-app snapshot and extracted packages may contain the existing AI credential.
+private-baseline/
+private-backups/
+build/
+build-report.json
+*.exe

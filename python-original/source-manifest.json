@@ -1,0 +1,418 @@
+{
+  "schemaVersion": 1,
+  "sourceRoot": "recovered-original-source",
+  "declaredSourceVersion": "1.0.0",
+  "currentInstalledVersion": "1.0.5",
+  "currentInstalledSourceReconstructionClaimed": false,
+  "copiedNonAudioFiles": 44,
+  "byteIdenticalFiles": 38,
+  "changedFiles": [
+    "electron/main.js",
+    "package-lock.json",
+    "package.json",
+    "README.md",
+    "vite.config.ts",
+    "WINDOWS_BUILD_GUIDE.md"
+  ],
+  "safeReferenceFilesMatched": 27,
+  "omittedAudioFiles": 1016,
+  "files": [
+    {
+      "source": "original-source/App.tsx",
+      "path": "App.tsx",
+      "originalSha256": "b8ca380f4b97e5c29e0ecbd2c315f627151a93cdf0df8c841ac6d8a2814c7ac8",
+      "originalBytes": 125737,
+      "sha256": "b8ca380f4b97e5c29e0ecbd2c315f627151a93cdf0df8c841ac6d8a2814c7ac8",
+      "bytes": 125737,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/build/icon.ico",
+      "path": "public/favicon.ico",
+      "originalSha256": "593d20c7ed8de8eb3b45054e94f14c808b75a82fc268b54c77f270509338e49d",
+      "originalBytes": 16264,
+      "sha256": "593d20c7ed8de8eb3b45054e94f14c808b75a82fc268b54c77f270509338e49d",
+      "bytes": 16264,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/components/AutoFitScale.tsx",
+      "path": "components/AutoFitScale.tsx",
+      "originalSha256": "1fc22cf3f19f235b2d7fca107ad6682f9d9321190d203429e057f75b56c34eac",
+      "originalBytes": 2831,
+      "sha256": "1fc22cf3f19f235b2d7fca107ad6682f9d9321190d203429e057f75b56c34eac",
+      "bytes": 2831,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/components/CodeContext.tsx",
+      "path": "components/CodeContext.tsx",
+      "originalSha256": "874a2e3281a1006b2b7a21683579cc43a334d49602b8839b808ea4f3a6341cde",
+      "originalBytes": 703,
+      "sha256": "874a2e3281a1006b2b7a21683579cc43a334d49602b8839b808ea4f3a6341cde",
+      "bytes": 703,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/components/CodePurposeSlide.tsx",
+      "path": "components/CodePurposeSlide.tsx",
+      "originalSha256": "1d73cb97a900fb7347b9e3f4d4ad3428e6426832a137702d1e563f6c58de9a06",
+      "originalBytes": 13743,
+      "sha256": "1d73cb97a900fb7347b9e3f4d4ad3428e6426832a137702d1e563f6c58de9a06",
+      "bytes": 13743,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/components/CodeStructureTheory.tsx",
+      "path": "components/CodeStructureTheory.tsx",
+      "originalSha256": "fe66565540e8bbdb5a59f4f63a1322590a97e0e09d106cba97c6822687e9d99a",
+      "originalBytes": 13164,
+      "sha256": "fe66565540e8bbdb5a59f4f63a1322590a97e0e09d106cba97c6822687e9d99a",
+      "bytes": 13164,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/components/CodeUi.tsx",
+      "path": "components/CodeUi.tsx",
+      "originalSha256": "b131f7fa6e71022a91c4663352faaa58c571a5ea9da60be961179f6f543eadef",
+      "originalBytes": 12147,
+      "sha256": "b131f7fa6e71022a91c4663352faaa58c571a5ea9da60be961179f6f543eadef",
+      "bytes": 12147,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/components/GenericEssayQuiz.tsx",
+      "path": "components/GenericEssayQuiz.tsx",
+      "originalSha256": "d07dbf057d2a72e73caa84caba3913281c89967727d8beb77ff6a3733eb83b93",
+      "originalBytes": 2384,
+      "sha256": "d07dbf057d2a72e73caa84caba3913281c89967727d8beb77ff6a3733eb83b93",
+      "bytes": 2384,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/components/GenericEssaySlide.tsx",
+      "path": "components/GenericEssaySlide.tsx",
+      "originalSha256": "c931f6242acb63f69de5ca3f23f9fde6b052882c8f02ffbb2f200adbd3fbda62",
+      "originalBytes": 3584,
+      "sha256": "c931f6242acb63f69de5ca3f23f9fde6b052882c8f02ffbb2f200adbd3fbda62",
+      "bytes": 3584,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/components/GenericLiteracyQuiz.tsx",
+      "path": "components/GenericLiteracyQuiz.tsx",
+      "originalSha256": "a249b3900e2187d62f95599e0a046d2ca337f38fd494d1e381c5e7c6d81f5801",
+      "originalBytes": 1983,
+      "sha256": "a249b3900e2187d62f95599e0a046d2ca337f38fd494d1e381c5e7c6d81f5801",
+      "bytes": 1983,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/components/GenericSentenceQuiz.tsx",
+      "path": "components/GenericSentenceQuiz.tsx",
+      "originalSha256": "f9c9845ed9d71b7e42bd3f5b0e2954c2c53e6828e8d576aa6df1f3534f599148",
+      "originalBytes": 2297,
+      "sha256": "f9c9845ed9d71b7e42bd3f5b0e2954c2c53e6828e8d576aa6df1f3534f599148",
+      "bytes": 2297,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/components/GenericSentenceSlide.tsx",
+      "path": "components/GenericSentenceSlide.tsx",
+      "originalSha256": "f8b5d902747ec3c20cf197406cba90ed36f1d1e0f0c3496ce367a73b8fab4410",
+      "originalBytes": 4878,
+      "sha256": "f8b5d902747ec3c20cf197406cba90ed36f1d1e0f0c3496ce367a73b8fab4410",
+      "bytes": 4878,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/components/GenericWordQuiz.tsx",
+      "path": "components/GenericWordQuiz.tsx",
+      "originalSha256": "8d43e8c9363bde070f63416d729ddd8297cb18f8097d56a8c3f43d14880cee8a",
+      "originalBytes": 2063,
+      "sha256": "8d43e8c9363bde070f63416d729ddd8297cb18f8097d56a8c3f43d14880cee8a",
+      "bytes": 2063,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/components/GenericWordSlide.tsx",
+      "path": "components/GenericWordSlide.tsx",
+      "originalSha256": "3c1236ec6ad58bd0b8fe971eb7f42780576d1ad6249e22bd5285a036974fc9db",
+      "originalBytes": 2366,
+      "sha256": "3c1236ec6ad58bd0b8fe971eb7f42780576d1ad6249e22bd5285a036974fc9db",
+      "bytes": 2366,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/components/Layout.tsx",
+      "path": "components/Layout.tsx",
+      "originalSha256": "f2de7944ce5fe88d1b3c25e3409fe2bc9ed72e2bf95ef681bf7f3d7d684a7b71",
+      "originalBytes": 11088,
+      "sha256": "f2de7944ce5fe88d1b3c25e3409fe2bc9ed72e2bf95ef681bf7f3d7d684a7b71",
+      "bytes": 11088,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/components/Sidebar.tsx",
+      "path": "components/Sidebar.tsx",
+      "originalSha256": "d7cb68760ab01bc3b1752ae92c7b93810fe8f37a01d01ffa8701cc880fb8f285",
+      "originalBytes": 9606,
+      "sha256": "d7cb68760ab01bc3b1752ae92c7b93810fe8f37a01d01ffa8701cc880fb8f285",
+      "bytes": 9606,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/components/SmartShowcaseSlide.tsx",
+      "path": "components/SmartShowcaseSlide.tsx",
+      "originalSha256": "f1971bdb022dd28a26efc210a5aabdddb4dc5d222dd35b634a9572cd9fd2e442",
+      "originalBytes": 16787,
+      "sha256": "f1971bdb022dd28a26efc210a5aabdddb4dc5d222dd35b634a9572cd9fd2e442",
+      "bytes": 16787,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/components/UnifiedIDE.tsx",
+      "path": "components/UnifiedIDE.tsx",
+      "originalSha256": "73da3867d34ae1e4374b82678c9e437de235dde86b7dc4913b4d215ffc6c1d32",
+      "originalBytes": 45969,
+      "sha256": "73da3867d34ae1e4374b82678c9e437de235dde86b7dc4913b4d215ffc6c1d32",
+      "bytes": 45969,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/data/essayPurposeSlides.ts",
+      "path": "data/essayPurposeSlides.ts",
+      "originalSha256": "f44648f1d2ad7c537a99ca985d412fbf4b78ad9b8490db712b3504f427864e19",
+      "originalBytes": 24494,
+      "sha256": "f44648f1d2ad7c537a99ca985d412fbf4b78ad9b8490db712b3504f427864e19",
+      "bytes": 24494,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/data/essayQuizzes.ts",
+      "path": "data/essayQuizzes.ts",
+      "originalSha256": "496147ca1d539c2ea0752c3a1ec41a0eaddbe921dd439e2db43d79b3d2b88e90",
+      "originalBytes": 9052,
+      "sha256": "496147ca1d539c2ea0752c3a1ec41a0eaddbe921dd439e2db43d79b3d2b88e90",
+      "bytes": 9052,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/data/essaySlides.ts",
+      "path": "data/essaySlides.ts",
+      "originalSha256": "ea60ba74b754e5dcdc2bf328866c08744a470c593ad6daa9df5876ecc8523d8a",
+      "originalBytes": 45357,
+      "sha256": "ea60ba74b754e5dcdc2bf328866c08744a470c593ad6daa9df5876ecc8523d8a",
+      "bytes": 45357,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/data/literacyQuizzes.ts",
+      "path": "data/literacyQuizzes.ts",
+      "originalSha256": "06dbbed1a26d1b5655cd371c42819196567367d610a1706e39cb4405fef00cc0",
+      "originalBytes": 10055,
+      "sha256": "06dbbed1a26d1b5655cd371c42819196567367d610a1706e39cb4405fef00cc0",
+      "bytes": 10055,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/data/sentencePurposeSlides.ts",
+      "path": "data/sentencePurposeSlides.ts",
+      "originalSha256": "9e168cda0ab71f6e4590dc2b5025e5550a85d28bba453a0c56d3ffc40509882f",
+      "originalBytes": 16112,
+      "sha256": "9e168cda0ab71f6e4590dc2b5025e5550a85d28bba453a0c56d3ffc40509882f",
+      "bytes": 16112,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/data/sentenceQuizzes.ts",
+      "path": "data/sentenceQuizzes.ts",
+      "originalSha256": "ccc14748a506ad78e01cb0d4b841aa0df1857e8030ada90a4234235779022bfd",
+      "originalBytes": 24564,
+      "sha256": "ccc14748a506ad78e01cb0d4b841aa0df1857e8030ada90a4234235779022bfd",
+      "bytes": 24564,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/data/sentenceSlides.ts",
+      "path": "data/sentenceSlides.ts",
+      "originalSha256": "2cae7ca9208b9166cdcdea9c7195accb419ad25623b33e398825953ffe5f0515",
+      "originalBytes": 18468,
+      "sha256": "2cae7ca9208b9166cdcdea9c7195accb419ad25623b33e398825953ffe5f0515",
+      "bytes": 18468,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/data/wordPurposeSlides.ts",
+      "path": "data/wordPurposeSlides.ts",
+      "originalSha256": "64b5962cbf2b251b27c06389da631c3d09e93c0c23501e95322c050d71fb0127",
+      "originalBytes": 13609,
+      "sha256": "64b5962cbf2b251b27c06389da631c3d09e93c0c23501e95322c050d71fb0127",
+      "bytes": 13609,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/data/wordQuizzes.ts",
+      "path": "data/wordQuizzes.ts",
+      "originalSha256": "9ccc6448fc5c390c439eb323a8c3ab5d1d3d903728872e88e8bedda2d77015c9",
+      "originalBytes": 11352,
+      "sha256": "9ccc6448fc5c390c439eb323a8c3ab5d1d3d903728872e88e8bedda2d77015c9",
+      "bytes": 11352,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/data/wordSlides.ts",
+      "path": "data/wordSlides.ts",
+      "originalSha256": "ce225c2f89bbd3a4aab7df3b24e2369f4a79f4261d3d79be89c6a15c6ec98402",
+      "originalBytes": 18480,
+      "sha256": "ce225c2f89bbd3a4aab7df3b24e2369f4a79f4261d3d79be89c6a15c6ec98402",
+      "bytes": 18480,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/electron/main.js",
+      "path": "electron/main.js",
+      "originalSha256": "6e4eba5d7a55f72571c8245896fd59d8cabb6a43e3575e97b12e96a6eea0975b",
+      "originalBytes": 2765,
+      "sha256": "7d7067aa321c7b8a178eb76ad42c8684b736677bd188bb9a89dba367f6d75ce0",
+      "bytes": 2806,
+      "byteIdentical": false
+    },
+    {
+      "source": "original-source/electron/preload.js",
+      "path": "electron/preload.js",
+      "originalSha256": "0f7e53154e8a0ef7578a7cba42cad145a4b6c85dcbb3fae49ba10ac8194214a7",
+      "originalBytes": 342,
+      "sha256": "0f7e53154e8a0ef7578a7cba42cad145a4b6c85dcbb3fae49ba10ac8194214a7",
+      "bytes": 342,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/index.html",
+      "path": "index.html",
+      "originalSha256": "429eb9a6aa09a3b18db1eedf413b1b82f4c545691c92d22d7eb3b03df7ee9880",
+      "originalBytes": 3344,
+      "sha256": "429eb9a6aa09a3b18db1eedf413b1b82f4c545691c92d22d7eb3b03df7ee9880",
+      "bytes": 3344,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/index.tsx",
+      "path": "index.tsx",
+      "originalSha256": "7c21e88a88ad5c398218583ae458a009dec1a95acfd8335b2de7ec8ae61ce64f",
+      "originalBytes": 544,
+      "sha256": "7c21e88a88ad5c398218583ae458a009dec1a95acfd8335b2de7ec8ae61ce64f",
+      "bytes": 544,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/package-lock.json",
+      "path": "package-lock.json",
+      "originalSha256": "3f0d21faaa3ed5a3b2451c4bcfcf2620aee956f4a9cc2a71d9590375b544cb35",
+      "originalBytes": 284641,
+      "sha256": "73576bdce1cd015332d8116294e6d94d7765f770b705d0a1da9724d2ecbfb364",
+      "bytes": 284768,
+      "byteIdentical": false
+    },
+    {
+      "source": "original-source/package.json",
+      "path": "package.json",
+      "originalSha256": "0d799874222afa4a1dc1db21774606977f3b123057081c372a76e3c4d1606c42",
+      "originalBytes": 2094,
+      "sha256": "023032deb12f48465fa868fdfde97767d6b7e128fded59bbeb05f2af7fa18d19",
+      "bytes": 2257,
+      "byteIdentical": false
+    },
+    {
+      "source": "original-source/public/audio_map.json",
+      "path": "public/audio_map.json",
+      "originalSha256": "74a1adf4adfac7f4ed14e33d609e0a11396fe2e1a3e7a8e440544d15da590fc0",
+      "originalBytes": 72029,
+      "sha256": "74a1adf4adfac7f4ed14e33d609e0a11396fe2e1a3e7a8e440544d15da590fc0",
+      "bytes": 72029,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/public/py-worker.js",
+      "path": "public/py-worker.js",
+      "originalSha256": "cf87cb5aa3153e3db1e42951972c45c68f41bd406c5ee107d7d04beb4efcee3a",
+      "originalBytes": 6668,
+      "sha256": "cf87cb5aa3153e3db1e42951972c45c68f41bd406c5ee107d7d04beb4efcee3a",
+      "bytes": 6668,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/public/pyodide.js",
+      "path": "public/pyodide.js",
+      "originalSha256": "9c79c9999999b15de7587aa220c61d06aa14e76babb75dc50c2f873aa826ad4d",
+      "originalBytes": 16698,
+      "sha256": "9c79c9999999b15de7587aa220c61d06aa14e76babb75dc50c2f873aa826ad4d",
+      "bytes": 16698,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/public/tailwindcss.js",
+      "path": "public/tailwindcss.js",
+      "originalSha256": "176e894661aa9cdc9a5cba6c720044cbbf7b8bd80d1c9a142a7c24b1b6c50d15",
+      "originalBytes": 407279,
+      "sha256": "176e894661aa9cdc9a5cba6c720044cbbf7b8bd80d1c9a142a7c24b1b6c50d15",
+      "bytes": 407279,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/README.md",
+      "path": "README.md",
+      "originalSha256": "6f1c739cd976add58eb93bfaacb400b00cacc9d0913e1c934cd7849b67e83a60",
+      "originalBytes": 1616,
+      "sha256": "f04ea39f3e2b65b984567557d573def22a88295648fe68e12f7dd4c693050fe5",
+      "bytes": 2375,
+      "byteIdentical": false
+    },
+    {
+      "source": "original-source/scripts/generate_audio.py",
+      "path": "scripts/generate_audio.py",
+      "originalSha256": "1d9813d7d0c620915f764d63ed183083856d68838c3a87e83e94521da02da280",
+      "originalBytes": 8304,
+      "sha256": "1d9813d7d0c620915f764d63ed183083856d68838c3a87e83e94521da02da280",
+      "bytes": 8304,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/tsconfig.json",
+      "path": "tsconfig.json",
+      "originalSha256": "8641deb29adfd1958488d1951f0d5ddf3013f498aa67ce0f621e347f0ef608d2",
+      "originalBytes": 542,
+      "sha256": "8641deb29adfd1958488d1951f0d5ddf3013f498aa67ce0f621e347f0ef608d2",
+      "bytes": 542,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/utils/linguisticTheme.ts",
+      "path": "utils/linguisticTheme.ts",
+      "originalSha256": "bef0809e15d5d247248874edbb03d2ff961be76c3fa0a669e53b355bab515ec7",
+      "originalBytes": 5228,
+      "sha256": "bef0809e15d5d247248874edbb03d2ff961be76c3fa0a669e53b355bab515ec7",
+      "bytes": 5228,
+      "byteIdentical": true
+    },
+    {
+      "source": "original-source/vite.config.ts",
+      "path": "vite.config.ts",
+      "originalSha256": "b191a59372f9a2e2a7661ea97a0b4a1e8ae583ba94bd851166e80bd409dd3b9f",
+      "originalBytes": 1191,
+      "sha256": "c901e2e737796550f0c3cdd50f23a125f9a4f218ffcbd1e428d256544846fbf0",
+      "bytes": 1203,
+      "byteIdentical": false
+    },
+    {
+      "source": "original-source/WINDOWS_BUILD_GUIDE.md",
+      "path": "WINDOWS_BUILD_GUIDE.md",
+      "originalSha256": "c3b3d54099dfaed4d844fc0847644f3e2a5a3e7755d92dfb9f101d7fed04b653",
+      "originalBytes": 2597,
+      "sha256": "7e70b928a702d78105bbd3d0668a44c421f395b1684b0431c78a993054139d35",
+      "bytes": 1856,
+      "byteIdentical": false
+    }
+  ],
+  "evidenceBoundary": "Complete original source with documented upload-copy plumbing changes; controlled 1.0.5 patch tools are separate. No private baseline or credentials included."
+}

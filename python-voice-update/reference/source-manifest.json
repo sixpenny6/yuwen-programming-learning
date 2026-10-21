@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "scope": "safe-static-python-narration-reference-not-a-complete-python-app",
+  "sourceRoot": "original-source",
+  "referenceRoot": "python-voice-update/reference",
+  "inventory": "test-results/python-narration-inventory.json",
+  "inventorySha256": "b28a52705e6183237a8e84ee8914d01a476a60b86bcc4403e60a870cdafe0735",
+  "files": [
+    {
+      "path": "App.tsx",
+      "source": "original-source/App.tsx",
+      "sha256": "b8ca380f4b97e5c29e0ecbd2c315f627151a93cdf0df8c841ac6d8a2814c7ac8",
+      "size": 125737,
+      "byteIdentical": true
+    },
+    {
+      "path": "data/essayPurposeSlides.ts",
+      "source": "original-source/data/essayPurposeSlides.ts",
+      "sha256": "f44648f1d2ad7c537a99ca985d412fbf4b78ad9b8490db712b3504f427864e19",
+      "size": 24494,
+      "byteIdentical": true
+    },
+    {
+      "path": "data/essayQuizzes.ts",
+      "source": "original-source/data/essayQuizzes.ts",
+      "sha256": "496147ca1d539c2ea0752c3a1ec41a0eaddbe921dd439e2db43d79b3d2b88e90",
+      "size": 9052,
+      "byteIdentical": true
+    },
+    {
+      "path": "data/essaySlides.ts",
+      "source": "original-source/data/essaySlides.ts",
+      "sha256": "ea60ba74b754e5dcdc2bf328866c08744a470c593ad6daa9df5876ecc8523d8a",
+      "size": 45357,
+      "byteIdentical": true
+    },
+    {
+      "path": "data/literacyQuizzes.ts",
+      "source": "original-source/data/literacyQuizzes.ts",
+      "sha256": "06dbbed1a26d1b5655cd371c42819196567367d610a1706e39cb4405fef00cc0",
+      "size": 10055,
+      "byteIdentical": true
+    },
+    {
+      "path": "data/sentencePurposeSlides.ts",
+      "source": "original-source/data/sentencePurposeSlides.ts",
+      "sha256": "9e168cda0ab71f6e4590dc2b5025e5550a85d28bba453a0c56d3ffc40509882f",
+      "size": 16112,
+      "byteIdentical": true
+    },
+    {
+      "path": "data/sentenceQuizzes.ts",
+      "source": "original-source/data/sentenceQuizzes.ts",
+      "sha256": "ccc14748a506ad78e01cb0d4b841aa0df1857e8030ada90a4234235779022bfd",
+      "size": 24564,
+      "byteIdentical": true
+    },
+    {
+      "path": "data/sentenceSlides.ts",
+      "source": "original-source/data/sentenceSlides.ts",
+      "sha256": "2cae7ca9208b9166cdcdea9c7195accb419ad25623b33e398825953ffe5f0515",
+      "size": 18468,
+      "byteIdentical": true
+    },
+    {
+      "path": "data/wordPurposeSlides.ts",
+      "source": "original-source/data/wordPurposeSlides.ts",
+      "sha256": "64b5962cbf2b251b27c06389da631c3d09e93c0c23501e95322c050d71fb0127",
+      "size": 13609,
+      "byteIdentical": true
+    },
+    {
+      "path": "data/wordQuizzes.ts",
+      "source": "original-source/data/wordQuizzes.ts",
+      "sha256": "9ccc6448fc5c390c439eb323a8c3ab5d1d3d903728872e88e8bedda2d77015c9",
+      "size": 11352,
+      "byteIdentical": true
+    },
+    {
+      "path": "data/wordSlides.ts",
+      "source": "original-source/data/wordSlides.ts",
+      "sha256": "ce225c2f89bbd3a4aab7df3b24e2369f4a79f4261d3d79be89c6a15c6ec98402",
+      "size": 18480,
+      "byteIdentical": true
+    },
+    {
+      "path": "components/AutoFitScale.tsx",
+      "source": "original-source/components/AutoFitScale.tsx",
+      "sha256": "1fc22cf3f19f235b2d7fca107ad6682f9d9321190d203429e057f75b56c34eac",
+      "size": 2831,
+      "byteIdentical": true
+    },
+    {
+      "path": "components/CodeContext.tsx",
+      "source": "original-source/components/CodeContext.tsx",
+      "sha256": "874a2e3281a1006b2b7a21683579cc43a334d49602b8839b808ea4f3a6341cde",
+      "size": 703,
+      "byteIdentical": true
+    },
+    {
+      "path": "components/CodePurposeSlide.tsx",
+      "source": "original-source/components/CodePurposeSlide.tsx",
+      "sha256": "1d73cb97a900fb7347b9e3f4d4ad3428e6426832a137702d1e563f6c58de9a06",
+      "size": 13743,
+      "byteIdentical": true
+    },
+    {
+      "path": "components/CodeStructureTheory.tsx",
+      "source": "original-source/components/CodeStructureTheory.tsx",
+      "sha256": "fe66565540e8bbdb5a59f4f63a1322590a97e0e09d106cba97c6822687e9d99a",
+      "size": 13164,
+      "byteIdentical": true
+    },
+    {
+      "path": "components/CodeUi.tsx",
+      "source": "original-source/components/CodeUi.tsx",
+      "sha256": "b131f7fa6e71022a91c4663352faaa58c571a5ea9da60be961179f6f543eadef",
+      "size": 12147,
+      "byteIdentical": true
+    },
+    {
+      "path": "components/GenericEssayQuiz.tsx",
+      "source": "original-source/components/GenericEssayQuiz.tsx",
+      "sha256": "d07dbf057d2a72e73caa84caba3913281c89967727d8beb77ff6a3733eb83b93",
+      "size": 2384,
+      "byteIdentical": true
+    },
+    {
+      "path": "components/GenericEssaySlide.tsx",
+      "source": "original-source/components/GenericEssaySlide.tsx",
+      "sha256": "c931f6242acb63f69de5ca3f23f9fde6b052882c8f02ffbb2f200adbd3fbda62",
+      "size": 3584,
+      "byteIdentical": true
+    },
+    {
+      "path": "components/GenericLiteracyQuiz.tsx",
+      "source": "original-source/components/GenericLiteracyQuiz.tsx",
+      "sha256": "a249b3900e2187d62f95599e0a046d2ca337f38fd494d1e381c5e7c6d81f5801",
+      "size": 1983,
+      "byteIdentical": true
+    },
+    {
+      "path": "components/GenericSentenceQuiz.tsx",
+      "source": "original-source/components/GenericSentenceQuiz.tsx",
+      "sha256": "f9c9845ed9d71b7e42bd3f5b0e2954c2c53e6828e8d576aa6df1f3534f599148",
+      "size": 2297,
+      "byteIdentical": true
+    },
+    {
+      "path": "components/GenericSentenceSlide.tsx",
+      "source": "original-source/components/GenericSentenceSlide.tsx",
+      "sha256": "f8b5d902747ec3c20cf197406cba90ed36f1d1e0f0c3496ce367a73b8fab4410",
+      "size": 4878,
+      "byteIdentical": true
+    },
+    {
+      "path": "components/GenericWordQuiz.tsx",
+      "source": "original-source/components/GenericWordQuiz.tsx",
+      "sha256": "8d43e8c9363bde070f63416d729ddd8297cb18f8097d56a8c3f43d14880cee8a",
+      "size": 2063,
+      "byteIdentical": true
+    },
+    {
+      "path": "components/GenericWordSlide.tsx",
+      "source": "original-source/components/GenericWordSlide.tsx",
+      "sha256": "3c1236ec6ad58bd0b8fe971eb7f42780576d1ad6249e22bd5285a036974fc9db",
+      "size": 2366,
+      "byteIdentical": true
+    },
+    {
+      "path": "components/Layout.tsx",
+      "source": "original-source/components/Layout.tsx",
+      "sha256": "f2de7944ce5fe88d1b3c25e3409fe2bc9ed72e2bf95ef681bf7f3d7d684a7b71",
+      "size": 11088,
+      "byteIdentical": true
+    },
+    {
+      "path": "components/Sidebar.tsx",
+      "source": "original-source/components/Sidebar.tsx",
+      "sha256": "d7cb68760ab01bc3b1752ae92c7b93810fe8f37a01d01ffa8701cc880fb8f285",
+      "size": 9606,
+      "byteIdentical": true
+    },
+    {
+      "path": "components/SmartShowcaseSlide.tsx",
+      "source": "original-source/components/SmartShowcaseSlide.tsx",
+      "sha256": "f1971bdb022dd28a26efc210a5aabdddb4dc5d222dd35b634a9572cd9fd2e442",
+      "size": 16787,
+      "byteIdentical": true
+    },
+    {
+      "path": "components/UnifiedIDE.tsx",
+      "source": "original-source/components/UnifiedIDE.tsx",
+      "sha256": "73da3867d34ae1e4374b82678c9e437de235dde86b7dc4913b4d215ffc6c1d32",
+      "size": 45969,
+      "byteIdentical": true
+    }
+  ],
+  "excludedFiles": []
+}

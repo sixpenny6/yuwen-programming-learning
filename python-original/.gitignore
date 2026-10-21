@@ -1,0 +1,16 @@
+node_modules/
+dist/
+dist-electron/
+build/
+.env*
+!.env.example
+*.log
+*.exe
+*.asar
+*.pem
+*.pfx
+*.p12
+__pycache__/
+.venv/
+public/audio/*.mp3
+public/audio/*.wav

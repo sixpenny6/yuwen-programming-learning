@@ -1,0 +1,2 @@
+# Install in a dedicated venv; service access is needed only while generating.
+edge-tts==7.3.1

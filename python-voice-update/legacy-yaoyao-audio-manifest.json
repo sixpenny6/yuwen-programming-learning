@@ -1,0 +1,2317 @@
+{
+  "schemaVersion": 1,
+  "source": "releases/python-1.0.3-manifest.json",
+  "sourceVersion": "1.0.3",
+  "sourceManifestSha256": "f97235ab7be0b2f41bb30b87b7b5237145ff445948223aa916ea2529370594fe",
+  "sourceNarrationManifestSha256": "b78fb99b04d4cafe5e7d0fb135200ca3e63ab047cf0b921db69a085f48ff8b44",
+  "sourceVoice": {
+    "id": "microsoft-yaoyao-normal",
+    "name": "瑶瑶",
+    "engine": "Windows System.Speech",
+    "speaker": "Microsoft Yaoyao",
+    "synthesisRate": 0,
+    "playbackRate": 1
+  },
+  "files": [
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-000bedf0cead18dcdf0cf9e6.mp3",
+      "size": 15356,
+      "sha256": "f566f8dbfa34fc09658434e8a9ac1b675b6660cb90b37c43a42f32c585a6ed7d"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-01379e8d4eb4446fdbe7a3db.mp3",
+      "size": 33356,
+      "sha256": "c9e4aa5c0f93cbd7ddecbbd08b9b84a769a7d64660bf9acaf4b68afa22232241"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-014f5c3832da9bd1a5c6048a.mp3",
+      "size": 31484,
+      "sha256": "4bf9d7e93f143fa3024d9613e3c5c5372198cb97a84515f3612f6a572f62e7c7"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-0161d910aa50bb74e05fbfb0.mp3",
+      "size": 57116,
+      "sha256": "acbee0b607b87ab132ea053dc4944f6d525be289fe14b4b35ba3f764862d1f15"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-034723e873b247cb5b51a5a9.mp3",
+      "size": 16220,
+      "sha256": "bee4a2fc2a32043b71f8a9c4530b8c9eea10f7cd233405bdd7d63349062d0476"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-036bf0b5d3bcf2ab364e0aad.mp3",
+      "size": 13772,
+      "sha256": "1a8b614edc98ac82d0464b1be27839d16c85b60f1f2f69523e9e0b8b8c4954d6"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-04bf3dcbefe0ff0548b5c3d7.mp3",
+      "size": 50060,
+      "sha256": "06a3db7eaf19c800f2d4159742ae55ce074a9cc27cd030633579fae9f2587828"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-04d686cb0e4083412582d796.mp3",
+      "size": 37964,
+      "sha256": "77025468f8f95b9702838ca71c2f2f01872bab05e2ea8b98e8f0fa7e75963ece"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-058a5880294f4ac8a41c67ab.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-0598a7319e02c4c2c3bbc21e.mp3",
+      "size": 36668,
+      "sha256": "8ec80118de8a95d7b0eaef40efbd76b6ecd863c4d8ed6bb6e744966c30627efd"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-059c82abdc629b86deccfdf1.mp3",
+      "size": 16076,
+      "sha256": "f15df0fb897d1e871b4ce5ac6e0a68305fc720ce1dc7747102db94dc9cd9b336"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-05a8724bd1eb1c29610567f2.mp3",
+      "size": 47900,
+      "sha256": "d623c056e2084fe3afcd76d8b74badb884898b074a541aad6b47e0514761ff27"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-05d7ab035715b86d419bd40e.mp3",
+      "size": 49628,
+      "sha256": "8d6e10d1efa78de3de1a83d63571833fc795e82ba48026301a7623a95e19316f"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-069054ca7b3d3c3703c2f942.mp3",
+      "size": 27020,
+      "sha256": "2d5fd5e6db882e2f16485fe0c14ad5de6cb31592d252f150fe21097b414e3333"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-06f99cf8698c6c4cba27fd94.mp3",
+      "size": 16796,
+      "sha256": "c4bbe2462b84955552a4fdca9fe59808ae1c40a96536ec37ec41dab4892363e2"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-07574682921e5f4592d1cfa3.mp3",
+      "size": 30908,
+      "sha256": "7db5b7230ae762a8c737600c51c586676df7b302cff5abee4d62a5f3edeba9ae"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-079834ab93d378588382c581.mp3",
+      "size": 24284,
+      "sha256": "4884f21111b99e6abec5a373616271e4e364b8f622a31397f2b1a385d431bf92"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-08995abbfa5ae915929c74a6.mp3",
+      "size": 23132,
+      "sha256": "016db9cee162fc8141496fc53ae61cd633956c96cd6ec6a0a134fb9f7d2f9795"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-089c3f147fe381c0b966fe7a.mp3",
+      "size": 38540,
+      "sha256": "76da57b36d61071af0f01cebc3556e2e49770ae6062260b6726cdfa0999087c4"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-09456b695613850048a05eaa.mp3",
+      "size": 33644,
+      "sha256": "928c419820b72cb695fe514a3ad2efaab1d2ebb66582bb9e6b8ed3b940535bcf"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-0997507c5995411e9786683f.mp3",
+      "size": 42284,
+      "sha256": "a9ff7cb581d3859d3a8ae9c11f30ab83b41e81b9d0335bbfd30efa1ed4161db6"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-09cd59e84abf5559a82b92e8.mp3",
+      "size": 16940,
+      "sha256": "da0226c66a0c2aeca3d0c776ec2bab1bb4398716d21dbf9bd3a422303d46e560"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-09e3062baaed88fc42214a18.mp3",
+      "size": 17084,
+      "sha256": "74d52ececd5833b3edb1029dbb711efea49c6080af1a5585dfdec090bc0922d8"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-0a685e181885192f7dbddf97.mp3",
+      "size": 48476,
+      "sha256": "9f28302981641b0bd80add5dc5e6c6fce07d3c4fc8c7dc2efaf301232acc5da7"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-0a6e422673ed4bb72badfb43.mp3",
+      "size": 26012,
+      "sha256": "b7d1109557d9a8347955f5c71888bb769a0a958a778678761d97e99081de3e8e"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-0beb27752fd8ac28ca90b121.mp3",
+      "size": 15932,
+      "sha256": "06508704a4bf5b4e8a99c44a53fd8f0c17d5273642a40defbb0fb1f988f2e5ef"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-0cb9f1866efd4fe96da6c59f.mp3",
+      "size": 17228,
+      "sha256": "a0bd86b174f9fb8055fcf815f74334cb4499095b8af0eecaf890c47f7eeea0a1"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-0cfb8e2f1998a163391749e0.mp3",
+      "size": 28316,
+      "sha256": "77e6ec7a844deec6fbc3d054a98a156c86d7cdbdba17c1d489122de5ec268d6c"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-0cfe321ee10587baa86e660d.mp3",
+      "size": 25580,
+      "sha256": "4d69552961ba5ee8f311f98733e01b5bee491dba6c72369d2fe4a91e796d5bad"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-0ebfca1284f59a3bb5591f55.mp3",
+      "size": 22988,
+      "sha256": "10c0322a3c11163c2ca87c63b4dbc3f47af9da6d0646d99d0b4a907aeb9d99af"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-0f4048774a8cc3dbe0884284.mp3",
+      "size": 16796,
+      "sha256": "5b916dabacb89fdb1b79c1b2064899c5c539860dc584df87c44a59318ec935a4"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-0f68d7e9faa095307b850d77.mp3",
+      "size": 16220,
+      "sha256": "b0cc84df8ca621c03ea5c1f065c133a1059e53291b74a5123c08521b01985050"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-0fa939d043207a49e0fcf1e3.mp3",
+      "size": 46460,
+      "sha256": "1e4aa8f019e87b05cd0b57e9c3f4259aee414c3a5b14e01abf045ca1891bd891"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-10981433083ffaa1df629098.mp3",
+      "size": 36380,
+      "sha256": "946d8f16b02654344719c01865b5b60fc7674e1ed362eb3a4240b53d8a09f2d0"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-10efba4cda5a55769cdc3a25.mp3",
+      "size": 15212,
+      "sha256": "eb1bf94eb33733033f346e888a754155e2734e0a88d4d178fbd408e29607ed33"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-1204ccb95293afdc82a044d7.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-12184f631546c60baed87168.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-127be840eebf13803093af8b.mp3",
+      "size": 50780,
+      "sha256": "4f08afbd34e5b51c00121cbe8529f6139fe3f9413e41c926a585360831a537b2"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-12b9e8b45e59c934fccc76b2.mp3",
+      "size": 23564,
+      "sha256": "60df0044584a143818d494c58ab7fb6a186113ca9b23669efbb54919adaaf5ab"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-1503ebd855af4dca29c01198.mp3",
+      "size": 16940,
+      "sha256": "40763561a92153dfd296892e06b1445459710b9639a385b14fc5ec816373fb75"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-15b9a44479c4a26788127a27.mp3",
+      "size": 29900,
+      "sha256": "1e0fa8575b36bcbe861919d9737397ed807ac140e1a22c96e77e31ec050d8507"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-15c25a06fde10f60e44551d0.mp3",
+      "size": 13772,
+      "sha256": "1a8b614edc98ac82d0464b1be27839d16c85b60f1f2f69523e9e0b8b8c4954d6"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-15d1cc85e0f7bf414c7c82c6.mp3",
+      "size": 36236,
+      "sha256": "bcfa288943cfdcdcf29d5cdbc2447d7204977086df93fa3a9a77b458a63ae3b4"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-16540b42119c67bb85384c6b.mp3",
+      "size": 14492,
+      "sha256": "dddd427840f7c2002f843264a316f32457e0c54ff45f70de8c7d4508e7a6f674"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-1676fee211e5a035a9c6c933.mp3",
+      "size": 21836,
+      "sha256": "65bc506e17f827390fc548e53719a304b008ca5adf1f569fca6bffac4568d3b1"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-16bb20f8f87d288f0d94b1aa.mp3",
+      "size": 16220,
+      "sha256": "490ec5d32e7673e7123d39a0034ded4f29782e7a42f78bc442e68cb4d9fef218"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-1a426be05b420ef2396d78eb.mp3",
+      "size": 25004,
+      "sha256": "8c34a39efda382a9a04b7777080f5e9db3dd23f101c038c3b65bd76ad4ef7bc8"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-1a4537c5bb66bdd46d9023cf.mp3",
+      "size": 40988,
+      "sha256": "bf02f78a12a2071074249a800ce023490435bf892853e6dd758217c11338c76c"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-1ab891fbf512cd5364139bd6.mp3",
+      "size": 46604,
+      "sha256": "2bbb8547cdba88ca1613a814f8a1e05d7f5863e819be057444192eda68fc625c"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-1ae5114dcef43fd8b871743d.mp3",
+      "size": 36812,
+      "sha256": "504d84d866650b3dd77c00f81c3ec1c63c593c16821c1a8833381f3cdeb3c462"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-1ae8b34e9781b59baf04ba82.mp3",
+      "size": 50780,
+      "sha256": "aab2de93e51984e49e0eb5f71ab0e23ae1891c95a77c92ef18cb946f38372f22"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-1b80993a1cd767b2e5fa65f3.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-1bb5db5724dba1b9708e9584.mp3",
+      "size": 14636,
+      "sha256": "38b0ec5513acbbfa1723bcf36b0b533615cd93813dbdf8be8e0350e59afa13f7"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-1bd7cb568b2b69dfc38bd14c.mp3",
+      "size": 16796,
+      "sha256": "8358c318ec885db240ef696bd7f2dfafcfb1c80cb15d7d0a392f95c0c62d5862"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-1d28e6150f3bf60cac20a24d.mp3",
+      "size": 21836,
+      "sha256": "d9fc3776c259eea89684d5c86bb1339d47328cb33ffe234e118add917e653eba"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-1d87cd93f2ca00098661fec6.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-1e444c2fda0cf0978f32d088.mp3",
+      "size": 15644,
+      "sha256": "bd3510dd3f9353c94606b6140cb4fd542283a118c0694a2b3a528890bf1a8158"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-1e7d479659e47a158464eb91.mp3",
+      "size": 15356,
+      "sha256": "6d68c9d34c4a282378e5665fe6f9d12cebd50b5cc86cd484beb06d76a7249dcd"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-1e9d36ec2a865082521a8d47.mp3",
+      "size": 50348,
+      "sha256": "e21f84e7d2da775b687dca590d8021cdd4bb433b8d01edbd5ea31cf1c1c1f8cd"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-1f63b67ee5bf5984d8c30b2b.mp3",
+      "size": 38684,
+      "sha256": "1982dc245fffb14f158efe55ea936c50dad0ae84334b80a2a6d0976e9bcab9cf"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-1f6f168e8277c4c9841f8c7a.mp3",
+      "size": 29468,
+      "sha256": "866b37189f393976c225dff98147a0e556284c295e6577ede9c381a6db3e4f0d"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-200ff36b3b20a607a279f2f1.mp3",
+      "size": 32348,
+      "sha256": "ba37c49dfabcdf9e972936fc16704080fa22baf2afcf04f9ce25cb2bc2994607"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-202826eb50277a64e3075fb3.mp3",
+      "size": 17948,
+      "sha256": "f71b2a27b7341c6003a22376ef386ab758121fbd6b73c1b65be04ec4dbf2d539"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-20d82a31de7bf1a7ff68dcaf.mp3",
+      "size": 51932,
+      "sha256": "652151faecd6ca1e8f48ba3711a5fd132ac9ed278c829ac3d1905a387c5cc603"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-215fa44a660695765826495c.mp3",
+      "size": 41276,
+      "sha256": "ca7c9aff8fad82c14c960d3b4fc03d828bafbb702f32fa424118f3f66cac64aa"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-21dd5a59ffe274dcf88e467a.mp3",
+      "size": 18812,
+      "sha256": "0b15d0e7cc13dcf01f05df708ac9c9d392edac866160882669f89381fdfa575a"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-222f53a6716bf29e73cff368.mp3",
+      "size": 52940,
+      "sha256": "761d1aef34c3239fe3711d91216b2791007073b2c59a262f738aeabf1440b9ea"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-2398e51f425adbcabbd56ccb.mp3",
+      "size": 16796,
+      "sha256": "70b67918f12f261cc1df9e583f8aa098b84f2c3b1eef11f97ff639c81e8884ba"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-23b32be23737fe3f3f8ecc81.mp3",
+      "size": 22700,
+      "sha256": "11f050d4c40ba802f8bef3f8c69f9c3740ad1a8c3c83e792010387bca06b553b"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-23f2cf5029a45e846eb5536b.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-25e4032e81f7b9a6cb33c437.mp3",
+      "size": 15212,
+      "sha256": "a41c0d8f1e4086a154473ee18b8e5a1a0a65e880204ea04daa4fee260d664ffb"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-266705bd1136fd2e9c01a8a5.mp3",
+      "size": 46748,
+      "sha256": "21a38c6940721fc8c56f152883447c40d038b93e3fb7b9243269ff361ba24f79"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-26977bb87d33077e8308aaaf.mp3",
+      "size": 16076,
+      "sha256": "c0c3f5a4325d5f6697a9ea3dd5f6be9a74d69e72da06b65799d3b636dbdca181"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-271d804ce8e2c78e66266095.mp3",
+      "size": 47900,
+      "sha256": "938b9250dbfb68c79c4cfb9937d10d530c9c098bb1f6d42f5fe9af81f2907a3c"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-274fb4d0931196164b8d6a76.mp3",
+      "size": 17948,
+      "sha256": "2ad7d4973196fce284bc9502cc97a76e8669a5265ef37b884aa846d41accdc12"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-28dbc9946d69c83902a76379.mp3",
+      "size": 15500,
+      "sha256": "8e8f54229e94192b5693b0727446e02c4b13b9a446ed1ad68826e558e33e5d5c"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-28e885c66bceae21eaecf9e2.mp3",
+      "size": 34076,
+      "sha256": "5e5fef4d820a592236dad22cb8b5c4986b938a6217e36ed59ab6272808f62e1b"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-28ee5e9dfbab9aebbb15a4bd.mp3",
+      "size": 17948,
+      "sha256": "0b5d7c85b8eaeb9847fa4ebacb9e2c6c6b76c1838a51a5def875c7632dc9f9c9"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-29f1347e00fb5d860b1cd768.mp3",
+      "size": 15356,
+      "sha256": "72444173493a480bc1d5bf1b4ccea3b494725a74d65f3c8d7517824bca9a99b4"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-2b6dd5533c55117fb6a15179.mp3",
+      "size": 32060,
+      "sha256": "4a67fb1360eade13c8cfc5b75bb480d771147c5a0165a533f2d42e9a6ca7dfb0"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-2c89e03e4725c5418e0cb593.mp3",
+      "size": 16364,
+      "sha256": "4687078d629f1b685936f19063b00aa8ae3119ff223e38bcc34f8bc9cbe5431b"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-2cd27275f46667a8ca98cbf8.mp3",
+      "size": 40124,
+      "sha256": "5d0593b71dab598a9ccf1c9102247541230bf9beaf383c5a879ba8f9b0bf4887"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-2d4c28d2dd4e3eced898a73f.mp3",
+      "size": 17228,
+      "sha256": "f90dd23b20fabf19e1f465c0c9706c512060f62f8e9fb074dd44bcb39d0985b7"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-2dd0de93b309e9b121389149.mp3",
+      "size": 25292,
+      "sha256": "f1d9f02cfbb896b763f0f95dfbc3968f58b0131c76b0ef24643b9448debb776e"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-2dd231959dcd3ccb61e80cad.mp3",
+      "size": 16220,
+      "sha256": "bee4a2fc2a32043b71f8a9c4530b8c9eea10f7cd233405bdd7d63349062d0476"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-2dd962225be32125880efe8e.mp3",
+      "size": 39116,
+      "sha256": "e4e28451415ad6979f569856f19d1a08f19a92b6c09c77ae64d4a3ce2ff71cbe"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-2e33f899daa4526064cf9a1b.mp3",
+      "size": 31628,
+      "sha256": "2403eca36b30b8f9c0391a953841ba8fbafa70a468ffb5fc231b2c7ef830f27c"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-2e6627bc4c76d78a8c3d2df1.mp3",
+      "size": 33644,
+      "sha256": "45475581e29b8f048036a04c4b6d23a2bd82ee2640b2e268a7eb895a76932a26"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-2eb74e9b9ec34eca76c3b38a.mp3",
+      "size": 15068,
+      "sha256": "262885814dd41e6c21aac357c153d296aada61168901945f54daa2304e2f51de"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-2ed0163dc3fb7cb762643416.mp3",
+      "size": 38972,
+      "sha256": "9c5c69ea983a37235823aeb91fb15b00ed1d206de62a0a90809f94414533168b"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-2f0880a39cd8dbf93ab0682a.mp3",
+      "size": 17228,
+      "sha256": "cc6c123a0f2d7eaaf5dc42f36ea7351fd62cc3044032d7f3f1f342e78c4ac313"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-2f58b56e9603e0a43678d970.mp3",
+      "size": 37676,
+      "sha256": "b7ca5e13851f7ce93d34e2ef06b843a67e24bc21b36754e095de7b30817b6f72"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-2f8652da3f0df4977eab020e.mp3",
+      "size": 16796,
+      "sha256": "3083541952cec519ba4412991c0ee85c0dc1a1878ceb313358dc75bc1297ce60"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-3136bef5b9a2ca9405da29ac.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-31a689ac20aad1941192f4a5.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-31deaa3a5fb9d34eeacebc26.mp3",
+      "size": 17084,
+      "sha256": "bdb755efc3031402a08230b2d00f759260eff94ed2b6ca624c4e13701470d843"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-33677ebc486360d1016ce6ce.mp3",
+      "size": 15500,
+      "sha256": "4f3ca652a1c0710285c5063918dfdc676e4a0acf18f64695e7a325e8010c503b"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-33ddea9060d9d38a35fc8557.mp3",
+      "size": 50204,
+      "sha256": "d198c0e4238182dd37ac3be2dabf49553a15be0f6cbff9f21903e4e7e61c0f78"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-34968d82c16b7c4eb5818cd4.mp3",
+      "size": 33500,
+      "sha256": "a743bc185b3f3cbded1a89365b5d15c8fc131fffe0ddd0e9f812074bba452355"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-35149ea1a7fd62469cc486ac.mp3",
+      "size": 33932,
+      "sha256": "f25e42b83578c9023ea86fb514e872a30ed068c48aaa6399d00355eff7c11685"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-351cebc14981d87c6750faae.mp3",
+      "size": 45308,
+      "sha256": "cb15b4659f43ee9e391bc870d4bcf19f18484b2037cfcacf34a71e1279592924"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-36f737ae05073abbb213eb32.mp3",
+      "size": 27452,
+      "sha256": "a35064a15b1ae9219079a19df1f11744fe09eb3c31f2307af96e8de72219dfa9"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-37717ec8df8157ea7f0516ff.mp3",
+      "size": 46028,
+      "sha256": "d9c69b6b95712e1ccaee6097803cdfc60112adaa3efd16ec9e27571fd5c9b132"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-3786226313a21902e21b87d2.mp3",
+      "size": 31628,
+      "sha256": "3d47d2679bf3fd5ad5b0e4de718dbd3db0042ffbd7b0b038b75a0333a6e576e6"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-37c6c34b9327ae826afeec01.mp3",
+      "size": 41564,
+      "sha256": "82b004e3b1d2d5b2e030b071cd1426970ebb3990de3bc3343289a20c7c5da36c"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-3817368da8cdcceefe86ddaf.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-39844c3b54acc94915a5079e.mp3",
+      "size": 55820,
+      "sha256": "38c8cd12260da5a9cc247fc6b74f0d122a54124919af6b86f9e66834b84890f0"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-39f7c98a29e9a4b8e049b5f9.mp3",
+      "size": 33068,
+      "sha256": "497751ac44c084aa4954a74af8811e5274777c0c15c0332c9498feb7b85caa6f"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-3ae24bd616e663cb8c51a276.mp3",
+      "size": 15356,
+      "sha256": "eb4d54abb2c18f75e7b5d8647c30e4b5db545c5d8679c9eae23f95544e02be8b"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-3c6f32062ea6ed28c3b9f839.mp3",
+      "size": 35228,
+      "sha256": "2b73763b936b23c89ee262ed953f6febc9ab138da31f8bd829e6a0f785e6b2a4"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-3c994fad90b6daf103d96e74.mp3",
+      "size": 40124,
+      "sha256": "710a6c07127936dd4258031f5637b527837b305e9d4d91cabdfa58c06f5a22f8"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-3ca8cb9017d38cea9f87da06.mp3",
+      "size": 14636,
+      "sha256": "943053b6f4fa6ae06482427b01d1007d122d2e04189eae015600c1c6f36e77ad"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-3d4c7be77b504a8e648b9aa7.mp3",
+      "size": 16076,
+      "sha256": "5480cfc7f15c0aac3fd5c01df94704c6a5f135c1cbe214a34a5b7e86805166ac"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-3db7344b25efacf7f47cecbb.mp3",
+      "size": 16940,
+      "sha256": "40763561a92153dfd296892e06b1445459710b9639a385b14fc5ec816373fb75"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-3dc55a717133a2b0eb2505cd.mp3",
+      "size": 46460,
+      "sha256": "412759c1308a4da359f27f2e4a364aa14591635e764d107afb09e0daf2831230"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-3deb9adfe755b19655daafae.mp3",
+      "size": 55532,
+      "sha256": "01ebb09687d378b956ae8172c29be74f5f1e68119c7cd0d143cfac4896c86519"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-3e5ca6fbd678390e8226defc.mp3",
+      "size": 15788,
+      "sha256": "2d87c8ede78b788d98299ab1dfbb5f31a0fa9f9b6bc15167724af6457a32af08"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-4005e13a1f82fe538c63fd91.mp3",
+      "size": 16508,
+      "sha256": "c5b6674ca5c2178fc8dd20b4e748ae0c74954b972ad87b924face7bfcc916b88"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-40e72f5b42282feb81b3f1db.mp3",
+      "size": 31628,
+      "sha256": "7c887a853ac8e4c94a911251bcc89b089e479f600e2ab798a1088a70723f71f1"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-41987dbbf3c6b600c1ad3ca2.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-41adaae2bcc49a59f4532a5e.mp3",
+      "size": 30908,
+      "sha256": "32975e7566f115405451d68c32bd000ba4e47ec9a22e131762cbc47c827ab0b1"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-41f81d9682692e517843619f.mp3",
+      "size": 41276,
+      "sha256": "8ea69a241a0d795b209eb63a180a225241cc7f6172f6490f404d4f2e3fdec630"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-42ad4e3a2faf9bdee5426bff.mp3",
+      "size": 22700,
+      "sha256": "3db60a67a3982244bd436f3587048f19d23c41e3c4fff53c2a985dd32ca327e3"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-42d5da3cab86daa73b1f66be.mp3",
+      "size": 40268,
+      "sha256": "0c1ca876f86e4d280d4756632a8b2d19480ea4b8d667834a6932e2e99c2950ed"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-43a952530740ce1b3d44b938.mp3",
+      "size": 57548,
+      "sha256": "c523c67e092aad5f77893aa108489309f38037c133b51f955ca44b2217dd7dd3"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-440c73d57448c761ab161ceb.mp3",
+      "size": 36236,
+      "sha256": "4e418ecbaf0b37774a6df7afde6b1dcad53d031d51449f5dbf95adbdc629c681"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-444b0fd799f2c65ba1b07aa3.mp3",
+      "size": 34940,
+      "sha256": "a5d7984f4569d5851d306cca60fb0e0542c75dac712e583b713b786df146a750"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-444c1199731ebcaaa2353e4f.mp3",
+      "size": 17228,
+      "sha256": "34fd5db6a2c5ef74910b0eac365d285409f76de6700d000c365ed1a7dfbc4cec"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-44d6f714ea9f2b83e43dd505.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-4502f7d8256181a7b11f30c2.mp3",
+      "size": 15356,
+      "sha256": "1d1ac7367e78ed03d626dcf487f7e528e70d70cefc60ea715d912250d81bee34"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-4542490900ad67c50271ba49.mp3",
+      "size": 24572,
+      "sha256": "00e95b7a0a8f0dd23f18942cf289997442e9c8aa02f1dea0b7a519abb408b0f1"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-4545eaf1bebed9c7beeec76e.mp3",
+      "size": 25292,
+      "sha256": "4c86cd4e23e92d4e418a6f73c61ff1a3282599803bc2d935a66510094c678975"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-45db3f953f0671a3c2784236.mp3",
+      "size": 20108,
+      "sha256": "1d8f5a47eb539ede6f78a8a85666775f2a39bb63780a923929758d941e3ab0d9"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-4618166f495717f0d3d6356e.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-46c08c2bf5c4e65d8461617f.mp3",
+      "size": 17228,
+      "sha256": "04451d75463ed07f5dcbb4ae70158b1f7fc569966ac4a9e4944b3a69c5758427"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-46f707cff7eb1beb6e466ab8.mp3",
+      "size": 36812,
+      "sha256": "568822e7090d82650b6fa261746c8e15ffbd6a1f35ba0a03cbe660110dcfc1b8"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-47a410913b715c0686550cf4.mp3",
+      "size": 47900,
+      "sha256": "7eb71f4e3903efd1b0f44dd4fe67584678f83e31e98dd84b7c0edfd8e6379c6c"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-484c768243b1bca8130148fc.mp3",
+      "size": 38540,
+      "sha256": "fb6be5a517ca892793bd5a886a5ddc45f963bf69ecf231084f9e4724e2986f18"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-49fcb6519b27a3aee1da7f97.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-4a41e982d1fc3a8998576996.mp3",
+      "size": 31340,
+      "sha256": "786b24ac86cb54f3ac40c52e6e22dfd12211c26930aeb204585dca581420194c"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-4afbfe86aba7ee7a45c9d36c.mp3",
+      "size": 34652,
+      "sha256": "562c08adcc3707618a34cf34acd2147718fd2fac34fffe29ff47c09a6295d2c9"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-4b64273d22f7d1ba5e33c470.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-4b7cd7f29e08180ab3f12470.mp3",
+      "size": 51932,
+      "sha256": "96526c81043172d3ec07d9a072b74b13d89dfaeff8ad5b35cd4cbafb9ed493c6"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-4bc763ea3d6622c035baed8d.mp3",
+      "size": 25868,
+      "sha256": "b7855300688a114d24e1a9eea2d6033585c14916504816cbb79c91db12411f2b"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-4ca2b91e1269e8c014052d0b.mp3",
+      "size": 28892,
+      "sha256": "a0cde9ac930f3fd472648ce2f8ea4909fb1d4ba25c93ced531b3a6a9eaed9d50"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-4cc1206ce3ca99df89f77dd5.mp3",
+      "size": 32204,
+      "sha256": "5c41eac83b9c9e3b52cb29dfafa2058b95dfb73a8088d08173da59fd34226339"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-4da2407f83e6e01552e6975e.mp3",
+      "size": 27884,
+      "sha256": "5525a61461e696749676e7317c27678c3e9610f436f7de8b182157e1ad5436d3"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-4e1c8da015232c1b6cda45bc.mp3",
+      "size": 17228,
+      "sha256": "5f955ee92cab20cce405a828058f8791e9562c509d7803702ad2cc4fb9fc81df"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-4e6801cb795c6b63c62cbedb.mp3",
+      "size": 36956,
+      "sha256": "7d1784e6a966ed02c8be2a5cb360a044aec57e305b2d5b2f3459b063dde3d272"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-4eb47a600338c5e2c51661a7.mp3",
+      "size": 29036,
+      "sha256": "7a67cbe46e69c7d31812cda3d1e112d3edb652d81a7dea394edf3470643adaa4"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-4f16df71cb15b6aaafa68a91.mp3",
+      "size": 22412,
+      "sha256": "4db182cc432506c1adb58f019bddb2c70d5c25a9100ad481e1bab43f4501b574"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-4f6f4d9eb3b0812b046c1393.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-50826e6517c882f1c88b4b0d.mp3",
+      "size": 44300,
+      "sha256": "38535815bc0a8cb651978b03e66b75257dad3d403bef7a7fc035595a2576ba7f"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-51247c1f6b3e2d6adf03b1ce.mp3",
+      "size": 14636,
+      "sha256": "de5da78429e4be188b5ff5e3c668ca90ce20a3253f8c5a9a4609b8fbd8ae6346"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-514d35b4fd2ae1009cf5a239.mp3",
+      "size": 16796,
+      "sha256": "7586ad726b4409862de89ee9c405aebd51994d5f0fd4285037e6420d337b2bbc"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-51bb226c34837ee77ef1e4f8.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-521db1662699f2e93145e181.mp3",
+      "size": 15212,
+      "sha256": "ba39df11e47b18c3f912e0dcce6439283e69df4b4de7b445822b9ecdda26ba93"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-52dbe1b441a7dae6de19b944.mp3",
+      "size": 50924,
+      "sha256": "833096426a6e623b44c0090bb504d103254c0335023d20667b30561e603dc8bb"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-53145e5eb120ae94b26f7112.mp3",
+      "size": 32348,
+      "sha256": "e8f5cb077974618113c0cc0673a9bc15cc363b6d477e89a9c848f007a68eb4db"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-5404b3fe843882cecdf3e774.mp3",
+      "size": 34508,
+      "sha256": "0e477eb7e7884bd1e35e97200bec1146ed160441d7516209abd6e1aeb26b654f"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-5426de25df75e6e8aa4639ef.mp3",
+      "size": 39980,
+      "sha256": "bd83026278026c82a8d0711ad797e37938e828d28b87f0628ed2de3ab6ef68fb"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-5455041b3fe08808c0eecfcf.mp3",
+      "size": 18092,
+      "sha256": "8e4b732a8e98a65f78a8d44a06363d6afc8f6f7931fc93496e5a99b310727fe3"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-548d0f2d7e158513e8f22fad.mp3",
+      "size": 40124,
+      "sha256": "f8cfc510f8440cbecf1a09baa1b1b12cd56af9db711dda72520cb8a0dc7c3380"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-55a36dee0408fcd962d05df3.mp3",
+      "size": 29180,
+      "sha256": "8e13c4eac78fb6254dd211fa9013df8940eaed41824dd802cfdae97ca706e46d"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-55a42458c0f978bf8e6c9db9.mp3",
+      "size": 36092,
+      "sha256": "7e29a963f7cf90f786d8f38a1855f2720aaca2c8cf82cdae3f402be162458cb0"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-5719e109ff6ab306b544a84a.mp3",
+      "size": 16508,
+      "sha256": "36554daceb4506065781f2dd65818cefc8b3edfb2d7325e47609e2193591fca0"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-5785cdf56506640bd7660023.mp3",
+      "size": 15068,
+      "sha256": "8c99b3e84baef0806684cf783a80e24affde14968a73f8cd6284194d4f50ab94"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-582b8b9056f431d26357ad1e.mp3",
+      "size": 57692,
+      "sha256": "a15e23a758238f6f70b44cd57fa5b476d3a991ab318b6b8b4387f1b1b9f903ba"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-5961615b9eda4621b4d3e0cb.mp3",
+      "size": 16220,
+      "sha256": "490ec5d32e7673e7123d39a0034ded4f29782e7a42f78bc442e68cb4d9fef218"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-59e5a594c15c16e9251cc3ad.mp3",
+      "size": 16364,
+      "sha256": "109ca742f8fcd5dc100060f53ced9c04755d5a13b74e9597c03450f449fa3337"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-5b7e326ef2b875e8c155f893.mp3",
+      "size": 17948,
+      "sha256": "0b5d7c85b8eaeb9847fa4ebacb9e2c6c6b76c1838a51a5def875c7632dc9f9c9"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-5d4004c3426944dd774256b8.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-5da1377e5b5e1d9d2b3f6f4c.mp3",
+      "size": 16796,
+      "sha256": "61c203b542f52ece0b48934e92643c40936b7fa607ef963b7e7cd0ffdb38ac70"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-5eaa3b8aa88b8d9be0dbb9fc.mp3",
+      "size": 58556,
+      "sha256": "da38da2d9b3ccb763fa339a3a2ed8176a2dff358589a3d1e2443af04cc864986"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-5ec444f0ccd72fd815941be5.mp3",
+      "size": 14636,
+      "sha256": "146cdfdb7ca86f7a0ea515c3a4de70882d460494e6aa0bc76bece4cc6bbf4edd"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-5f212d0c21e75d2aeee2335e.mp3",
+      "size": 28892,
+      "sha256": "cdf061487b13542fa3cb24a0964b401df711b18d9d4cee02b9e441b3022cc8df"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-5fb052e2d31fb852b613a824.mp3",
+      "size": 21836,
+      "sha256": "65bc506e17f827390fc548e53719a304b008ca5adf1f569fca6bffac4568d3b1"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-5fe31b68f7dd1b0794be08de.mp3",
+      "size": 15644,
+      "sha256": "bd3510dd3f9353c94606b6140cb4fd542283a118c0694a2b3a528890bf1a8158"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-60bac1d5cd858e8ac4f6083e.mp3",
+      "size": 16076,
+      "sha256": "ad8d678ca16b68d66944c481b4fb88bc29a01e4e7a54c6dd5d535c58c5b801c0"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-60d90487a9c38b422d79627f.mp3",
+      "size": 15212,
+      "sha256": "ba39df11e47b18c3f912e0dcce6439283e69df4b4de7b445822b9ecdda26ba93"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-60fba3b4c089c28a10e71ddb.mp3",
+      "size": 55964,
+      "sha256": "ef33e597b83b508862e828b5c186ac973a40429acc0e93f705a03c4deaa14bdc"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-62377d197e2a762ca59a0fbf.mp3",
+      "size": 16220,
+      "sha256": "4e74b2dc283a9f405e8312de7674d3adb350f3474b24c85c549c19e10ed668bb"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-625d0ee3f158f43a595df548.mp3",
+      "size": 37964,
+      "sha256": "2858bf7e438c9d3f90d99c436e5d0ae810619dd021b7609d911468a3a4ea62e0"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-62c5dece477f106009831067.mp3",
+      "size": 45308,
+      "sha256": "436a16f02b2d46c837a8e858b97fd009da2b071f1f50d05f887be38794b02b41"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-631752b18f7c299cf51450e2.mp3",
+      "size": 16364,
+      "sha256": "20557c4fee03f39935864cc2a447bb318c27cb3b3ebf822f28d9c960e789a7e8"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-63238feeb9432f7d2e0c975a.mp3",
+      "size": 53228,
+      "sha256": "8d0bf72f5fbe0fa52fdfd5d7a79e8a9cfd7a32f97b78c9f1ad194caae25c534f"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-63328b92ecffe25313f5af57.mp3",
+      "size": 16940,
+      "sha256": "e322070f88eb89e47f2cb029176bef133ffdc5b750bd464f191551a8b0ea539e"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-635a59c690e0b716622244af.mp3",
+      "size": 49052,
+      "sha256": "9332be9138833f1813b948cae691e006ada723ad38b3d9cda24eaa93b3d69af5"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-637d8af61a629f7cd6b78de4.mp3",
+      "size": 16652,
+      "sha256": "e60c9b05c9d1d51dd9291607f4806e863f73e1fcc79a55b85a620f20a8400fe4"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-63cbe8141319e54cafff6e64.mp3",
+      "size": 41564,
+      "sha256": "88272b36c1fa81ac05b95289620e3d17c835419d9e9bf91cb0737f1591c440b1"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-63f096c1b9ef4b7c2103d2b7.mp3",
+      "size": 33212,
+      "sha256": "e2980cd4703338d9ecfe5b2821fe94be6a86cdcbdb3e17443a258fa73d8f7514"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-669d6ec9e291ff221745b18f.mp3",
+      "size": 16364,
+      "sha256": "109ca742f8fcd5dc100060f53ced9c04755d5a13b74e9597c03450f449fa3337"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-672d5cb9d3543537decd041b.mp3",
+      "size": 31916,
+      "sha256": "5f12789dfabca59cc3a00f9b31b212f3411a041637a7630bdd622b6c7f388f82"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-6764e94b58c5a2e56f6c7ba9.mp3",
+      "size": 44156,
+      "sha256": "bb8738df54c4f57bacc5daaa2545253913efc1d24a6ccd17d484aba59976f7a0"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-677694027a90f656a72dfb1a.mp3",
+      "size": 15500,
+      "sha256": "1cf176a8e94576b68ee036ab6cca123fcc0e2fce41a5be1fdd6183eed44dd723"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-677e53df5a0f4ed4da678236.mp3",
+      "size": 33644,
+      "sha256": "e71dba1dca5570faf8aba957dac12be21497d92ba16e4d0897f11da8348981d3"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-67c0989701fb9eef68477dfb.mp3",
+      "size": 27884,
+      "sha256": "7037b90608f363d082758c4014ccaa355dc31cf0e05bfd37a85fb5d2239e180b"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-68cdaa705163841414c98e4e.mp3",
+      "size": 45164,
+      "sha256": "b19411b0adcf236fa9e0d530cb0136295b120880a160f80e30c20ead87e9e36d"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-6a0b46d0002590e6a755ce4d.mp3",
+      "size": 14636,
+      "sha256": "b1b02a5fff3d41e1ad7f3d2ffbc3125c139226e03a7e897ce970115ae6e265e6"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-6aff7d15b787ed92a1a88cdc.mp3",
+      "size": 15068,
+      "sha256": "6795d3161c1fbf3d2db17607862a7fee39e16717bdfa46b99e96e374289ab423"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-6b5ad6b5d8ccb6ea64e8e3cb.mp3",
+      "size": 19964,
+      "sha256": "574db6188ad99c4e9d1555bb463dbff42cbd96858673d7dcca35ba3fca2e056f"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-6b9b94f85890c50c50b0c655.mp3",
+      "size": 16076,
+      "sha256": "a0cc7b0225b07e0467bd566e9e994b7304c5c3175bdf8fe3735852e9e097ddce"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-6c51c8321d4c66cb690b85a4.mp3",
+      "size": 47324,
+      "sha256": "b157b10f723d40a8d1659feffed98cd8d0b72d69a8e423fff1d5ed203b45d88f"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-6cde9139a426b7fd12126609.mp3",
+      "size": 32348,
+      "sha256": "42b8569bb95e499b531c1d34db1ff75404823b05c4075eb94ac9f9bcfe65d857"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-6db7be3a6d99e31202916fd2.mp3",
+      "size": 44444,
+      "sha256": "97165f093888a2cc6a43d1d746cc6844dea6f6459b2cccc3c455da484ef3c12e"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-6de70dd0f357274bf200ced4.mp3",
+      "size": 18092,
+      "sha256": "3b5d66c21b952c3508131e5451bcc62786edac511c78d69f63adfe1c2814160a"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-6df759e6faa3beb2a039a846.mp3",
+      "size": 40412,
+      "sha256": "eb35a5b6610888791f6a86ca0063cf9f7fcb12b83e1f3f218a3b7aa1f0ad0cea"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-6f075ea3cc96bde34ffc81f0.mp3",
+      "size": 25292,
+      "sha256": "d45939d28a3502d523e9f2f537d7660b164003700fe80264b31ee26da52ae530"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-6f1ba7f9700b24fac01572f5.mp3",
+      "size": 17228,
+      "sha256": "cc6c123a0f2d7eaaf5dc42f36ea7351fd62cc3044032d7f3f1f342e78c4ac313"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-6fc6c3e15d1dc8f3158c24f3.mp3",
+      "size": 35516,
+      "sha256": "aaf39f957176253412c0af65579d2de7559a04a11b4c6107d633cf4fa179c454"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-703902c43b8d27b2ffc1c272.mp3",
+      "size": 30908,
+      "sha256": "a0506285f544d8eda906a422593502152d81fb4362879656e5cc13112502fee3"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-70c77bcbf5bcb21e8d958e6b.mp3",
+      "size": 37100,
+      "sha256": "316f5cc67bc1002aa034d6c04a5c47476c90c4840ff5a3c90e43790c68a818ff"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-71324f555168997bc702aabc.mp3",
+      "size": 16652,
+      "sha256": "bfa1af17248ef1e5eb62f6b170c9a2ef88e5bad567d4f9eecaf451c98bcc32b6"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-71842aabecf6678a491a5526.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-718b916e710aa624d246be16.mp3",
+      "size": 15356,
+      "sha256": "db878d10a0a9987da14ce772dcb3eebe7d4b6b7a885f39d5562c694dd6aa9840"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-7297db5271669cd7a07baf5c.mp3",
+      "size": 14924,
+      "sha256": "146fd6c60a788854d3f4dbc567379ff0ec9f3bf631ffae942649c31c2ddc828c"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-73a9e7d19422adcb669638ee.mp3",
+      "size": 16940,
+      "sha256": "e322070f88eb89e47f2cb029176bef133ffdc5b750bd464f191551a8b0ea539e"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-7414d5d1bdaeaec4416e6aff.mp3",
+      "size": 17228,
+      "sha256": "a0d355d9657d9cc9ba77a446c94e51e0ac12c378dbd3b35ad1ab7719da93c229"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-74acef3bd02c820ddba6cefa.mp3",
+      "size": 22988,
+      "sha256": "10c0322a3c11163c2ca87c63b4dbc3f47af9da6d0646d99d0b4a907aeb9d99af"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-765cf9d7f620370392e8a61e.mp3",
+      "size": 16940,
+      "sha256": "909def3f350d7d77ef7e57cf38f4ec8eb65c768be15c8cf7accc5d1dd0d71403"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-76637b81b3a4e2b81a9ea95c.mp3",
+      "size": 14636,
+      "sha256": "2afe96e517aa368965bff1bcf0e05b399ead2b39fdd3dbddb265878f6c0eac87"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-78ff8efe6a9073781d7f4acf.mp3",
+      "size": 19244,
+      "sha256": "19bf318d9496e1b78c550f5ca773d0eb1e104281c562a68297bc6933df7e47c8"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-7a044c4ee758982a1c481c91.mp3",
+      "size": 53228,
+      "sha256": "d37bef84c71aed1c0c52a3102200ec69f7f8eb8c6fca748a55fa80262f2d0fe8"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-7ae3771fda7ff23446db0836.mp3",
+      "size": 35084,
+      "sha256": "8de7787ab1168acb7e55a2ec0362f775827307af1a2f4e77ab65dbb6fa3091b8"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-7b50c5109ecb51c3a7da375e.mp3",
+      "size": 67340,
+      "sha256": "b14746827d09de5d5c9e1ffe773bca6417a2453c97b7f99e3f5027685f482d35"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-7c6ffd745f77230156355466.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-7c8e63faea5f2a88294a4199.mp3",
+      "size": 34508,
+      "sha256": "cbc208b893a4eca8f57f37425d6e004df64b07036e9ec8ca5c9742c625c1503f"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-7c993992059748cfb2d159ed.mp3",
+      "size": 20828,
+      "sha256": "a5d3298fe77bdd8b594f5a502eeaa52cc9512dfc20be7db909d9fee40e6ee66e"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-7db86b62e1e986f3bc11ae8f.mp3",
+      "size": 45020,
+      "sha256": "2b372d82e3f382e146d7ab5b1b4cbca7dc96bd9213939327aa92fa8c71f57560"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-7dddaebd238d60b004730d1d.mp3",
+      "size": 36236,
+      "sha256": "81936d5277e8634a3701816fe7d7fc530de048d019fef205b406114dd769d253"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-7e974383f3df9a755cf48f58.mp3",
+      "size": 44012,
+      "sha256": "2eddac4469427d9ace861b0645d5e50b20d32f46b0a0179a13b758d943cfe7e1"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-7efd16be2576fc21a79f1b70.mp3",
+      "size": 15356,
+      "sha256": "6d68c9d34c4a282378e5665fe6f9d12cebd50b5cc86cd484beb06d76a7249dcd"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-7fa33525420dd48761ca9332.mp3",
+      "size": 29180,
+      "sha256": "6cfcec7ea8efaadc493e0832a61e5da8132a4e5ef50c4e3f95e84a83f6eb480f"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-7fcb1bd56918f2dc001009c4.mp3",
+      "size": 31772,
+      "sha256": "8e7ab34a54bcc2f478d54a4c355cfe983f02bdb32e4f2d97d4b854e759d24ee8"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-802c0eeb59780391452ebbd6.mp3",
+      "size": 38540,
+      "sha256": "b6ce264ba6f0ce61a80f6df4980474da8a40318b0dfb4a84a74eb243902fd707"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-80f3503f084c00a158a424ec.mp3",
+      "size": 35804,
+      "sha256": "f991daf5027f0fa56279575693905ce37603fae94b449f2d9410644232490431"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-8116fc1960e53fb1910fb51d.mp3",
+      "size": 15068,
+      "sha256": "991f10a3f655034a0f07f32f15e5124c2d3e0c0983fecdf0daa2ca4f7a7ed896"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-820c553e7a4eaeb27c1103ac.mp3",
+      "size": 24284,
+      "sha256": "8917a47ac7a978bb44cdbc7f81e48a6418bfd4b8e1eda6fc8cde0983136c3aba"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-82a3e507ec681c218c6741df.mp3",
+      "size": 16940,
+      "sha256": "a9cd9cacc6712eb0164f1ce7b3bc9d4ead42cde77563c206a4013327d02b429f"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-854019cf4b9d092a6475941e.mp3",
+      "size": 17084,
+      "sha256": "4854d8f997c58e730a7808e9d791deeb03bcc1f4d877037ac279d08e38f70aec"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-85cb19718b3061db6a003789.mp3",
+      "size": 22700,
+      "sha256": "11f050d4c40ba802f8bef3f8c69f9c3740ad1a8c3c83e792010387bca06b553b"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-85d92483e4092870538e69fa.mp3",
+      "size": 38108,
+      "sha256": "47f1adf22191765fa9d43a235cb5d0734a861b02fa22f5a0c3c4f19ab9d09b6e"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-85e860acaedccd08d8de07e1.mp3",
+      "size": 38540,
+      "sha256": "4f6b5392f97969405d2f8430f575d5e156b0f166ce06b39e21e4715db54a27cc"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-876b34d64b89dd012d050b98.mp3",
+      "size": 16364,
+      "sha256": "fc681fceba081d70215d13e9863ec7ce9e42ca2897c8c1d6200ef6b3edb882f9"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-88a8f59e8fe21805a33bb6a4.mp3",
+      "size": 17084,
+      "sha256": "1a39c5d593af480c007c375157311823a85f996340224a0690c251f717e947cf"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-8936204ecae1f2fe265922ef.mp3",
+      "size": 44588,
+      "sha256": "c0b20270b67b8b5e60855f2fdb07e59386942818132a5def8bf0760ef2b5c822"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-8938d4935f9a275d1ebdd788.mp3",
+      "size": 45020,
+      "sha256": "87a863fe7878c10cb36987a288226ab3928edc443e4be47dd90d01fe590d897d"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-896d11e9e01aa8b7ebd8872c.mp3",
+      "size": 16364,
+      "sha256": "92b8c33691a683acd6c83bd0957cf2f10cb9ff14231a27469f54c335acdded58"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-8980e79248d14341fae5f815.mp3",
+      "size": 21260,
+      "sha256": "3435d798671568a1ed55a7dbd1b70bd299b766189b6f69ec84f50b3cdb4e8c29"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-89f56f0da4ad741b0a18ddb1.mp3",
+      "size": 16364,
+      "sha256": "58a35bf34236712c649880dc3298e47edde4f3154f00638b6cbda52a724b6bf1"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-8b9abef7acd12812e1b31fe8.mp3",
+      "size": 20540,
+      "sha256": "18dafc2e608dd8cd988a8ba3a05ffe37d953fed73cdb69e095e8cf01bbb1f797"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-8c18b565dbd9b3d61221e986.mp3",
+      "size": 24860,
+      "sha256": "7213e30ba0c029d42e3baa02733f2cfe6ef3434d89870445f083e15ebcaa6872"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-8c2ee8d038556b10f7194bd0.mp3",
+      "size": 16940,
+      "sha256": "40763561a92153dfd296892e06b1445459710b9639a385b14fc5ec816373fb75"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-8d1758eb12a7aa82c49ad0dc.mp3",
+      "size": 15500,
+      "sha256": "1cf176a8e94576b68ee036ab6cca123fcc0e2fce41a5be1fdd6183eed44dd723"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-8da659b8a9a7e30b1ad20c3f.mp3",
+      "size": 51068,
+      "sha256": "fc3f7bb4082fae86045ed79cac6a77a35c6239b0a01574d1f9129ffa752f3665"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-8e7637bdd04602b569511b4e.mp3",
+      "size": 54812,
+      "sha256": "abf3044427612d77bba32738064133a7c7cf4f3711db4aa7339c41d69bbcdef4"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-8eb499d2fb9c859af19e229e.mp3",
+      "size": 17372,
+      "sha256": "22b946ce6e3201efc12928a58a85d0b908a0cee467ae73a10d145b0ec613b9fb"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-8eca252151dfe1992e908fc8.mp3",
+      "size": 17228,
+      "sha256": "cc3f85f9a097fdc2725d01967e5ae3888e685d4d3a429ae08bc3648f2d629526"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-8ef060727fed69c4fd412ee9.mp3",
+      "size": 32060,
+      "sha256": "79b84981749f1c1b71daf15053b6ee25e20f1555a047fc51e489dabcf3e2b7ee"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-8fd1c545cfef275bd3ecef52.mp3",
+      "size": 50780,
+      "sha256": "4eca5285f1d212dcdc8370971617b971eb507c2c3b971d8e35852d68b9a918c8"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-916c1d4eff9b7b95c3e2ea77.mp3",
+      "size": 36236,
+      "sha256": "46c8da5e8a7b9f36d4e19052aac57f3648268d6f67eeb671fa9a0a1f186b4a04"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-924aa3d287c52c83ae2d0771.mp3",
+      "size": 13772,
+      "sha256": "02d3ebd4713649bdf2401e3aedd2b989f532505b457ad6fdefa053b730f1a41c"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-92b307859c0f394a782b8a9f.mp3",
+      "size": 14780,
+      "sha256": "517ec63d8225a363c9af8c8d6c546a8d826576e8b165b97b72101fcec0fe3369"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-92b45578e913fdb83654ead6.mp3",
+      "size": 15500,
+      "sha256": "4f3ca652a1c0710285c5063918dfdc676e4a0acf18f64695e7a325e8010c503b"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-9329c3b3023b72dd8ee0f07d.mp3",
+      "size": 18956,
+      "sha256": "ca565ae4312a7fc8c6c011dfa2f4fbae4926e5ec791063e3e0c5a1c7ac6bb1aa"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-940561d257cbf649297df121.mp3",
+      "size": 38396,
+      "sha256": "9e1c92f0f5362fd2ad94238226f2dedd8bd915ec692665a23f9ccebbb51f5f12"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-943a6f06ef64cefa247d5030.mp3",
+      "size": 15068,
+      "sha256": "991f10a3f655034a0f07f32f15e5124c2d3e0c0983fecdf0daa2ca4f7a7ed896"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-94a084fdde0279980d70f8cc.mp3",
+      "size": 45020,
+      "sha256": "9c0ddb44b4aaf4bed397f12a7f290e1ec734c1975ef8bc8d3121bb80b8003416"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-94d4f643b87d1c4ea0fa5e4d.mp3",
+      "size": 16076,
+      "sha256": "5480cfc7f15c0aac3fd5c01df94704c6a5f135c1cbe214a34a5b7e86805166ac"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-9620a53b8d095b02c8393717.mp3",
+      "size": 40988,
+      "sha256": "a435eaf5d50270ce7697eebe7c878a806f10b261609d67633788cb5f798ccec4"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-96aa397eba8daa9fe9c10853.mp3",
+      "size": 65036,
+      "sha256": "0ec134f4d0ddca47d272c05211a37ceb56c31bafaf264ec83a0e67e078b25c76"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-96cad601acaaf43145aae4a4.mp3",
+      "size": 16652,
+      "sha256": "0063a572cfb7656cb32684dc3eba111e3ce9c670b0b82af8afab480214b1427f"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-985e6965f36056b2a7d47571.mp3",
+      "size": 47468,
+      "sha256": "6057326903fd4da0689393fdd11afe09a18ef7d277adfa857efd4f1ae30e11f4"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-99b87482a784ef12234d04a9.mp3",
+      "size": 42428,
+      "sha256": "43736810622b248d7935ce6393c7fcebfe1a02b5aa7241af0797e42df1346dd1"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-9a041aa162277783e6e0283f.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-9aae1e1780c624bb7e0e8420.mp3",
+      "size": 29612,
+      "sha256": "8b521f2be709c132e4ee725827c7d6860ab390ccf3c4266dc2a7070357856ddb"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-9c29059541d20b7f9054fedf.mp3",
+      "size": 24284,
+      "sha256": "1f2affd8e01b6bfabe4cfbe9600642a631b8a62fea05b98ee8bab2f26707b442"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-9d8239f6ea8ce23beb6dc467.mp3",
+      "size": 16076,
+      "sha256": "117e549a68cfca5089261c0e9d1b2a6680e2731d3758345f0c90995cd6c1812f"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-9dcd18a012a282ddeb2e797d.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-9f88ce111a3c801cbec2d136.mp3",
+      "size": 33068,
+      "sha256": "5718c88e5c82afefe1a5e9a9a4c9fbbead8a82fe0b35d9f503fd78f4ebed0a6c"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-a02c8a6e317947d72739c08f.mp3",
+      "size": 15644,
+      "sha256": "932f212bc5adb063de3207dbc3383b32aeff694dd471740131c39f3bc275cf5b"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-a0e26073156d55733ff89cc8.mp3",
+      "size": 14636,
+      "sha256": "83c95a315b9759139c5ec9524621235df47df5c0df147f1636845eaf621b8dc3"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-a15c961a0c159dce0c67efee.mp3",
+      "size": 16796,
+      "sha256": "5b916dabacb89fdb1b79c1b2064899c5c539860dc584df87c44a59318ec935a4"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-a18d1928e438a3ea5ea4645f.mp3",
+      "size": 20828,
+      "sha256": "a5d3298fe77bdd8b594f5a502eeaa52cc9512dfc20be7db909d9fee40e6ee66e"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-a24a75eded9138ce2a19d471.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-a29ba036b7afdfba39ef5aab.mp3",
+      "size": 38828,
+      "sha256": "c8f99fc1381b6d14868d7530a323ed5514686f2c99b8f689f929635d77732e09"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-a2fc46c37d4f88c52b06887e.mp3",
+      "size": 52076,
+      "sha256": "092ad67a3407fc64ff06b46d244e8a11c11e232956e737d164a69458d66b70c9"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-a3da3bb35be6ad5de6ebafcf.mp3",
+      "size": 66332,
+      "sha256": "f69fd7fec5d57326f9fa141091fdc8268b34a1910062b2c2be489a977e4bf121"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-a548c6f7930bafb083d347ae.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-a550015bd49834c08755b953.mp3",
+      "size": 43148,
+      "sha256": "f65348d63c7bac07bc02cebffd5a681a07316703145f643049574511893a4792"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-a60327049f7e7294f4963cc6.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-a61d05359fe91ead5105b8c0.mp3",
+      "size": 14924,
+      "sha256": "a0ed85235cbec253baf725cabfbf1d999f61b58a1e588b4140fade06341be169"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-a75687087fe79cb1b5f9f677.mp3",
+      "size": 50924,
+      "sha256": "35e5846c12ec74ffe0743e37578ebb80c7129885befb2775b5a09e84815284d2"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-a778a7aac794ac1a5e5d79bc.mp3",
+      "size": 16220,
+      "sha256": "d3c78d91d96af82e910fe977c41d57c8f06b7089b4b2de5d9c40f852f452f2a3"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-a7f702593c0441273f25e77c.mp3",
+      "size": 16796,
+      "sha256": "cd9d5a9d2263fcafed2cbcc1c5d615d8af1a89a877b6b6566ddc0ed5f8869c64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-a87e3d0cfda75e46dface064.mp3",
+      "size": 23708,
+      "sha256": "e29c55910533791e5116e52f84d1adff94251091d33568b1839dda66e1cbdf7d"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-aabf4cb6f244768c1090568a.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-ab4396bc499e310c43a666a0.mp3",
+      "size": 33356,
+      "sha256": "605717908e451bfd4d326707a7266987591b64f2be4d530654f625e275bcf8ed"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-ab9c8b1916444d27a7c60703.mp3",
+      "size": 16220,
+      "sha256": "13e5e0d95da5b43ddc047b65e10bbfd39dab590a8a65f842370be9ad770185d9"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-adb84dd943414e1a74af67d1.mp3",
+      "size": 27884,
+      "sha256": "5525a61461e696749676e7317c27678c3e9610f436f7de8b182157e1ad5436d3"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-adf985bf08deb156f3a27126.mp3",
+      "size": 16796,
+      "sha256": "13e52dac9fc50d8fbeac7c5e629ee3fc1a479a0a15451cdb33205b39b42b163c"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-af02e003fcd948ebb644a736.mp3",
+      "size": 41564,
+      "sha256": "214a0abc329965afdfc64654cd9f3a4df5a29fbb6cf371dc97d89caa5c50c909"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-b01ca0a9f144dfd2d68a0ff5.mp3",
+      "size": 29612,
+      "sha256": "a86b7d5b4b69c654f6dc2b81f7531bc94640e59e7b94c958d7257f7b19b7da1a"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-b1fd19b7c363a7c38b6a8c1c.mp3",
+      "size": 48044,
+      "sha256": "796584916d6e173a115020ac1a22a3d574d01d48e9dd7622c11095f8c783262c"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-b243cb1649b5233988eb85f1.mp3",
+      "size": 32348,
+      "sha256": "7b409ed6d14fffa3cf8a9857eb1f6ec4b52d2705ad4f58b213b0349dfbe1d918"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-b2a99c2789d708d79685160d.mp3",
+      "size": 16076,
+      "sha256": "5480cfc7f15c0aac3fd5c01df94704c6a5f135c1cbe214a34a5b7e86805166ac"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-b2b4e5cc66f6ba573ad006ba.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-b33aba73595adfdda0b57427.mp3",
+      "size": 30908,
+      "sha256": "abdce6ab6fbddd2740a0e249789a3760195c111979f72d173827275fab2713d9"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-b42abe57e0f85b48375a03c1.mp3",
+      "size": 14636,
+      "sha256": "38b0ec5513acbbfa1723bcf36b0b533615cd93813dbdf8be8e0350e59afa13f7"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-b44e5a2ee0d2da157958b1fd.mp3",
+      "size": 16076,
+      "sha256": "a606d9eafd7406341f02502bcf73b49b14681cd88ba3d4a8c3b7f9d829f76fc0"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-b4bae4786942610ae0c8d173.mp3",
+      "size": 16940,
+      "sha256": "a9cd9cacc6712eb0164f1ce7b3bc9d4ead42cde77563c206a4013327d02b429f"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-b4e4e19b96330d5f5bd4a8ad.mp3",
+      "size": 37244,
+      "sha256": "e53d8604bf878082c8560a6b44d8fd427c67f1520443bcaa4dfbb04f85394500"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-b51a00bcb8dc87334b1d2fb2.mp3",
+      "size": 37676,
+      "sha256": "eda3fbe31b90ba4cd119b984e305ea8633a8953401e25295f48acc80eeec3e48"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-b639ed7782748f616e7e76a7.mp3",
+      "size": 21980,
+      "sha256": "6d4537b816bbb016468ab74f3cc6c5f7c7c34558822ef7c86efd98304816b56e"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-b648a54dc89e68283ce9aeef.mp3",
+      "size": 51788,
+      "sha256": "259671b9e3f2710ff601dbcf660f054d0abb52f836b7601f99f148634745f248"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-b68045f0154dcd55db8e5c88.mp3",
+      "size": 14924,
+      "sha256": "a0ed85235cbec253baf725cabfbf1d999f61b58a1e588b4140fade06341be169"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-b70111a082c8991265c49e17.mp3",
+      "size": 36236,
+      "sha256": "66a5d4ae9ee2677a83d38ef6a0f7250781f7e8654c5c0a17cb726bedd383c7f3"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-b7830af3a5e2a8bcf3b9f609.mp3",
+      "size": 16076,
+      "sha256": "9f2386c3f88ec46caec67b1353a2b409b83a4b624790f69c319925935cf61db2"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-b7a6cfd7534339b68234699a.mp3",
+      "size": 20972,
+      "sha256": "8cb29216c8903dbf21deae050859cfea8a8e56d0ff615ed0d7021b1a7d5e0939"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-b9955133c551d1ba452a6ddf.mp3",
+      "size": 36380,
+      "sha256": "0ab646d6cf8afa88976f3a127b459268552589951305ccb1a11ec87cbde3a335"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-b9a681c5cd5b6be5faf14088.mp3",
+      "size": 47756,
+      "sha256": "fef1d03326be8e69530a596b9432029aacbb9c5a9dad8d14b995e03ec152195f"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-b9afaa95341c5dbb1b02f600.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-ba3cfebc778fc78f288a7d02.mp3",
+      "size": 15068,
+      "sha256": "8c99b3e84baef0806684cf783a80e24affde14968a73f8cd6284194d4f50ab94"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-bb0b3da48ce67b8c57d535cb.mp3",
+      "size": 15068,
+      "sha256": "262885814dd41e6c21aac357c153d296aada61168901945f54daa2304e2f51de"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-bb45dca07b236c594785c638.mp3",
+      "size": 37100,
+      "sha256": "bf71bb248952ea14bbf583df727cf60aa7d8a2fa62085d8d5c3935234c56ce22"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-bba489b815971601025be557.mp3",
+      "size": 16364,
+      "sha256": "699e327c2bd65708329ef996432d7bde93d9adac4ab1c0b92469f33b852e167c"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-bc32d50a9b2dfc08250efba2.mp3",
+      "size": 16076,
+      "sha256": "a0cc7b0225b07e0467bd566e9e994b7304c5c3175bdf8fe3735852e9e097ddce"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-bd3835cce9af5e59bcdf8382.mp3",
+      "size": 14636,
+      "sha256": "de5da78429e4be188b5ff5e3c668ca90ce20a3253f8c5a9a4609b8fbd8ae6346"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-bd4799302e35cf2616752345.mp3",
+      "size": 16652,
+      "sha256": "31909b8b1908b33fac86eba545851a1a970d2d629c4e0362c11a4c04c9a0040e"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-bd4b2fa306d25d9f7c3c468c.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-bd62a7e435665391fd28d01e.mp3",
+      "size": 15500,
+      "sha256": "1a0c99277e21432f439220197901aae2ee2a47aac22473992680c3aeb6852083"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-bd6512d873926693009d8993.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-be0f157eef86c05c6d749353.mp3",
+      "size": 47612,
+      "sha256": "25ecff7fae7ebae2e1a5b2110632a343d6943e9d223550ef72902affc69d99d2"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-bf0bea8b38ab95007b0645c0.mp3",
+      "size": 16220,
+      "sha256": "bb3dd567ced77f91fdac01da74ef041fb94677f183976b2f7d2aca6339036ec1"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-c045c0dc3862d370f4f347f0.mp3",
+      "size": 15356,
+      "sha256": "eb4d54abb2c18f75e7b5d8647c30e4b5db545c5d8679c9eae23f95544e02be8b"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-c29ebe2f435c55f8bd0121e5.mp3",
+      "size": 31628,
+      "sha256": "daf18f559195723d28e66918e5a2914ffa1e27ad406b5a6ebd9449bde4aec961"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-c2b7b91b5f56efb397ddf86b.mp3",
+      "size": 15500,
+      "sha256": "4b087bacce13f156c35718fbed6ca1c44e18bd8e80928cc55a151a74158ce05c"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-c34e8a65aac9754aae1b4889.mp3",
+      "size": 45884,
+      "sha256": "ddc0d8077dc459f747d48276f35b68b04a2d1d50245103bda7902416a9657834"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-c37030a92fc000a1c95d6220.mp3",
+      "size": 55964,
+      "sha256": "9a015bedd4008a1741190a9969897ee7ce644e7b613df46d57409d9840864eb5"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-c3f4b84adf15747249a64630.mp3",
+      "size": 32204,
+      "sha256": "3e5a0d21e13345bf81720b3d6dfaaecb7b6395c55da4842d3a633ea4947deebc"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-c4002180b1f8a10c980cd7c5.mp3",
+      "size": 45308,
+      "sha256": "5a64a14d1a812c5ffac4450cbc80a281e0cab246a93b38c5e8ce8283a6fb3d12"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-c4834f009af48635388c999a.mp3",
+      "size": 38828,
+      "sha256": "a8b5437c67c20424e4dce6cd33b65cc6160cf48c09c0ef29fd0274c72152098c"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-c56620027a6ab31f35299f1e.mp3",
+      "size": 14780,
+      "sha256": "56998bf69fdee4a707310e725bbe4074f9241f382e1302aac219e34eaaf9029f"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-c7068b486331ddbae6aab1b4.mp3",
+      "size": 15500,
+      "sha256": "8e8f54229e94192b5693b0727446e02c4b13b9a446ed1ad68826e558e33e5d5c"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-c7dbd76a24b39996d244df40.mp3",
+      "size": 44012,
+      "sha256": "fe5e567f4d6e2055eb9b8732c2e85729563bd2fc60832b7cbfe25b7b1313b69c"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-c7fc80967733ccf335b10461.mp3",
+      "size": 16796,
+      "sha256": "3083541952cec519ba4412991c0ee85c0dc1a1878ceb313358dc75bc1297ce60"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-c8041be3bd88105601099234.mp3",
+      "size": 26588,
+      "sha256": "395a694b5a379a778efdb4471632e6d3153c78892c944965ef4728d8ce35af35"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-c8fe05a5c1cdf1a2f3727654.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-c93610e56c55060b099cd2a2.mp3",
+      "size": 48476,
+      "sha256": "695ef7352b46937ba6dfe733ed6865b3182f2dd67ba9c6627314c755c7da0af3"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-ca82e671210117d461b1a003.mp3",
+      "size": 53948,
+      "sha256": "67ede826a09d4f10f642634512458de7fe466999cf8e8996c3bec7cd58a94325"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-caac87f7e1e361aa45ca4fe7.mp3",
+      "size": 38540,
+      "sha256": "51365d3a7c2f99b8f335f46994ba6ab286a52686086f6d12195fe8f0366f777d"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-cadd3e5463982b2af38a7144.mp3",
+      "size": 51644,
+      "sha256": "80393bb811ce0ab2e0835ba076dac742c5b88a05c118e577243beb6e34340f48"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-cb087ac0c803994a11c86d1d.mp3",
+      "size": 16796,
+      "sha256": "61c203b542f52ece0b48934e92643c40936b7fa607ef963b7e7cd0ffdb38ac70"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-cb8425c52b90c2e5880fe85c.mp3",
+      "size": 22988,
+      "sha256": "1ddfa07700fcb46c866acce3a5ead672f3c8e58c3018055e8279cfe431bf787f"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-cb977b1836240655d7981384.mp3",
+      "size": 35516,
+      "sha256": "dac15912974fbcd7a2bc5e528bcb5865bffcab270f2e5b138f972645f6aa50cf"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-cc87650c2ee61a9726bd4cd2.mp3",
+      "size": 25148,
+      "sha256": "7a4fdac0461a58e5e1ae8badca734879e48db4bfa29117113619d684934d02bc"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-cd23b3b9c786b5d7653dd1c4.mp3",
+      "size": 32204,
+      "sha256": "57464732b4455d50e2e06c4ec5c73aa2eb4cd287117fc8656615379ab1145b00"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-cd35f91520a3e8ed326fc028.mp3",
+      "size": 15212,
+      "sha256": "131dea94013e7f7a5f46e998088ba3ac13456a4a4fc134916acbb49c9447b77f"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-cd575c931354e7d667cf877e.mp3",
+      "size": 15068,
+      "sha256": "665b70c790302a8c61b932eaebb530298fb9807d3fdaf1391eb206cb1ea3eaf7"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-cdfdfabb88e89166aaf1d096.mp3",
+      "size": 65900,
+      "sha256": "6b9732c545ac6ee7d940cd94558a63bf3c509a2d080daf303d9bf4002db26f53"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-ce450094871943ef374ef1a9.mp3",
+      "size": 34076,
+      "sha256": "5a1005695d6a0cda20c1432861db68a90f825deb2c770140ddb6f8c5d2b1dd4a"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-cecc73fa6de5d0d38589607d.mp3",
+      "size": 16364,
+      "sha256": "92b8c33691a683acd6c83bd0957cf2f10cb9ff14231a27469f54c335acdded58"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-cf37651a98d40bbbd5e73d04.mp3",
+      "size": 45884,
+      "sha256": "978bec2c2e79e4d3951ee42a087c26f4178599c5e87014b96dd4e34fd78466d4"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-cf5d6f9f1158e119920ee06d.mp3",
+      "size": 16076,
+      "sha256": "117e549a68cfca5089261c0e9d1b2a6680e2731d3758345f0c90995cd6c1812f"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-cfb4a4221602746250078d8f.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-cfe59f2f8a6fa7fa9a3efe11.mp3",
+      "size": 30908,
+      "sha256": "11952bc259eb4201ff8b3c2f8290918a9213adfea18f49fc99b014ba1e2d3bd0"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-cff6fa65515a3052595f6c30.mp3",
+      "size": 33932,
+      "sha256": "eac0c7eb49ca6c98bf028066ada720846bb68a2569707135de724dfb863df7ae"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-d09b24c7d2a3352589525add.mp3",
+      "size": 33500,
+      "sha256": "25665bbeaf5a94633fed2757185223188fd58e4ad7d634fc4ed252014356cd75"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-d14cf25ba9da1212127cea1d.mp3",
+      "size": 46172,
+      "sha256": "160926e94d203cc2b0bbf39d7e7c57308b1b5d77f2fed1690c675cb615840ed3"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-d1b0329222935f8cecea3f44.mp3",
+      "size": 35228,
+      "sha256": "95f015e3f77a837943ac72a62bbe6f79cc281fbfd8660f71405838cc5be7cf17"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-d2bb90e50078755da5e0ee95.mp3",
+      "size": 14636,
+      "sha256": "efd783c82099bd2d0d72274d5d098325b77d65966b8dba4f73653f20438133b7"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-d32c450195a7baae01ed2922.mp3",
+      "size": 50636,
+      "sha256": "dd14d994b4c7795c3332395919cc44abec44f874bfdec31dbcc7f7918b95a1bc"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-d32de6f602b4756a217afef8.mp3",
+      "size": 23564,
+      "sha256": "60df0044584a143818d494c58ab7fb6a186113ca9b23669efbb54919adaaf5ab"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-d3c5ba125d5a7ed77738933f.mp3",
+      "size": 29468,
+      "sha256": "fac4158e87aafdbf3e73734ff159ed554cb297c1265e50021cc6c96be37e70ec"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-d4571a61342e086d3fa78fa7.mp3",
+      "size": 15212,
+      "sha256": "eb1bf94eb33733033f346e888a754155e2734e0a88d4d178fbd408e29607ed33"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-d46defb77e22627d3a5eba36.mp3",
+      "size": 13916,
+      "sha256": "e2ff32cb680d191e8846861efd7b3878c7f863323e1d0a12e6396a72902d621e"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-d5dc876858a0a16bdc751619.mp3",
+      "size": 15212,
+      "sha256": "f5841dc393edc67f93de14639dc31ce624c268156d32da5f1e4dec41bae4c262"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-d650c26eedc66e44b373c6c3.mp3",
+      "size": 15068,
+      "sha256": "991f10a3f655034a0f07f32f15e5124c2d3e0c0983fecdf0daa2ca4f7a7ed896"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-d6efe237a40e16438a5a272c.mp3",
+      "size": 17660,
+      "sha256": "f779ee687e1b89bda7a13f2d7f5e5fc41610783fb7ad028a74ece4a9b1d9bc2c"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-d740dbdda03675c378882f58.mp3",
+      "size": 15356,
+      "sha256": "7a84308d77d8c11afc1aafb25f9c1ddc65a6675b6dfe911c64a3380d7222cf0f"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-d7ca39d3d52f2eec083a4c53.mp3",
+      "size": 16076,
+      "sha256": "117e549a68cfca5089261c0e9d1b2a6680e2731d3758345f0c90995cd6c1812f"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-d7d4cd90f5e382fa2f900921.mp3",
+      "size": 26444,
+      "sha256": "f54269264f093e0715191fde9ce31cc957d9e14d1755efebe032c7885435ce77"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-d83dcad67e4960dfad3eb0e8.mp3",
+      "size": 39836,
+      "sha256": "07e7c357ec990349a6dd1f62dc4ffbaf4a72dec693a12cbd413f7d3dde048bf2"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-d87cbb07cae86a6c0556d01c.mp3",
+      "size": 51356,
+      "sha256": "563e5526bdb34e14f893651c7d3891604d8621e32746d0dbaec8e1a5749541bc"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-dad17207f60ef6f66da049d7.mp3",
+      "size": 36380,
+      "sha256": "65a27d476f2cf73aee8481a8bd7c4ce01536eafea444220bd99842cc8428e705"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-dbba4e0ed07b7ad3702f7d3e.mp3",
+      "size": 14636,
+      "sha256": "efd783c82099bd2d0d72274d5d098325b77d65966b8dba4f73653f20438133b7"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-dc2b63cd311d42b7929e05ef.mp3",
+      "size": 15356,
+      "sha256": "72444173493a480bc1d5bf1b4ccea3b494725a74d65f3c8d7517824bca9a99b4"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-dc836923a69ffc34b62b1f92.mp3",
+      "size": 16220,
+      "sha256": "5b87e33cc44d6e245c3e94b75e9b067a5540e7758006f8f0f146394173b760a8"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-dc9199148251eeec025c740e.mp3",
+      "size": 15212,
+      "sha256": "4da24328603707dccae3490ad6c67af1221ee802f4090dc874c377136ca6e67a"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-dcee47c5a7f36be4f19a4187.mp3",
+      "size": 23996,
+      "sha256": "ab6e0249cad416e719b790185bdaa95113354c74e1b30ae0fea40e21d9b228e6"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-dd5659d1356b2b856651efff.mp3",
+      "size": 39260,
+      "sha256": "dd64630589d0c172e83cf8d1d004cc541986490ca05c102538ca36cbedc58511"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-dd697698205aa7fd1ad430ef.mp3",
+      "size": 16796,
+      "sha256": "61c203b542f52ece0b48934e92643c40936b7fa607ef963b7e7cd0ffdb38ac70"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-dea8d0de54f6462fd6a22630.mp3",
+      "size": 34508,
+      "sha256": "eadaa38e2ca30bc19b807ac6b8687697f5a6203e5b38ff075ddc1342ef80f155"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-debfbda74f65ab3389929bc7.mp3",
+      "size": 40412,
+      "sha256": "e955dacf162cce40bb6ee6c3c85bd62dab90ea2b04c7fd968fb6a362a59d9619"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-df688acbef616f3853e6aa22.mp3",
+      "size": 49916,
+      "sha256": "ef9ef7deab93e8f2f9ab7f1c0033258c6e0f21b819c9aeeeb1df2e73b25c6f83"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-df68a43a9720341fd1ff9fd7.mp3",
+      "size": 31916,
+      "sha256": "1a5e9672c774ccd41c19a0fd62b00d789a64bc53f6e925f11ee8f9e4416bdd6f"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-dfc47f49c6ae267db5403fef.mp3",
+      "size": 48332,
+      "sha256": "bb3b38aec25256383fbe2d055ec98fc1cacbb6893178a3f3ee12ff4fc6b58e5a"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-e0d228bdeb313934c231b239.mp3",
+      "size": 16220,
+      "sha256": "b0cc84df8ca621c03ea5c1f065c133a1059e53291b74a5123c08521b01985050"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-e1a900c9310c7f635064afb8.mp3",
+      "size": 17084,
+      "sha256": "1a39c5d593af480c007c375157311823a85f996340224a0690c251f717e947cf"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-e4689954bd064a99591d7f0c.mp3",
+      "size": 27884,
+      "sha256": "c7c2061e65dbc8e55d5c865c73bbdb1043f75f3a1716fcb570667d05775f045b"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-e497528e028b6f60497564e3.mp3",
+      "size": 15212,
+      "sha256": "0633b7c85b4dcb7798ec7203c8331bff9c79799022596f83aa05d39bb59df664"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-e4d741ef87f4825dc6299a2b.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-e4f6a16ddb92e26c12b0b4e1.mp3",
+      "size": 16796,
+      "sha256": "bf6e7eebbdc98fff10aa50742c4f8cef6612299006f7f3c9e775cef93e8898e3"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-e627f52b614ef9e5df30e5f8.mp3",
+      "size": 17084,
+      "sha256": "4854d8f997c58e730a7808e9d791deeb03bcc1f4d877037ac279d08e38f70aec"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-e68d4034cba47dd8831fe0e2.mp3",
+      "size": 16940,
+      "sha256": "da0226c66a0c2aeca3d0c776ec2bab1bb4398716d21dbf9bd3a422303d46e560"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-e696ed9e077b488b598c282e.mp3",
+      "size": 14924,
+      "sha256": "04bc0bb63cd06e735274c2257429e500e7a88548fd852d4c6f7e5089bdf00a14"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-e6f81c7216eb5b89716677c7.mp3",
+      "size": 46172,
+      "sha256": "8d8b784cb7169087dd3dea5019679b60b0060291b38d50c6cc6b865b640b157b"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-e7d6c50d2bdcb25434af2fd3.mp3",
+      "size": 31196,
+      "sha256": "fc54ebe8f67c5b44e7e372b9327cc6656e642749d687efa27e12bfd198691e55"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-e8e260df7aa6d936e6ad4085.mp3",
+      "size": 16076,
+      "sha256": "a0cc7b0225b07e0467bd566e9e994b7304c5c3175bdf8fe3735852e9e097ddce"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-e9ff74269cb5ee9e760ea489.mp3",
+      "size": 23276,
+      "sha256": "9d17d664e0f7a73f267511c3ad1c8c4d56e37ee5b7e5ff4f2be29ac9dde06214"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-ea9fa04cdf0ea7a9870128c9.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-eb3dad2f3be10f49b0dce38d.mp3",
+      "size": 21980,
+      "sha256": "6d4537b816bbb016468ab74f3cc6c5f7c7c34558822ef7c86efd98304816b56e"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-eb803cc5443f63aa01ac7641.mp3",
+      "size": 36380,
+      "sha256": "3f021660b36349155bc43887df675527388460b65776a56ed57d995731622889"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-eb9c428416b69d798e0e66c2.mp3",
+      "size": 12620,
+      "sha256": "b6cf3ad2fcc8492426cd5ac483d5f1b713b68aea16c8e0954125519265897e64"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-ec242c2fe6e1e0580284dbf9.mp3",
+      "size": 17228,
+      "sha256": "cc3f85f9a097fdc2725d01967e5ae3888e685d4d3a429ae08bc3648f2d629526"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-ede1a9c695f0700f14233988.mp3",
+      "size": 14924,
+      "sha256": "a0ed85235cbec253baf725cabfbf1d999f61b58a1e588b4140fade06341be169"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-ee03985b7d8b0a81595ab5ce.mp3",
+      "size": 29900,
+      "sha256": "0e945643269642d76defee8f00a0ddfca93833afe2ecbf948d6b772918573b99"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-ee1afc7a59a2bebc5c4bec72.mp3",
+      "size": 33356,
+      "sha256": "c442518a8541fffd5b7bd54d9ff5d842d625a06ab9e3f6d2b8fed6646c5d0606"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-eed3880d142968ae08b7085a.mp3",
+      "size": 16652,
+      "sha256": "0b95ac0c9bea9cd8158d99c6f0ef50664e2ffa40aa22810e5ab5861f38ec2bb4"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-ef05d8dc9c6c20ae8633416d.mp3",
+      "size": 46604,
+      "sha256": "95f56926ca6731922a7a2445aa0eeed1b6ef2f3b1e53b6e111e3a9ee6c8d770a"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-ef51d1e4c6e91c33601d97dd.mp3",
+      "size": 21836,
+      "sha256": "d9fc3776c259eea89684d5c86bb1339d47328cb33ffe234e118add917e653eba"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-efb001d71819a557cc1dfd2c.mp3",
+      "size": 38972,
+      "sha256": "d0d71e171d31a6a00340f2019ea5306007351002489f0d8f5207c5afb8ddae11"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-efd90b29c95926fd3b896d5a.mp3",
+      "size": 15356,
+      "sha256": "f566f8dbfa34fc09658434e8a9ac1b675b6660cb90b37c43a42f32c585a6ed7d"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-f170883149e2d00e808dfbc4.mp3",
+      "size": 46748,
+      "sha256": "5d59bfe3422c757ac6e80c4c309b95c73d056899e1db72d291d9f8354a094221"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-f197c96fc65bc3b57e74d7ee.mp3",
+      "size": 15212,
+      "sha256": "ba39df11e47b18c3f912e0dcce6439283e69df4b4de7b445822b9ecdda26ba93"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-f1ba5cdca29228bb00ba4563.mp3",
+      "size": 28604,
+      "sha256": "7ad69b968d7fd975c085f73cdbb190e60232c001af14e9568dd4551847169ab0"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-f1de03ac882be24521e4cf76.mp3",
+      "size": 56252,
+      "sha256": "a21bce137e8546284e66a8e0e6e0117e309cc0bf2be6d75fb0ccf86313883965"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-f1eb6e0511ad249bb33c8703.mp3",
+      "size": 28892,
+      "sha256": "e29d180ddd7d7d9080ccccf2931dbc3da7b2cbb5676137a97f0c37d1a454f814"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-f368b025ab78e481dfb1afd2.mp3",
+      "size": 16796,
+      "sha256": "c5bc29c6ccb78e5a4cd92489387bb9d454075ebe9b4fd01f04d4c3343bfc787f"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-f423f0119d22af8dc29f6474.mp3",
+      "size": 58124,
+      "sha256": "78c3f7f5d3dfc162f5f257e3ae1e6ae39cdceb748431a1c9271631e50edfd640"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-f478f80b2dae2bd275b7968c.mp3",
+      "size": 40700,
+      "sha256": "597b5430cb60ef4a6dc537fff243a207be91c9e30505877418d9508aa08305d7"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-f49b7fcac60c02689b407052.mp3",
+      "size": 32204,
+      "sha256": "37cb92298597661c43cb61f0829fa713a4629bcadce4f9232cc0da0ceedb970b"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-f568eee1f4e4a267b2765559.mp3",
+      "size": 16220,
+      "sha256": "ab435a97f0d581f1603925861f0576e4ec6a0bde23a8416a1de98e17f0d6d445"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-f5e76496d0039a888c0d6514.mp3",
+      "size": 15356,
+      "sha256": "db878d10a0a9987da14ce772dcb3eebe7d4b6b7a885f39d5562c694dd6aa9840"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-f606c4d6dfd5dde93d0e8237.mp3",
+      "size": 28172,
+      "sha256": "72963650b36189cc255e2f106404ade7c0efd43ad690de1d96b9286c4cc447f0"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-f633bdc94d7b9d246c773dec.mp3",
+      "size": 17228,
+      "sha256": "04451d75463ed07f5dcbb4ae70158b1f7fc569966ac4a9e4944b3a69c5758427"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-f669c6d10eed01791e270606.mp3",
+      "size": 32204,
+      "sha256": "77e77a8e87e6b7132c72f2d233b302530bf0f90cf3f8da0ea5166cd410fd8bc6"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-f7176062b0b05741410c9cb7.mp3",
+      "size": 53804,
+      "sha256": "e39d5943eabae0bc2900935b4b9ba133e78f550067bd423ede4cc671a58b36e9"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-f73b1e0fd0c72ee03654f0f3.mp3",
+      "size": 16364,
+      "sha256": "20557c4fee03f39935864cc2a447bb318c27cb3b3ebf822f28d9c960e789a7e8"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-f7f5a21974b4b3e114838f73.mp3",
+      "size": 30620,
+      "sha256": "8dfc41bc4261e2c34ac43ae5b068466510a23e697fbce8012c196212cd50337f"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-f88404ce328a86a040566a4c.mp3",
+      "size": 35804,
+      "sha256": "b2ab8fbeb60de371179ad5def75fa348822aa0d993f0719a211092ef13238b85"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-f8bcffe4d0c022d87f4df12b.mp3",
+      "size": 35948,
+      "sha256": "fb32b0168d000d1d6b794ec79a6f9c6efa864fafaa11144fb0f97bb073d3ba6b"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-f9104df08fa3e6b73c094b55.mp3",
+      "size": 13772,
+      "sha256": "02d3ebd4713649bdf2401e3aedd2b989f532505b457ad6fdefa053b730f1a41c"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-fb46c6a6477921ec9eef6896.mp3",
+      "size": 46604,
+      "sha256": "6e2eaa71989213b8900f235f685bc7a4a9b2718d35f6773124725a3f87678b33"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-fb945a282a086b58a1206ff2.mp3",
+      "size": 35372,
+      "sha256": "bc8c3da73fd7316f84465cb2403ba523b50f42f10ae5db32931d0c05e1c95334"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-fbbd4fada0baff9272ded91a.mp3",
+      "size": 19244,
+      "sha256": "9c3175c12b83de7104ce96eb349b16692ef5681f19a1d46e301444b961208c8f"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-fc05a8a0d664b34a766a2157.mp3",
+      "size": 15500,
+      "sha256": "5e11473bb49a3e2acc5642ccc6d704236b35180e87e8988149ba1ea72683565d"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-fc2a6516681d6069f877d12a.mp3",
+      "size": 34940,
+      "sha256": "f40e02d02599f5196b8c25505aa46e3b3e23acaea776d0e27a5ac80938bfa55d"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-fc6b64cff9dd446df74477b8.mp3",
+      "size": 16796,
+      "sha256": "70b67918f12f261cc1df9e583f8aa098b84f2c3b1eef11f97ff639c81e8884ba"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-fc865847e1fcac2b6612d9ba.mp3",
+      "size": 29756,
+      "sha256": "8c8df79eba57e763b0186b82e42d1b30cf8c30b7370146b0717523423b6212c4"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-fce31011751507682133447f.mp3",
+      "size": 26156,
+      "sha256": "a63a77f7d1352353fc64a46c5e248a1ab90ac628d3dfe429a06d9556d00a7109"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-fd21512e3258432ccec04cd2.mp3",
+      "size": 41420,
+      "sha256": "caefe303562dbd13cb1137a5e23d39a01f2b2251bad69aab24ef124cea550f7a"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-fd60877bfe3a087e27cfcc4a.mp3",
+      "size": 34364,
+      "sha256": "67bb6f0811cbf4e59c77fcc405ddd95a1dbf76fe867e033b462f65d6a83e5688"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-fd70f811feeddbf07fd670b0.mp3",
+      "size": 29756,
+      "sha256": "7ab02941c026f48e5dc3aab1aa689b233ce7caf80b68b5fcdd0856c9340008f3"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-fd9ba18deebb0beca77767f5.mp3",
+      "size": 15500,
+      "sha256": "2fc517b437231c3ff4833f085bde549e94caf837189306b30ebfbbc9fdf5836b"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-fe5bd7cbc3f48d77dc638ddb.mp3",
+      "size": 14636,
+      "sha256": "de5da78429e4be188b5ff5e3c668ca90ce20a3253f8c5a9a4609b8fbd8ae6346"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-fe8e6e7e8a5176ffcf8450b6.mp3",
+      "size": 15212,
+      "sha256": "a41c0d8f1e4086a154473ee18b8e5a1a0a65e880204ea04daa4fee260d664ffb"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-ff63adca999b2082113ddaec.mp3",
+      "size": 15500,
+      "sha256": "d06524055e0cb2e2e404f711f3ead64cf5bf21efa2eb200114dccca0564b9e0a"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-ffe3f6541f54a54ccca74934.mp3",
+      "size": 15068,
+      "sha256": "8c99b3e84baef0806684cf783a80e24affde14968a73f8cd6284194d4f50ab94"
+    },
+    {
+      "path": "resources/app.asar.unpacked/dist/narration/clips/yaoyao-fff3e71ff51f63002fc752b2.mp3",
+      "size": 34940,
+      "sha256": "075f3cd3c4963243d021860778c1052fb37fbebbef7c34b2ac15608f6dcca6ea"
+    }
+  ]
+}
